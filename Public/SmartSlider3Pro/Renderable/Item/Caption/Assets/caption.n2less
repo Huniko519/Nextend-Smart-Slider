@@ -1,0 +1,39 @@
+(~'div#@{sliderid}') {
+  .n2-ss-item-caption {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .n2-ss-item-caption a {
+    display: block;
+  }
+
+  .n2-ss-item-caption img {
+    display: block;
+    width: 100%;
+  }
+
+  .n2-ss-item-caption-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .n2-ss-item-caption-content[data-verticalalign="flex-start"] {
+    justify-content: flex-start;
+  }
+
+  .n2-ss-item-caption-content[data-verticalalign="flex-end"] {
+    justify-content: flex-end;
+  }
+
+  .n2-ss-item-caption-content .n2-div-h4,
+  .n2-ss-item-caption-content p {
+    margin: 10px;
+  }
+}

@@ -1,0 +1,175 @@
+(~'div@{sliderid}') {
+  width: @width;
+
+  .n2-ss-slider-1 {
+    position: relative;
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+    overflow: hidden;
+
+    border: @border solid @borderrgba;
+    box-sizing: border-box;
+
+    border-radius: @borderRadius;
+
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: @backgroundSize;
+    background-attachment: @backgroundAttachment;
+    z-index: 1;
+  }
+
+  &.n2-ss-mobileLandscape,
+  &.n2-ss-mobilePortrait {
+    .n2-ss-slider-2 {
+      background-attachment: scroll;
+    }
+  }
+
+  .n-particles-js-canvas-el {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 12;
+  }
+
+  .n2-ss-slider-3 {
+    position: relative;
+    height: @height - @border * 2;
+    overflow: hidden;
+
+    z-index: 20;
+  }
+
+  .n2-ss-showcase-navigation {
+    cursor: pointer;
+    position: absolute;
+    z-index: 2;
+  }
+
+  &.n2-ss-showcase-horizontal .n2-ss-showcase-navigation-previous {
+    left: 0;
+    top: 0;
+    height: 100%;
+  }
+
+  html[dir="rtl"] &.n2-ss-showcase-horizontal .n2-ss-showcase-navigation-previous {
+    left: auto;
+    right: 0;
+  }
+
+  &.n2-ss-showcase-horizontal .n2-ss-showcase-navigation-next {
+    right: 0;
+    top: 0;
+    height: 100%;
+  }
+
+  html[dir="rtl"] &.n2-ss-showcase-horizontal .n2-ss-showcase-navigation-next {
+    right: auto;
+    left: 0;
+  }
+
+  &.n2-ss-showcase-vertical .n2-ss-showcase-navigation-previous {
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+
+  &.n2-ss-showcase-vertical .n2-ss-showcase-navigation-next {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .n2-ss-showcase-slides {
+    position: relative !important;
+    width: 100%;
+    height: 100%;
+    perspective-origin: 50% 50%;
+    perspective: @perspective;
+  }
+
+  .n2-ss-slide {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: @slideouterwidth;
+    height: @slideouterheight;
+    margin-right: @distanceh;
+    margin-bottom: @distancev;
+    outline: 1px solid rgba(0, 0, 0, 0);
+    border-radius: @slideBorderRadius;
+    border: @slideborderwidth solid @slidebordercolor;
+    box-sizing: border-box;
+  }
+
+  html[dir="rtl"] & .n2-ss-slide {
+    left: auto;
+    right: 0;
+    margin-right: 0;
+    margin-left: @distanceh;
+  }
+
+  /**
+   * Preserve3d is not available
+   */
+
+  .x-msie & .n2-ss-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  &.n2-ss-showcase-vertical .n2-ss-slide {
+    clear: left;
+  }
+
+  .n2-ss-slide-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 20;
+  }
+
+  .n2-ss-showcase-overlay {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2000000;
+    display: block;
+    background: url('data: image/gif;base64, R0lGODlhAQABAIAAAAAAAP ///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7');
+    background: rgba(0, 0, 0, 0.0);
+  }
+
+  .n2-ss-slide-active .n2-ss-showcase-overlay {
+    display: none;
+  }
+
+  .smart-slider-animate-in .n2-ss-showcase-overlay,
+  .smart-slider-animate-out .n2-ss-showcase-overlay {
+    display: block;
+  }
+
+  .n2-ss-slide-active {
+    z-index: 3;
+    display: block;
+  }
+
+  .ssPerspective() when (@hasPerspective = 1) {
+    .n2-ss-slide {
+      perspective: @perspective;
+    }
+  }
+  .ssPerspective();
+
+}

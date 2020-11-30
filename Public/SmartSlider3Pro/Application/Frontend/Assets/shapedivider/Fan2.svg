@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 155" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <polygon fill="#000000" opacity="0.3" duration="2" delay="0.1" points="1920 0 1920 0 960 130 0 0 0 0"></polygon>
+        <polygon fill="#000000" opacity="0.3" duration="2" delay="0.2" points="1920 0 1920 0 960 130 0 0 0 0"></polygon>
+        <polygon fill="#000000" opacity="0.3" duration="2" delay="0.3" points="1920 0 1920 0 960 130 0 0 0 0"></polygon>
+        <polygon fill="#000000" points="1920 -2 1920 5 960 130 0 5 0 -2"></polygon>
+    </g>
+    <g class="n2-ss-divider-end">
+        <polygon fill="#000000" opacity="0.3" points="1920 0 1920 155 960 130 0 155 0 0"></polygon>
+        <polygon fill="#000000" opacity="0.3" points="1920 0 1920 105 960 130 0 105 0 0"></polygon>
+        <polygon fill="#000000" opacity="0.3" points="1920 0 1920 55 960 130 0 55 0 0"></polygon>
+        <polygon fill="#000000" points="1920 -2 1920 5 960 130 0 5 0 -2"></polygon>
+    </g>
+</svg>

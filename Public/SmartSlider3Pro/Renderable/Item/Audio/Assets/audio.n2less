@@ -1,0 +1,94 @@
+(~'div#@{sliderid}') {
+  .n2-ss-item-audio-bar {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    height: 32px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .n2-ss-item-audio-bar svg {
+    display: block;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-play {
+    width: 32px;
+    cursor: pointer;
+  }
+
+  .n2-ss-item-audio-bar[data-state="playing"] .n2-ss-item-audio-play {
+    display: none;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-pause {
+    width: 32px;
+    cursor: pointer;
+  }
+
+  .n2-ss-item-audio-bar[data-state="paused"] .n2-ss-item-audio-pause {
+    display: none;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-progress-container {
+    flex: 1 1;
+    width: 200px;
+    padding: 4px 0;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-progress {
+    height: 6px;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-progress-playhead {
+    width: 0;
+    height: 100%;
+  }
+
+  .n2-ss-item-audio-time {
+    font: normal 12px "Lucida Console", Monaco, monospace;
+    margin-right: 10px;
+  }
+
+  .n2-ss-item-audio-time + .n2-ss-item-audio-unmute,
+  .n2-ss-item-audio-time + .n2-ss-item-audio-unmute + .n2-ss-item-audio-mute {
+    margin-left: -10px;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-mute {
+    width: 32px;
+    cursor: pointer;
+  }
+
+  .n2-ss-item-audio-bar[data-volume="0"] .n2-ss-item-audio-mute {
+    display: none
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-unmute {
+    width: 32px;
+    cursor: pointer;
+  }
+
+  .n2-ss-item-audio-bar:not([data-volume="0"]) .n2-ss-item-audio-unmute {
+    display: none
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-volume-container {
+    width: 60px;
+    padding: 4px 0;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-volume {
+    height: 6px;
+  }
+
+  .n2-ss-item-audio-bar .n2-ss-item-audio-volumehead {
+    width: 100%;
+    height: 100%;
+  }
+
+}

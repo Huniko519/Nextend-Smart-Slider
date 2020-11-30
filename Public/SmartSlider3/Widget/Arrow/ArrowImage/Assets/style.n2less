@@ -1,0 +1,97 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow {
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 0 !important;
+    z-index: 18;
+  }
+
+  .nextend-arrow img {
+    position: relative;
+    min-height: 0;
+    min-width: 0;
+    vertical-align: top;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    display: inline;
+  }
+
+  .nextend-arrow img.n2-arrow-hover-img {
+    display: none;
+  }
+
+  .nextend-arrow:HOVER img.n2-arrow-hover-img {
+    display: inline;
+  }
+
+  .nextend-arrow:HOVER img.n2-arrow-normal-img {
+    display: none;
+  }
+
+  .nextend-arrow-animated {
+    overflow: hidden;
+  }
+
+  .nextend-arrow-animated > div {
+    position: relative;
+  }
+
+  .nextend-arrow-animated .n2-active {
+    position: absolute;
+  }
+
+  .nextend-arrow-animated-fade {
+    transition: background 0.3s, opacity 0.4s;
+  }
+
+  .nextend-arrow-animated-horizontal > div {
+    transition: all 0.4s;
+    left: 0;
+  }
+
+  .nextend-arrow-animated-horizontal .n2-active {
+    top: 0;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div,
+  .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active {
+    left: -100%;
+  }
+
+  .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,
+  .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,
+  .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div {
+    left: 100%;
+  }
+
+  .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active,
+  .nextend-arrow.nextend-arrow-animated-horizontal:FOCUS .n2-active {
+    left: 0;
+  }
+
+  .nextend-arrow-animated-vertical > div {
+    transition: all 0.4s;
+    top: 0;
+  }
+
+  .nextend-arrow-animated-vertical .n2-active {
+    left: 0;
+  }
+
+  .nextend-arrow-animated-vertical .n2-active {
+    top: -100%;
+  }
+
+  .nextend-arrow-animated-vertical:HOVER > div,
+  .nextend-arrow-animated-vertical:FOCUS > div {
+    top: 100%;
+  }
+
+  .nextend-arrow-animated-vertical:HOVER .n2-active,
+  .nextend-arrow-animated-vertical:FOCUS .n2-active {
+    top: 0;
+  }
+}

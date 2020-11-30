@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 121" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <path fill='#000000' ease="easeOutQuad" duration="1"
+              d="M0,-2 L1920,-2 L1920,20 C1050,154,869,154,0,13 L0,-2Z"></path>
+    </g>
+    <g class="n2-ss-divider-end">
+        <path fill='#000000' d="M0,-2 L1920,-2 L1920,115 C1596,121,869,147,0,13 L0,-2Z"></path>
+    </g>
+</svg>

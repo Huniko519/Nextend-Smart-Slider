@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 110" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <path fill="#000010" duration="1" delay="0.2"
+              d="M1920,0 L1920,10 L960,10 C920,10,0,10,0,10 L0,-2 L1920,-2Z"></path>
+        <path fill="#000000" duration="1" d="M1920,0 L1920,10 L960,10 L0,10 L0,-2 L1920,-2Z"></path>
+    </g>
+    <g class="n2-ss-divider-end">
+        <path fill="#000010" d="M1920,0 L1920,110 C1920,110,1000,40,960,40 C920,40,0,110,0,110 L0,-2 L1920,-2Z"></path>
+        <path fill="#000000" d="M1920,0 L1920,80 C1920,80,1000,10,960,10 C920,10,0,80,0,80 L0,-2 L1920,-2Z"></path>
+    </g>
+</svg>

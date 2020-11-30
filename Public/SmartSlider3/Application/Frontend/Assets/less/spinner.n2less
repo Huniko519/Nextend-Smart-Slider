@@ -1,0 +1,56 @@
+(~'div@{sliderid}') {
+
+  .nextend-spinnerhidden {
+    position: absolute;
+    left: -10000px;
+  }
+
+  .nextend-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -15px;
+    z-index: 1000;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    font-size: 10px;
+    background-color: RGBA(0, 0, 0, 0.6);
+    border-radius: 3px;
+    padding: 10px 15px;
+  }
+
+  .nextend-spinner > div {
+    background-color: #f6f6f6;
+    height: 100%;
+    width: 6px;
+    display: inline-block;
+
+    animation: nextendstretchdelay 1.2s infinite ease-in-out;
+  }
+
+  .nextend-spinner .rect2 {
+    animation-delay: -1.1s;
+  }
+
+  .nextend-spinner .rect3 {
+    animation-delay: -1.0s;
+  }
+
+  .nextend-spinner .rect4 {
+    animation-delay: -0.9s;
+  }
+
+  .nextend-spinner .rect5 {
+    animation-delay: -0.8s;
+  }
+}
+
+@keyframes nextendstretchdelay {
+  0%, 40%, 100% {
+    transform: scaleY(0.4);
+  }
+  20% {
+    transform: scaleY(1.0);
+  }
+}

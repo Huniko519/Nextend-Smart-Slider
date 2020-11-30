@@ -1,0 +1,91 @@
+(~'div@{sliderid}') {
+  width: @width;
+  float: left;
+
+  html[dir="rtl"] & {
+    float: right;
+  }
+
+  .n2-ss-slider-1 {
+    height: @height;
+    box-sizing: border-box;
+    position: relative;
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: @backgroundSize;
+    background-attachment: @backgroundAttachment;
+  }
+
+  &.n2-ss-mobileLandscape,
+  &.n2-ss-mobilePortrait {
+    .n2-ss-slider-1 {
+      background-attachment: scroll;
+    }
+  }
+
+  .n2-ss-slider-background-video-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .n2-ss-slider-background-video {
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 10;
+  }
+
+  .n2-ss-slide-backgrounds,
+  .n-particles-js-canvas-el {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .n2-ss-slide-backgrounds {
+    z-index: 10;
+  }
+
+  .n-particles-js-canvas-el {
+    z-index: 12;
+  }
+
+  .n2-ss-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: @canvaswidth;
+    height: @canvasheight;
+    display: block;
+    -webkit-backface-visibility: hidden;
+    z-index: 20;
+  }
+
+  .n2-ss-layers-container {
+    position: relative;
+    width: @canvaswidth;
+    height: @canvasheight;
+  }
+
+  .ssPerspective() when (@hasPerspective = 1) {
+    .n2-ss-slide {
+      perspective: @perspective;
+    }
+
+    &[data-ie] .n2-ss-slide {
+      perspective: none;
+      transform: perspective(@perspective);
+    }
+  }
+  .ssPerspective();
+}

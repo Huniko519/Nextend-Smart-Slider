@@ -1,0 +1,63 @@
+(~'div#@{sliderid}') {
+  .n2-ss-highlighted-heading-wrapper {
+    line-height: 1.5;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .n2-ss-highlighted-heading-wrapper div {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .n2-ss-highlighted-heading-wrapper > div,
+  .n2-ss-highlighted-heading-wrapper > a {
+    vertical-align: baseline;
+    display: inline-block;
+  }
+
+  .n2-ss-highlighted-heading-before,
+  .n2-ss-highlighted-heading-after {
+    position: relative;
+    z-index: 2;
+  }
+
+  .n2-ss-highlighted-heading-highlighted {
+    position: relative;
+  }
+
+  .n2-ss-highlighted-heading-highlighted .n2-ss-highlighted-heading-highlighted-text {
+    position: relative;
+    z-index: 2;
+    padding: 0 10px;
+    text-decoration: inherit;
+  }
+
+  .n2-ss-highlighted-heading-highlighted[data-highlight=""] .n2-ss-highlighted-heading-highlighted-text {
+    padding: 0;
+  }
+
+  .n2-ss-highlighted-heading-highlighted > svg {
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 105%;
+    height: 120%;
+    transform: translate(-50%, -50%);
+    overflow: visible;
+  }
+
+  .n2-ss-highlighted-heading-highlighted[data-front="1"] > svg {
+    z-index: 3;
+  }
+
+  .n2-ss-highlighted-heading-highlighted svg path {
+    stroke: #61ce70;
+    stroke-width: 9px;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}

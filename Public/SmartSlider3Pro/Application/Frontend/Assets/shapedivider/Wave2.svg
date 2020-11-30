@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 400" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <path fill='#000000'
+              d="M0,400 C63,48,385,39,553,20 C768,-5,1100,0,1424,0 C1664,0,1920,0,1920,0 L1920,-4 L0,-4 L0,400Z"
+              ease="easeInOutSine" duration="5"></path>
+    </g>
+    <g class="n2-ss-divider-end">
+        <path fill='#000000'
+              d="M0,400 C63,48,361,20,553,20 C922,20,1100,226,1424,226 C1664,226,1920,108,1920,108 L1920,-4 L0,-4 L0,400Z"></path>
+    </g>
+</svg>

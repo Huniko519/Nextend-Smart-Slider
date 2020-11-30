@@ -1,0 +1,28 @@
+(~'div#@{sliderid}') {
+  .nextend-autoplay {
+    cursor: pointer;
+    z-index: 16;
+    line-height: 1;
+  }
+
+  .nextend-autoplay img {
+    vertical-align: top;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+  }
+
+  .nextend-autoplay .nextend-autoplay-play {
+    display: none;
+  }
+
+  .nextend-autoplay.n2-autoplay-paused .nextend-autoplay-play {
+    display: block;
+  }
+
+  .nextend-autoplay.n2-autoplay-paused .nextend-autoplay-pause {
+    display: none;
+  }
+}

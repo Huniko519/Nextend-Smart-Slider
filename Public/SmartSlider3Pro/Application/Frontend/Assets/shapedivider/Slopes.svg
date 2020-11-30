@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 120" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <path fill="#000000" opacity="0.25" d="M1920,0,0,0,0,0z" duration="1" delay="0"></path>
+        <path fill="#000000" opacity="0.5" d="M1920,0,0,0,0,0z" duration="1" delay="0.2"></path>
+        <path fill="#000000" d="M1920,-2,1920,0,0,0,0,-2z" duration="1" delay="0.4"></path>
+    </g>
+    <g class="n2-ss-divider-end">
+        <path fill="#000000" opacity="0.25" d="M1920,0,0,120,0,0z"></path>
+        <path fill="#000000" opacity="0.5" d="M1920,0,0,80,0,0z"></path>
+        <path fill="#000000" d="M1920,-2,1920,0,0,40,0,-2z"></path>
+    </g>
+</svg>

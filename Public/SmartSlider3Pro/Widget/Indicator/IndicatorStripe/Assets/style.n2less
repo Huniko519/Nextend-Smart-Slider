@@ -1,0 +1,7 @@
+(~'div#@{sliderid}') {
+  .nextend-indicator-stripe {
+    width: 100%;
+    overflow: hidden;
+    z-index: 14;
+  }
+}

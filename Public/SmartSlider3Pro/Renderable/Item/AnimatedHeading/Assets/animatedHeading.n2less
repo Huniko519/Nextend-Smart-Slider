@@ -1,0 +1,67 @@
+(~'div#@{sliderid}') {
+  .n2-ss-animated-heading-wrapper {
+    position: relative;
+    line-height: 1.5;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .n2-ss-animated-heading-wrapper div {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .n2-ss-animated-heading-wrapper > div,
+  .n2-ss-animated-heading-wrapper > a {
+    vertical-align: middle;
+    display: inline-block;
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-i {
+    position: relative;
+    min-width: 0.6em;
+  }
+
+  .n2-ss-animated-heading-i * {
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-i2 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    white-space: nowrap;
+  }
+
+  .n2-ss-animated-heading-i2::after {
+    content: "\a0";
+    display: inline-block;
+  }
+
+  .n2-ss-animated-heading-i-text {
+    position: absolute;
+    left: 0;
+    top: 0;
+    white-space: nowrap;
+    text-decoration: inherit;
+  }
+
+  .n2-ss-animated-heading-i-text.n2-ss-animated-heading-measure-width * {
+    display: inline-block !important;
+  }
+
+  .n2-ss-animated-heading-i-cursor {
+    background: #fff;
+    display: inline-block;
+    height: 100%;
+    width: 2px;
+    margin-left: -2px;
+    transform: translateX(3px);
+  }
+
+  .n2-ss-animated-heading-i-selection .n2-ss-animated-heading-i-cursor {
+    visibility: hidden;
+  }
+}

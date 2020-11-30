@@ -1,0 +1,18 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-text {
+    cursor: pointer;
+    z-index: 18;
+    padding: 5px 10px;
+    transition: all 0.4s ease-out;
+  }
+
+  .nextend-arrow-text-next-text-rounded,
+  .nextend-arrow-text-previous-text-rounded {
+    border-radius: 3px;
+  }
+
+  .nextend-arrow-text span {
+    color: white;
+    text-shadow: 0 1px 1px RGBA(0, 0, 0, .2);
+  }
+}

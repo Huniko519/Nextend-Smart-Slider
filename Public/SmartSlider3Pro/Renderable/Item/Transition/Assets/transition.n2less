@@ -1,0 +1,21 @@
+(~'div#@{sliderid}') {
+  .n2-ss-item-transition {
+    position: relative;
+  }
+
+  .n2-ss-item-transition a {
+    display: block;
+  }
+
+  .n2-ss-item-transition img {
+    display: block;
+    width: 100%;
+    will-change: opacity;
+  }
+
+  .n2-ss-item-transition .n2-ss-item-transition-image2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}

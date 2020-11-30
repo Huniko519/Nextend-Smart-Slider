@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 100" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <polygon fill='#000000' opacity="0.2" points="1040 0 1920 0 1920 0" ease="easeOutCubic" duration="1"
+                 delay="0.2"></polygon>
+        <polygon fill='#000000' points="0 0 1040 0 1920 0 1920 -2 0 -2" ease="easeOutCubic" duration="1"></polygon>
+    </g>
+    <g class="n2-ss-divider-end">
+        <polygon fill='#000000' opacity="0.2" points="1040 2 1920 100 1920 2"></polygon>
+        <polygon fill='#000000' points="0 94 1040 2 1920 38 1920 -2 0 -2"></polygon>
+    </g>
+</svg>

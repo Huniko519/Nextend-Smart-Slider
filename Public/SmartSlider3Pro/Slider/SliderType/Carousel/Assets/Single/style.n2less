@@ -1,0 +1,108 @@
+(~'div@{sliderid}') {
+  width: @width;
+  margin: @margin;
+
+  .n2-ss-slider-1 {
+    position: relative;
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+
+    overflow: hidden;
+    border: @border solid @borderrgba;
+    border-radius: @borderRadius;
+
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: @backgroundSize;
+    background-attachment: @backgroundAttachment;
+    background-color: @backgroundrgba;
+    z-index: 1;
+  }
+
+  &.n2-ss-mobileLandscape,
+  &.n2-ss-mobilePortrait {
+    .n2-ss-slider-2 {
+      background-attachment: scroll;
+    }
+  }
+
+  .n-particles-js-canvas-el {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 12;
+  }
+
+  .n2-ss-slider-3 {
+    position: relative;
+    height: @inner1height;
+    overflow: hidden;
+    z-index: 20;
+  }
+
+  .n2-ss-slider-pane-single {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .n2-ss-slider-pipeline {
+    display: flex;
+    height: 100%;
+    width: 100000%;
+    position: relative !important;
+    transform-style: preserve-3d;
+  }
+
+  .x-msie & .n2-ss-slider-pipeline {
+    perspective: @perspective;
+    backface-visibility: visible;
+    transform-origin: 50% 50% 0;
+  }
+
+  .n2-ss-slide {
+    z-index: 1;
+    position: relative;
+    width: @slideouterwidth;
+    height: @slideouterheight;
+    display: block;
+
+    border-radius: @slideBorderRadius;
+    background-clip: padding-box;
+
+    background-color: @slideBackgroundrgba;
+
+    border: @slideborderwidth solid @slidebordercolor;
+    box-sizing: border-box;
+  }
+
+  .n2-ss-layers-container {
+    position: relative;
+  }
+
+  .ssPerspective() when (@hasPerspective = 1) {
+    .n2-ss-slide {
+      perspective: @perspective;
+    }
+
+    &[data-ie] .n2-ss-slide {
+      perspective: none;
+      transform: perspective(@perspective);
+    }
+  }
+  .ssPerspective();
+
+  .n2-ss-slide-active {
+    z-index: 3;
+  }
+
+  .n2-ss-layer {
+    -webkit-backface-visibility: hidden;
+  }
+
+}

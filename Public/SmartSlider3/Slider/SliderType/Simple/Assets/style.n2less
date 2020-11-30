@@ -1,0 +1,114 @@
+(~'div@{sliderid}') {
+  width: @width;
+
+  .n2-ss-slider-1 {
+    position: relative;
+  }
+
+  .n2-ss-slider-background-video-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .n2-ss-slider-background-video {
+
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+
+    overflow: hidden;
+    padding: @paddingt @paddingr @paddingb @paddingl;
+    height: @inner1height;
+    border: @border solid @borderrgba;
+
+    border-radius: @borderRadius;
+    background-clip: padding-box;
+
+    background-repeat: repeat;
+    background-position: 50% 50%;
+    background-size: @backgroundSize;
+    background-attachment: @backgroundAttachment;
+    z-index: 1;
+  }
+
+  &.n2-ss-mobileLandscape,
+  &.n2-ss-mobilePortrait {
+    .n2-ss-slider-2 {
+      background-attachment: scroll;
+    }
+  }
+
+  .n2-ss-slider-3 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    outline: 1px solid rgba(0, 0, 0, 0);
+    z-index: 10;
+  }
+
+  .n2-ss-slide-backgrounds,
+  .n2-ss-slider-3 > .n-particles-js-canvas-el,
+  .n2-ss-slider-3 > .n2-ss-divider {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .n2-ss-slide-backgrounds {
+    z-index: 10;
+  }
+
+  .n2-ss-slider-3 > .n-particles-js-canvas-el {
+    z-index: 12;
+  }
+
+  .n2-ss-slide-backgrounds > * {
+    overflow: hidden;
+  }
+
+  .n2-ss-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 20;
+    display: block;
+    -webkit-backface-visibility: hidden;
+  }
+
+  .n2-ss-layers-container {
+    position: relative;
+    width: @canvaswidth;
+    height: @canvasheight;
+  }
+
+  .n2-ss-parallax-clip > .n2-ss-layers-container {
+    position: absolute;
+    right: 0;
+  }
+
+  .ssPerspective() when (@hasPerspective = 1) {
+    .n2-ss-slide {
+      perspective: @perspective;
+    }
+
+    &[data-ie] .n2-ss-slide {
+      perspective: none;
+      transform: perspective(@perspective);
+    }
+  }
+  .ssPerspective();
+
+  .n2-ss-slide-active {
+    z-index: 21;
+  }
+}

@@ -1,0 +1,75 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-reveal {
+    cursor: pointer;
+    z-index: 20;
+    position: relative;
+    height: 115px;
+    width: 32px;
+    background-color: @arrowBackgroundRGBA;
+  }
+
+  .nextend-arrow-reveal.n2-ss-arrow-animation-slide {
+    overflow: hidden;
+  }
+
+  .nextend-arrow-reveal .nextend-arrow-arrow {
+    width: 32px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .nextend-arrow-reveal.nextend-arrow-next .nextend-arrow-arrow {
+    float: right;
+  }
+
+  .nextend-arrow-image {
+    width: 168px;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    outline: 0 solid RGBA(0, 0, 0, 0);
+  }
+
+  .n2-ss-arrow-animation-fade .nextend-arrow-image,
+  .n2-ss-arrow-animation-turn .nextend-arrow-image {
+    left: 32px;
+  }
+
+  .n2-ss-arrow-animation-turn .nextend-arrow-image {
+    transform: rotateY(90deg);
+    transform-origin: top left;
+  }
+
+  .nextend-arrow-next .nextend-arrow-image {
+    left: auto;
+    right: 0;
+  }
+
+  .nextend-arrow-next.n2-ss-arrow-animation-fade .nextend-arrow-image,
+  .nextend-arrow-next.n2-ss-arrow-animation-turn .nextend-arrow-image {
+    right: 32px;
+  }
+
+  .nextend-arrow-next.n2-ss-arrow-animation-turn .nextend-arrow-image {
+    transform: rotateY(-90deg);
+    transform-origin: top right;
+  }
+
+  .nextend-arrow-reveal .nextend-arrow-title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 5px 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: @titleBackgroundRGBA;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    word-wrap: normal;
+  }
+}

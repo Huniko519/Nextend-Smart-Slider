@@ -1,0 +1,1973 @@
+{
+  "id": "icomoon",
+  "label": "Icomoon",
+  "class": "nicomoon",
+  "isLigature": 0,
+  "prefix": "nicomoon-",
+  "data": {
+    "home": {
+      "name": "home",
+      "kw": "home, house"
+    },
+    "home2": {
+      "name": "home2",
+      "kw": "home2, house2"
+    },
+    "home3": {
+      "name": "home3",
+      "kw": "home3, house3"
+    },
+    "office": {
+      "name": "office",
+      "kw": "office, buildings"
+    },
+    "newspaper": {
+      "name": "newspaper",
+      "kw": "newspaper, news"
+    },
+    "pencil": {
+      "name": "pencil",
+      "kw": "pencil, write"
+    },
+    "pencil2": {
+      "name": "pencil2",
+      "kw": "pencil2, write2"
+    },
+    "quill": {
+      "name": "quill",
+      "kw": "quill, feather"
+    },
+    "pen": {
+      "name": "pen",
+      "kw": "pen, write3"
+    },
+    "blog": {
+      "name": "blog",
+      "kw": "blog, pen2"
+    },
+    "eyedropper": {
+      "name": "eyedropper",
+      "kw": "eyedropper, color"
+    },
+    "droplet": {
+      "name": "droplet",
+      "kw": "droplet, color2"
+    },
+    "paint-format": {
+      "name": "paint-format",
+      "kw": "paint-format, format"
+    },
+    "image": {
+      "name": "image",
+      "kw": "image, picture"
+    },
+    "images": {
+      "name": "images",
+      "kw": "images, pictures"
+    },
+    "camera": {
+      "name": "camera",
+      "kw": "camera, photo"
+    },
+    "headphones": {
+      "name": "headphones",
+      "kw": "headphones, headset"
+    },
+    "music": {
+      "name": "music",
+      "kw": "music, song"
+    },
+    "play": {
+      "name": "play",
+      "kw": "play, video"
+    },
+    "film": {
+      "name": "film",
+      "kw": "film, video2"
+    },
+    "video-camera": {
+      "name": "video-camera",
+      "kw": "video-camera, video3"
+    },
+    "dice": {
+      "name": "dice",
+      "kw": "dice, game"
+    },
+    "pacman": {
+      "name": "pacman",
+      "kw": "pacman, game2"
+    },
+    "spades": {
+      "name": "spades",
+      "kw": "spades, cards"
+    },
+    "clubs": {
+      "name": "clubs",
+      "kw": "clubs, cards2"
+    },
+    "diamonds": {
+      "name": "diamonds",
+      "kw": "diamonds, cards3"
+    },
+    "bullhorn": {
+      "name": "bullhorn",
+      "kw": "bullhorn, megaphone"
+    },
+    "connection": {
+      "name": "connection",
+      "kw": "connection, wifi"
+    },
+    "podcast": {
+      "name": "podcast",
+      "kw": "podcast, broadcast"
+    },
+    "feed": {
+      "name": "feed",
+      "kw": "feed, wave"
+    },
+    "mic": {
+      "name": "mic",
+      "kw": "mic, microphone"
+    },
+    "book": {
+      "name": "book",
+      "kw": "book, read"
+    },
+    "books": {
+      "name": "books",
+      "kw": "books, library"
+    },
+    "library": {
+      "name": "library",
+      "kw": "library2, bank"
+    },
+    "file-text": {
+      "name": "file-text",
+      "kw": "file-text, file"
+    },
+    "profile": {
+      "name": "profile",
+      "kw": "profile, file2"
+    },
+    "file-empty": {
+      "name": "file-empty",
+      "kw": "file-empty, file3"
+    },
+    "files-empty": {
+      "name": "files-empty",
+      "kw": "files-empty, files"
+    },
+    "file-text2": {
+      "name": "file-text2",
+      "kw": "file-text2, file4"
+    },
+    "file-picture": {
+      "name": "file-picture",
+      "kw": "file-picture, file5"
+    },
+    "file-music": {
+      "name": "file-music",
+      "kw": "file-music, file6"
+    },
+    "file-play": {
+      "name": "file-play",
+      "kw": "file-play, file7"
+    },
+    "file-video": {
+      "name": "file-video",
+      "kw": "file-video, file8"
+    },
+    "file-zip": {
+      "name": "file-zip",
+      "kw": "file-zip, file9"
+    },
+    "copy": {
+      "name": "copy",
+      "kw": "copy, duplicate"
+    },
+    "paste": {
+      "name": "paste",
+      "kw": "paste, clipboard-file"
+    },
+    "stack": {
+      "name": "stack",
+      "kw": "stack, layers"
+    },
+    "folder": {
+      "name": "folder",
+      "kw": "folder, directory"
+    },
+    "folder-open": {
+      "name": "folder-open",
+      "kw": "folder-open, directory2"
+    },
+    "folder-plus": {
+      "name": "folder-plus",
+      "kw": "folder-plus, directory3"
+    },
+    "folder-minus": {
+      "name": "folder-minus",
+      "kw": "folder-minus, directory4"
+    },
+    "folder-download": {
+      "name": "folder-download",
+      "kw": "folder-download, directory5"
+    },
+    "folder-upload": {
+      "name": "folder-upload",
+      "kw": "folder-upload, directory6"
+    },
+    "price-tag": {
+      "name": "price-tag",
+      "kw": "price-tag"
+    },
+    "price-tags": {
+      "name": "price-tags",
+      "kw": "price-tags"
+    },
+    "barcode": {
+      "name": "barcode",
+      "kw": "barcode"
+    },
+    "qrcode": {
+      "name": "qrcode",
+      "kw": "qrcode"
+    },
+    "ticket": {
+      "name": "ticket",
+      "kw": "ticket, theater"
+    },
+    "cart": {
+      "name": "cart",
+      "kw": "cart, purchase"
+    },
+    "coin-dollar": {
+      "name": "coin-dollar",
+      "kw": "coin-dollar, money"
+    },
+    "coin-euro": {
+      "name": "coin-euro",
+      "kw": "coin-euro, money2"
+    },
+    "coin-pound": {
+      "name": "coin-pound",
+      "kw": "coin-pound, money3"
+    },
+    "coin-yen": {
+      "name": "coin-yen",
+      "kw": "coin-yen, money4"
+    },
+    "credit-card": {
+      "name": "credit-card",
+      "kw": "credit-card, money5"
+    },
+    "calculator": {
+      "name": "calculator",
+      "kw": "calculator, compute"
+    },
+    "lifebuoy": {
+      "name": "lifebuoy",
+      "kw": "lifebuoy, support"
+    },
+    "phone": {
+      "name": "phone",
+      "kw": "phone, telephone"
+    },
+    "phone-hang-up": {
+      "name": "phone-hang-up",
+      "kw": "phone-hang-up, telephone2"
+    },
+    "address-book": {
+      "name": "address-book",
+      "kw": "address-book, contact"
+    },
+    "envelop": {
+      "name": "envelop",
+      "kw": "envelop, mail"
+    },
+    "pushpin": {
+      "name": "pushpin",
+      "kw": "pushpin, pin"
+    },
+    "location": {
+      "name": "location",
+      "kw": "location, map-marker"
+    },
+    "location2": {
+      "name": "location2",
+      "kw": "location2, map-marker2"
+    },
+    "compass": {
+      "name": "compass",
+      "kw": "compass, direction"
+    },
+    "compass2": {
+      "name": "compass2",
+      "kw": "compass2, direction2"
+    },
+    "map": {
+      "name": "map",
+      "kw": "map, guide"
+    },
+    "map2": {
+      "name": "map2",
+      "kw": "map2, guide2"
+    },
+    "history": {
+      "name": "history",
+      "kw": "history, time"
+    },
+    "clock": {
+      "name": "clock",
+      "kw": "clock, time2"
+    },
+    "clock2": {
+      "name": "clock2",
+      "kw": "clock2, time3"
+    },
+    "alarm": {
+      "name": "alarm",
+      "kw": "alarm, time4"
+    },
+    "bell": {
+      "name": "bell",
+      "kw": "bell, alarm2"
+    },
+    "stopwatch": {
+      "name": "stopwatch",
+      "kw": "stopwatch, time5"
+    },
+    "calendar": {
+      "name": "calendar",
+      "kw": "calendar, date"
+    },
+    "printer": {
+      "name": "printer",
+      "kw": "printer, print"
+    },
+    "keyboard": {
+      "name": "keyboard",
+      "kw": "keyboard, typing"
+    },
+    "display": {
+      "name": "display",
+      "kw": "display, screen"
+    },
+    "laptop": {
+      "name": "laptop",
+      "kw": "laptop, computer"
+    },
+    "mobile": {
+      "name": "mobile",
+      "kw": "mobile, cell-phone"
+    },
+    "mobile2": {
+      "name": "mobile2",
+      "kw": "mobile2, cell-phone2"
+    },
+    "tablet": {
+      "name": "tablet",
+      "kw": "tablet, mobile3"
+    },
+    "tv": {
+      "name": "tv",
+      "kw": "tv, television"
+    },
+    "drawer": {
+      "name": "drawer",
+      "kw": "drawer, box"
+    },
+    "drawer2": {
+      "name": "drawer2",
+      "kw": "drawer2, box2"
+    },
+    "box-add": {
+      "name": "box-add",
+      "kw": "box-add, box3"
+    },
+    "box-remove": {
+      "name": "box-remove",
+      "kw": "box-remove, box4"
+    },
+    "download": {
+      "name": "download",
+      "kw": "download, save"
+    },
+    "upload": {
+      "name": "upload",
+      "kw": "upload, load"
+    },
+    "floppy-disk": {
+      "name": "floppy-disk",
+      "kw": "floppy-disk, save2"
+    },
+    "drive": {
+      "name": "drive",
+      "kw": "drive, save3"
+    },
+    "database": {
+      "name": "database",
+      "kw": "database, db"
+    },
+    "undo": {
+      "name": "undo",
+      "kw": "undo, ccw"
+    },
+    "redo": {
+      "name": "redo",
+      "kw": "redo, cw"
+    },
+    "undo2": {
+      "name": "undo2",
+      "kw": "undo2, left"
+    },
+    "redo2": {
+      "name": "redo2",
+      "kw": "redo2, right"
+    },
+    "forward": {
+      "name": "forward",
+      "kw": "forward, right2"
+    },
+    "reply": {
+      "name": "reply",
+      "kw": "reply, left2"
+    },
+    "bubble": {
+      "name": "bubble",
+      "kw": "bubble, comment"
+    },
+    "bubbles": {
+      "name": "bubbles",
+      "kw": "bubbles, comments"
+    },
+    "bubbles2": {
+      "name": "bubbles2",
+      "kw": "bubbles2, comments2"
+    },
+    "bubble2": {
+      "name": "bubble2",
+      "kw": "bubble2, comment2"
+    },
+    "bubbles3": {
+      "name": "bubbles3",
+      "kw": "bubbles3, comments3"
+    },
+    "bubbles4": {
+      "name": "bubbles4",
+      "kw": "bubbles4, comments4"
+    },
+    "user": {
+      "name": "user",
+      "kw": "user, profile2"
+    },
+    "users": {
+      "name": "users",
+      "kw": "users, group"
+    },
+    "user-plus": {
+      "name": "user-plus",
+      "kw": "user-plus, user2"
+    },
+    "user-minus": {
+      "name": "user-minus",
+      "kw": "user-minus, user3"
+    },
+    "user-check": {
+      "name": "user-check",
+      "kw": "user-check, user4"
+    },
+    "user-tie": {
+      "name": "user-tie",
+      "kw": "user-tie, user5"
+    },
+    "quotes-left": {
+      "name": "quotes-left",
+      "kw": "quotes-left, ldquo"
+    },
+    "quotes-right": {
+      "name": "quotes-right",
+      "kw": "quotes-right, rdquo"
+    },
+    "hour-glass": {
+      "name": "hour-glass",
+      "kw": "hour-glass, loading"
+    },
+    "spinner": {
+      "name": "spinner",
+      "kw": "spinner, loading2"
+    },
+    "spinner2": {
+      "name": "spinner2",
+      "kw": "spinner2, loading3"
+    },
+    "spinner3": {
+      "name": "spinner3",
+      "kw": "spinner3, loading4"
+    },
+    "spinner4": {
+      "name": "spinner4",
+      "kw": "spinner4, loading5"
+    },
+    "spinner5": {
+      "name": "spinner5",
+      "kw": "spinner5, loading6"
+    },
+    "spinner6": {
+      "name": "spinner6",
+      "kw": "spinner6, loading7"
+    },
+    "spinner7": {
+      "name": "spinner7",
+      "kw": "spinner7, loading8"
+    },
+    "spinner8": {
+      "name": "spinner8",
+      "kw": "spinner8, loading9"
+    },
+    "spinner9": {
+      "name": "spinner9",
+      "kw": "spinner9, loading10"
+    },
+    "spinner10": {
+      "name": "spinner10",
+      "kw": "spinner10, loading11"
+    },
+    "spinner11": {
+      "name": "spinner11",
+      "kw": "spinner11, loading12"
+    },
+    "binoculars": {
+      "name": "binoculars",
+      "kw": "binoculars, lookup"
+    },
+    "search": {
+      "name": "search",
+      "kw": "search, magnifier"
+    },
+    "zoom-in": {
+      "name": "zoom-in",
+      "kw": "zoom-in, magnifier2"
+    },
+    "zoom-out": {
+      "name": "zoom-out",
+      "kw": "zoom-out, magnifier3"
+    },
+    "enlarge": {
+      "name": "enlarge",
+      "kw": "enlarge, expand"
+    },
+    "shrink": {
+      "name": "shrink",
+      "kw": "shrink, collapse"
+    },
+    "enlarge2": {
+      "name": "enlarge2",
+      "kw": "enlarge2, expand2"
+    },
+    "shrink2": {
+      "name": "shrink2",
+      "kw": "shrink2, collapse2"
+    },
+    "key": {
+      "name": "key",
+      "kw": "key, password"
+    },
+    "key2": {
+      "name": "key2",
+      "kw": "key2, password2"
+    },
+    "lock": {
+      "name": "lock",
+      "kw": "lock, secure"
+    },
+    "unlocked": {
+      "name": "unlocked",
+      "kw": "unlocked, lock-open"
+    },
+    "wrench": {
+      "name": "wrench",
+      "kw": "wrench, tool"
+    },
+    "equalizer": {
+      "name": "equalizer",
+      "kw": "equalizer, sliders"
+    },
+    "equalizer2": {
+      "name": "equalizer2",
+      "kw": "equalizer2, sliders2"
+    },
+    "cog": {
+      "name": "cog",
+      "kw": "cog, gear"
+    },
+    "cogs": {
+      "name": "cogs",
+      "kw": "cogs, gears"
+    },
+    "hammer": {
+      "name": "hammer",
+      "kw": "hammer, tool2"
+    },
+    "magic-wand": {
+      "name": "magic-wand",
+      "kw": "magic-wand, wizard"
+    },
+    "aid-kit": {
+      "name": "aid-kit",
+      "kw": "aid-kit, health"
+    },
+    "bug": {
+      "name": "bug",
+      "kw": "bug, virus"
+    },
+    "pie-chart": {
+      "name": "pie-chart",
+      "kw": "pie-chart, stats"
+    },
+    "stats-dots": {
+      "name": "stats-dots",
+      "kw": "stats-dots, stats2"
+    },
+    "stats-bars": {
+      "name": "stats-bars",
+      "kw": "stats-bars, stats3"
+    },
+    "stats-bars2": {
+      "name": "stats-bars2",
+      "kw": "stats-bars2, stats4"
+    },
+    "trophy": {
+      "name": "trophy",
+      "kw": "trophy, cup"
+    },
+    "gift": {
+      "name": "gift",
+      "kw": "gift, present"
+    },
+    "glass": {
+      "name": "glass",
+      "kw": "glass, drink"
+    },
+    "glass2": {
+      "name": "glass2",
+      "kw": "glass2, drink2"
+    },
+    "mug": {
+      "name": "mug",
+      "kw": "mug, drink3"
+    },
+    "spoon-knife": {
+      "name": "spoon-knife",
+      "kw": "spoon-knife, food"
+    },
+    "leaf": {
+      "name": "leaf",
+      "kw": "leaf, nature"
+    },
+    "rocket": {
+      "name": "rocket",
+      "kw": "rocket, jet"
+    },
+    "meter": {
+      "name": "meter",
+      "kw": "meter, gauge"
+    },
+    "meter2": {
+      "name": "meter2",
+      "kw": "meter2, gauge2"
+    },
+    "hammer2": {
+      "name": "hammer2",
+      "kw": "hammer2, gavel"
+    },
+    "fire": {
+      "name": "fire",
+      "kw": "fire, flame"
+    },
+    "lab": {
+      "name": "lab",
+      "kw": "lab, beta"
+    },
+    "magnet": {
+      "name": "magnet",
+      "kw": "magnet, attract"
+    },
+    "bin": {
+      "name": "bin",
+      "kw": "bin, trashcan"
+    },
+    "bin2": {
+      "name": "bin2",
+      "kw": "bin2, trashcan2"
+    },
+    "briefcase": {
+      "name": "briefcase",
+      "kw": "briefcase, portfolio"
+    },
+    "airplane": {
+      "name": "airplane",
+      "kw": "airplane, travel"
+    },
+    "truck": {
+      "name": "truck",
+      "kw": "truck, transit"
+    },
+    "road": {
+      "name": "road",
+      "kw": "road, asphalt"
+    },
+    "accessibility": {
+      "name": "accessibility",
+      "kw": "accessibility"
+    },
+    "target": {
+      "name": "target",
+      "kw": "target, goal"
+    },
+    "shield": {
+      "name": "shield",
+      "kw": "shield, security"
+    },
+    "power": {
+      "name": "power",
+      "kw": "power, lightning"
+    },
+    "switch": {
+      "name": "switch",
+      "kw": "switch"
+    },
+    "power-cord": {
+      "name": "power-cord",
+      "kw": "power-cord, plugin"
+    },
+    "clipboard": {
+      "name": "clipboard",
+      "kw": "clipboard, board"
+    },
+    "list-numbered": {
+      "name": "list-numbered",
+      "kw": "list-numbered, options"
+    },
+    "list": {
+      "name": "list",
+      "kw": "list, todo"
+    },
+    "list2": {
+      "name": "list2",
+      "kw": "list2, todo2"
+    },
+    "tree": {
+      "name": "tree",
+      "kw": "tree, branches"
+    },
+    "menu": {
+      "name": "menu",
+      "kw": "menu, list3"
+    },
+    "menu2": {
+      "name": "menu2",
+      "kw": "menu2, options2"
+    },
+    "menu3": {
+      "name": "menu3",
+      "kw": "menu3, options3"
+    },
+    "menu4": {
+      "name": "menu4",
+      "kw": "menu4, options4"
+    },
+    "cloud": {
+      "name": "cloud",
+      "kw": "cloud, weather"
+    },
+    "cloud-download": {
+      "name": "cloud-download",
+      "kw": "cloud-download, cloud2"
+    },
+    "cloud-upload": {
+      "name": "cloud-upload",
+      "kw": "cloud-upload, cloud3"
+    },
+    "cloud-check": {
+      "name": "cloud-check",
+      "kw": "cloud-check, cloud4"
+    },
+    "download2": {
+      "name": "download2",
+      "kw": "download2, save4"
+    },
+    "upload2": {
+      "name": "upload2",
+      "kw": "upload2, load2"
+    },
+    "download3": {
+      "name": "download3",
+      "kw": "download3, save5"
+    },
+    "upload3": {
+      "name": "upload3",
+      "kw": "upload3, load3"
+    },
+    "sphere": {
+      "name": "sphere",
+      "kw": "sphere, globe"
+    },
+    "earth": {
+      "name": "earth",
+      "kw": "earth, globe2"
+    },
+    "link": {
+      "name": "link",
+      "kw": "link, chain"
+    },
+    "flag": {
+      "name": "flag",
+      "kw": "flag, report"
+    },
+    "attachment": {
+      "name": "attachment",
+      "kw": "attachment, paperclip"
+    },
+    "eye": {
+      "name": "eye",
+      "kw": "eye, views"
+    },
+    "eye-plus": {
+      "name": "eye-plus",
+      "kw": "eye-plus, views2"
+    },
+    "eye-minus": {
+      "name": "eye-minus",
+      "kw": "eye-minus, views3"
+    },
+    "eye-blocked": {
+      "name": "eye-blocked",
+      "kw": "eye-blocked, views4"
+    },
+    "bookmark": {
+      "name": "bookmark",
+      "kw": "bookmark, ribbon"
+    },
+    "bookmarks": {
+      "name": "bookmarks",
+      "kw": "bookmarks, ribbons"
+    },
+    "sun": {
+      "name": "sun",
+      "kw": "sun, weather2"
+    },
+    "contrast": {
+      "name": "contrast",
+      "kw": "contrast"
+    },
+    "brightness-contrast": {
+      "name": "brightness-contrast",
+      "kw": "brightness-contrast"
+    },
+    "star-empty": {
+      "name": "star-empty",
+      "kw": "star-empty, rate"
+    },
+    "star-half": {
+      "name": "star-half",
+      "kw": "star-half, rate2"
+    },
+    "star-full": {
+      "name": "star-full",
+      "kw": "star-full, rate3"
+    },
+    "heart": {
+      "name": "heart",
+      "kw": "heart, like"
+    },
+    "heart-broken": {
+      "name": "heart-broken",
+      "kw": "heart-broken, heart2"
+    },
+    "man": {
+      "name": "man",
+      "kw": "man, male"
+    },
+    "woman": {
+      "name": "woman",
+      "kw": "woman, female"
+    },
+    "man-woman": {
+      "name": "man-woman",
+      "kw": "man-woman, toilet"
+    },
+    "happy": {
+      "name": "happy",
+      "kw": "happy, emoticon"
+    },
+    "happy2": {
+      "name": "happy2",
+      "kw": "happy2, emoticon2"
+    },
+    "smile": {
+      "name": "smile",
+      "kw": "smile, emoticon3"
+    },
+    "smile2": {
+      "name": "smile2",
+      "kw": "smile2, emoticon4"
+    },
+    "tongue": {
+      "name": "tongue",
+      "kw": "tongue, emoticon5"
+    },
+    "tongue2": {
+      "name": "tongue2",
+      "kw": "tongue2, emoticon6"
+    },
+    "sad": {
+      "name": "sad",
+      "kw": "sad, emoticon7"
+    },
+    "sad2": {
+      "name": "sad2",
+      "kw": "sad2, emoticon8"
+    },
+    "wink": {
+      "name": "wink",
+      "kw": "wink, emoticon9"
+    },
+    "wink2": {
+      "name": "wink2",
+      "kw": "wink2, emoticon10"
+    },
+    "grin": {
+      "name": "grin",
+      "kw": "grin, emoticon11"
+    },
+    "grin2": {
+      "name": "grin2",
+      "kw": "grin2, emoticon12"
+    },
+    "cool": {
+      "name": "cool",
+      "kw": "cool, emoticon13"
+    },
+    "cool2": {
+      "name": "cool2",
+      "kw": "cool2, emoticon14"
+    },
+    "angry": {
+      "name": "angry",
+      "kw": "angry, emoticon15"
+    },
+    "angry2": {
+      "name": "angry2",
+      "kw": "angry2, emoticon16"
+    },
+    "evil": {
+      "name": "evil",
+      "kw": "evil, emoticon17"
+    },
+    "evil2": {
+      "name": "evil2",
+      "kw": "evil2, emoticon18"
+    },
+    "shocked": {
+      "name": "shocked",
+      "kw": "shocked, emoticon19"
+    },
+    "shocked2": {
+      "name": "shocked2",
+      "kw": "shocked2, emoticon20"
+    },
+    "baffled": {
+      "name": "baffled",
+      "kw": "baffled, emoticon21"
+    },
+    "baffled2": {
+      "name": "baffled2",
+      "kw": "baffled2, emoticon22"
+    },
+    "confused": {
+      "name": "confused",
+      "kw": "confused, emoticon23"
+    },
+    "confused2": {
+      "name": "confused2",
+      "kw": "confused2, emoticon24"
+    },
+    "neutral": {
+      "name": "neutral",
+      "kw": "neutral, emoticon25"
+    },
+    "neutral2": {
+      "name": "neutral2",
+      "kw": "neutral2, emoticon26"
+    },
+    "hipster": {
+      "name": "hipster",
+      "kw": "hipster, emoticon27"
+    },
+    "hipster2": {
+      "name": "hipster2",
+      "kw": "hipster2, emoticon28"
+    },
+    "wondering": {
+      "name": "wondering",
+      "kw": "wondering, emoticon29"
+    },
+    "wondering2": {
+      "name": "wondering2",
+      "kw": "wondering2, emoticon30"
+    },
+    "sleepy": {
+      "name": "sleepy",
+      "kw": "sleepy, emoticon31"
+    },
+    "sleepy2": {
+      "name": "sleepy2",
+      "kw": "sleepy2, emoticon32"
+    },
+    "frustrated": {
+      "name": "frustrated",
+      "kw": "frustrated, emoticon33"
+    },
+    "frustrated2": {
+      "name": "frustrated2",
+      "kw": "frustrated2, emoticon34"
+    },
+    "crying": {
+      "name": "crying",
+      "kw": "crying, emoticon35"
+    },
+    "crying2": {
+      "name": "crying2",
+      "kw": "crying2, emoticon36"
+    },
+    "point-up": {
+      "name": "point-up",
+      "kw": "point-up, finger"
+    },
+    "point-right": {
+      "name": "point-right",
+      "kw": "point-right, finger2"
+    },
+    "point-down": {
+      "name": "point-down",
+      "kw": "point-down, finger3"
+    },
+    "point-left": {
+      "name": "point-left",
+      "kw": "point-left, finger4"
+    },
+    "warning": {
+      "name": "warning",
+      "kw": "warning, sign"
+    },
+    "notification": {
+      "name": "notification",
+      "kw": "notification, warning2"
+    },
+    "question": {
+      "name": "question",
+      "kw": "question, help"
+    },
+    "plus": {
+      "name": "plus",
+      "kw": "plus, add"
+    },
+    "minus": {
+      "name": "minus",
+      "kw": "minus, subtract"
+    },
+    "info": {
+      "name": "info",
+      "kw": "info, information"
+    },
+    "cancel-circle": {
+      "name": "cancel-circle",
+      "kw": "cancel-circle, close"
+    },
+    "blocked": {
+      "name": "blocked",
+      "kw": "blocked, forbidden"
+    },
+    "cross": {
+      "name": "cross",
+      "kw": "cross, cancel"
+    },
+    "checkmark": {
+      "name": "checkmark",
+      "kw": "checkmark, tick"
+    },
+    "checkmark2": {
+      "name": "checkmark2",
+      "kw": "checkmark2, tick2"
+    },
+    "spell-check": {
+      "name": "spell-check",
+      "kw": "spell-check, spelling"
+    },
+    "enter": {
+      "name": "enter",
+      "kw": "enter, signin"
+    },
+    "exit": {
+      "name": "exit",
+      "kw": "exit, signout"
+    },
+    "play2": {
+      "name": "play2",
+      "kw": "play2, player"
+    },
+    "pause": {
+      "name": "pause",
+      "kw": "pause, player2"
+    },
+    "stop": {
+      "name": "stop",
+      "kw": "stop, player3"
+    },
+    "previous": {
+      "name": "previous",
+      "kw": "previous, player4"
+    },
+    "next": {
+      "name": "next",
+      "kw": "next, player5"
+    },
+    "backward": {
+      "name": "backward",
+      "kw": "backward, player6"
+    },
+    "forward2": {
+      "name": "forward2",
+      "kw": "forward2, player7"
+    },
+    "play3": {
+      "name": "play3",
+      "kw": "play3, player8"
+    },
+    "pause2": {
+      "name": "pause2",
+      "kw": "pause2, player9"
+    },
+    "stop2": {
+      "name": "stop2",
+      "kw": "stop2, player10"
+    },
+    "backward2": {
+      "name": "backward2",
+      "kw": "backward2, player11"
+    },
+    "forward3": {
+      "name": "forward3",
+      "kw": "forward3, player12"
+    },
+    "first": {
+      "name": "first",
+      "kw": "first, player13"
+    },
+    "last": {
+      "name": "last",
+      "kw": "last, player14"
+    },
+    "previous2": {
+      "name": "previous2",
+      "kw": "previous2, player15"
+    },
+    "next2": {
+      "name": "next2",
+      "kw": "next2, player16"
+    },
+    "eject": {
+      "name": "eject",
+      "kw": "eject, player17"
+    },
+    "volume-high": {
+      "name": "volume-high",
+      "kw": "volume-high, volume"
+    },
+    "volume-medium": {
+      "name": "volume-medium",
+      "kw": "volume-medium, volume2"
+    },
+    "volume-low": {
+      "name": "volume-low",
+      "kw": "volume-low, volume3"
+    },
+    "volume-mute": {
+      "name": "volume-mute",
+      "kw": "volume-mute, volume4"
+    },
+    "volume-mute2": {
+      "name": "volume-mute2",
+      "kw": "volume-mute2, volume5"
+    },
+    "volume-increase": {
+      "name": "volume-increase",
+      "kw": "volume-increase, volume6"
+    },
+    "volume-decrease": {
+      "name": "volume-decrease",
+      "kw": "volume-decrease, volume7"
+    },
+    "loop": {
+      "name": "loop",
+      "kw": "loop, repeat"
+    },
+    "loop2": {
+      "name": "loop2",
+      "kw": "loop2, repeat2"
+    },
+    "infinite": {
+      "name": "infinite",
+      "kw": "infinite"
+    },
+    "shuffle": {
+      "name": "shuffle",
+      "kw": "shuffle, random"
+    },
+    "arrow-up-left": {
+      "name": "arrow-up-left",
+      "kw": "arrow-up-left, up-left"
+    },
+    "arrow-up": {
+      "name": "arrow-up",
+      "kw": "arrow-up, up"
+    },
+    "arrow-up-right": {
+      "name": "arrow-up-right",
+      "kw": "arrow-up-right, up-right"
+    },
+    "arrow-right": {
+      "name": "arrow-right",
+      "kw": "arrow-right, right3"
+    },
+    "arrow-down-right": {
+      "name": "arrow-down-right",
+      "kw": "arrow-down-right, down-right"
+    },
+    "arrow-down": {
+      "name": "arrow-down",
+      "kw": "arrow-down, down"
+    },
+    "arrow-down-left": {
+      "name": "arrow-down-left",
+      "kw": "arrow-down-left, down-left"
+    },
+    "arrow-left": {
+      "name": "arrow-left",
+      "kw": "arrow-left, left3"
+    },
+    "arrow-up-left2": {
+      "name": "arrow-up-left2",
+      "kw": "arrow-up-left2, up-left2"
+    },
+    "arrow-up2": {
+      "name": "arrow-up2",
+      "kw": "arrow-up2, up2"
+    },
+    "arrow-up-right2": {
+      "name": "arrow-up-right2",
+      "kw": "arrow-up-right2, up-right2"
+    },
+    "arrow-right2": {
+      "name": "arrow-right2",
+      "kw": "arrow-right2, right4"
+    },
+    "arrow-down-right2": {
+      "name": "arrow-down-right2",
+      "kw": "arrow-down-right2, down-right2"
+    },
+    "arrow-down2": {
+      "name": "arrow-down2",
+      "kw": "arrow-down2, down2"
+    },
+    "arrow-down-left2": {
+      "name": "arrow-down-left2",
+      "kw": "arrow-down-left2, down-left2"
+    },
+    "arrow-left2": {
+      "name": "arrow-left2",
+      "kw": "arrow-left2, left4"
+    },
+    "circle-up": {
+      "name": "circle-up",
+      "kw": "circle-up, up3"
+    },
+    "circle-right": {
+      "name": "circle-right",
+      "kw": "circle-right, right5"
+    },
+    "circle-down": {
+      "name": "circle-down",
+      "kw": "circle-down, down3"
+    },
+    "circle-left": {
+      "name": "circle-left",
+      "kw": "circle-left, left5"
+    },
+    "tab": {
+      "name": "tab",
+      "kw": "tab, arrows"
+    },
+    "move-up": {
+      "name": "move-up",
+      "kw": "move-up, sort"
+    },
+    "move-down": {
+      "name": "move-down",
+      "kw": "move-down, sort2"
+    },
+    "sort-alpha-asc": {
+      "name": "sort-alpha-asc",
+      "kw": "sort-alpha-asc, arrange"
+    },
+    "sort-alpha-desc": {
+      "name": "sort-alpha-desc",
+      "kw": "sort-alpha-desc, arrange2"
+    },
+    "sort-numeric-asc": {
+      "name": "sort-numeric-asc",
+      "kw": "sort-numeric-asc, arrange3"
+    },
+    "sort-numberic-desc": {
+      "name": "sort-numberic-desc",
+      "kw": "sort-numberic-desc, arrange4"
+    },
+    "sort-amount-asc": {
+      "name": "sort-amount-asc",
+      "kw": "sort-amount-asc, arrange5"
+    },
+    "sort-amount-desc": {
+      "name": "sort-amount-desc",
+      "kw": "sort-amount-desc, arrange6"
+    },
+    "command": {
+      "name": "command",
+      "kw": "command, cmd"
+    },
+    "shift": {
+      "name": "shift",
+      "kw": "shift"
+    },
+    "ctrl": {
+      "name": "ctrl",
+      "kw": "ctrl, control"
+    },
+    "opt": {
+      "name": "opt",
+      "kw": "opt, option"
+    },
+    "checkbox-checked": {
+      "name": "checkbox-checked",
+      "kw": "checkbox-checked, checkbox"
+    },
+    "checkbox-unchecked": {
+      "name": "checkbox-unchecked",
+      "kw": "checkbox-unchecked, checkbox2"
+    },
+    "radio-checked": {
+      "name": "radio-checked",
+      "kw": "radio-checked, radio-button"
+    },
+    "radio-checked2": {
+      "name": "radio-checked2",
+      "kw": "radio-checked2, radio-button2"
+    },
+    "radio-unchecked": {
+      "name": "radio-unchecked",
+      "kw": "radio-unchecked, radio-button3"
+    },
+    "crop": {
+      "name": "crop",
+      "kw": "crop, resize"
+    },
+    "make-group": {
+      "name": "make-group",
+      "kw": "make-group"
+    },
+    "ungroup": {
+      "name": "ungroup",
+      "kw": "ungroup"
+    },
+    "scissors": {
+      "name": "scissors",
+      "kw": "scissors, cut"
+    },
+    "filter": {
+      "name": "filter",
+      "kw": "filter, funnel"
+    },
+    "font": {
+      "name": "font",
+      "kw": "font, typeface"
+    },
+    "ligature": {
+      "name": "ligature",
+      "kw": "ligature, typography"
+    },
+    "ligature2": {
+      "name": "ligature2",
+      "kw": "ligature2, typography2"
+    },
+    "text-height": {
+      "name": "text-height",
+      "kw": "text-height, wysiwyg"
+    },
+    "text-width": {
+      "name": "text-width",
+      "kw": "text-width, wysiwyg2"
+    },
+    "font-size": {
+      "name": "font-size",
+      "kw": "font-size, wysiwyg3"
+    },
+    "bold": {
+      "name": "bold",
+      "kw": "bold, wysiwyg4"
+    },
+    "underline": {
+      "name": "underline",
+      "kw": "underline, wysiwyg5"
+    },
+    "italic": {
+      "name": "italic",
+      "kw": "italic, wysiwyg6"
+    },
+    "strikethrough": {
+      "name": "strikethrough",
+      "kw": "strikethrough, wysiwyg7"
+    },
+    "omega": {
+      "name": "omega",
+      "kw": "omega, wysiwyg8"
+    },
+    "sigma": {
+      "name": "sigma",
+      "kw": "sigma, wysiwyg9"
+    },
+    "page-break": {
+      "name": "page-break",
+      "kw": "page-break, wysiwyg10"
+    },
+    "superscript": {
+      "name": "superscript",
+      "kw": "superscript, wysiwyg11"
+    },
+    "subscript": {
+      "name": "subscript",
+      "kw": "subscript, wysiwyg12"
+    },
+    "superscript2": {
+      "name": "superscript2",
+      "kw": "superscript2, wysiwyg13"
+    },
+    "subscript2": {
+      "name": "subscript2",
+      "kw": "subscript2, wysiwyg14"
+    },
+    "text-color": {
+      "name": "text-color",
+      "kw": "text-color, wysiwyg15"
+    },
+    "pagebreak": {
+      "name": "pagebreak",
+      "kw": "pagebreak, wysiwyg16"
+    },
+    "clear-formatting": {
+      "name": "clear-formatting",
+      "kw": "clear-formatting, wysiwyg17"
+    },
+    "table": {
+      "name": "table",
+      "kw": "table, wysiwyg18"
+    },
+    "table2": {
+      "name": "table2",
+      "kw": "table2, wysiwyg19"
+    },
+    "insert-template": {
+      "name": "insert-template",
+      "kw": "insert-template, wysiwyg20"
+    },
+    "pilcrow": {
+      "name": "pilcrow",
+      "kw": "pilcrow, wysiwyg21"
+    },
+    "ltr": {
+      "name": "ltr",
+      "kw": "ltr, wysiwyg22"
+    },
+    "rtl": {
+      "name": "rtl",
+      "kw": "rtl, wysiwyg23"
+    },
+    "section": {
+      "name": "section",
+      "kw": "section, wysiwyg24"
+    },
+    "paragraph-left": {
+      "name": "paragraph-left",
+      "kw": "paragraph-left, wysiwyg25"
+    },
+    "paragraph-center": {
+      "name": "paragraph-center",
+      "kw": "paragraph-center, wysiwyg26"
+    },
+    "paragraph-right": {
+      "name": "paragraph-right",
+      "kw": "paragraph-right, wysiwyg27"
+    },
+    "paragraph-justify": {
+      "name": "paragraph-justify",
+      "kw": "paragraph-justify, wysiwyg28"
+    },
+    "indent-increase": {
+      "name": "indent-increase",
+      "kw": "indent-increase, wysiwyg29"
+    },
+    "indent-decrease": {
+      "name": "indent-decrease",
+      "kw": "indent-decrease, wysiwyg30"
+    },
+    "share": {
+      "name": "share",
+      "kw": "share, out"
+    },
+    "new-tab": {
+      "name": "new-tab",
+      "kw": "new-tab, out2"
+    },
+    "embed": {
+      "name": "embed",
+      "kw": "embed, code"
+    },
+    "embed2": {
+      "name": "embed2",
+      "kw": "embed2, code2"
+    },
+    "terminal": {
+      "name": "terminal",
+      "kw": "terminal, console"
+    },
+    "share2": {
+      "name": "share2",
+      "kw": "share2, social"
+    },
+    "mail": {
+      "name": "mail",
+      "kw": "mail2, contact2"
+    },
+    "mail2": {
+      "name": "mail2",
+      "kw": "mail3, contact3"
+    },
+    "mail3": {
+      "name": "mail3",
+      "kw": "mail4, contact4"
+    },
+    "mail4": {
+      "name": "mail4",
+      "kw": "mail5, contact5"
+    },
+    "amazon": {
+      "name": "amazon",
+      "kw": "amazon, brand"
+    },
+    "google": {
+      "name": "google",
+      "kw": "google, brand2"
+    },
+    "google2": {
+      "name": "google2",
+      "kw": "google2, brand3"
+    },
+    "google3": {
+      "name": "google3",
+      "kw": "google3, brand4"
+    },
+    "google-plus": {
+      "name": "google-plus",
+      "kw": "google-plus, brand5"
+    },
+    "google-plus2": {
+      "name": "google-plus2",
+      "kw": "google-plus2, brand6"
+    },
+    "google-plus3": {
+      "name": "google-plus3",
+      "kw": "google-plus3, brand7"
+    },
+    "hangouts": {
+      "name": "hangouts",
+      "kw": "hangouts, brand8"
+    },
+    "google-drive": {
+      "name": "google-drive",
+      "kw": "google-drive, brand9"
+    },
+    "facebook": {
+      "name": "facebook",
+      "kw": "facebook, brand10"
+    },
+    "facebook2": {
+      "name": "facebook2",
+      "kw": "facebook2, brand11"
+    },
+    "instagram": {
+      "name": "instagram",
+      "kw": "instagram, brand12"
+    },
+    "whatsapp": {
+      "name": "whatsapp",
+      "kw": "whatsapp, brand13"
+    },
+    "spotify": {
+      "name": "spotify",
+      "kw": "spotify, brand14"
+    },
+    "telegram": {
+      "name": "telegram",
+      "kw": "telegram, brand15"
+    },
+    "twitter": {
+      "name": "twitter",
+      "kw": "twitter, brand16"
+    },
+    "vine": {
+      "name": "vine",
+      "kw": "vine, brand17"
+    },
+    "vk": {
+      "name": "vk",
+      "kw": "vk, brand18"
+    },
+    "renren": {
+      "name": "renren",
+      "kw": "renren, brand19"
+    },
+    "sina-weibo": {
+      "name": "sina-weibo",
+      "kw": "sina-weibo, brand20"
+    },
+    "rss": {
+      "name": "rss",
+      "kw": "feed2, rss"
+    },
+    "rss2": {
+      "name": "rss2",
+      "kw": "feed3, rss2"
+    },
+    "youtube": {
+      "name": "youtube",
+      "kw": "youtube, brand21"
+    },
+    "youtube2": {
+      "name": "youtube2",
+      "kw": "youtube2, brand22"
+    },
+    "twitch": {
+      "name": "twitch",
+      "kw": "twitch, brand23"
+    },
+    "vimeo": {
+      "name": "vimeo",
+      "kw": "vimeo, brand24"
+    },
+    "vimeo2": {
+      "name": "vimeo2",
+      "kw": "vimeo2, brand25"
+    },
+    "lanyrd": {
+      "name": "lanyrd",
+      "kw": "lanyrd, brand26"
+    },
+    "flickr": {
+      "name": "flickr",
+      "kw": "flickr, brand27"
+    },
+    "flickr2": {
+      "name": "flickr2",
+      "kw": "flickr2, brand28"
+    },
+    "flickr3": {
+      "name": "flickr3",
+      "kw": "flickr3, brand29"
+    },
+    "flickr4": {
+      "name": "flickr4",
+      "kw": "flickr4, brand30"
+    },
+    "dribbble": {
+      "name": "dribbble",
+      "kw": "dribbble, brand31"
+    },
+    "behance": {
+      "name": "behance",
+      "kw": "behance, brand32"
+    },
+    "behance2": {
+      "name": "behance2",
+      "kw": "behance2, brand33"
+    },
+    "deviantart": {
+      "name": "deviantart",
+      "kw": "deviantart, brand34"
+    },
+    "500px": {
+      "name": "500px",
+      "kw": "500px, brand35"
+    },
+    "steam": {
+      "name": "steam",
+      "kw": "steam, brand36"
+    },
+    "steam2": {
+      "name": "steam2",
+      "kw": "steam2, brand37"
+    },
+    "dropbox": {
+      "name": "dropbox",
+      "kw": "dropbox, brand38"
+    },
+    "onedrive": {
+      "name": "onedrive",
+      "kw": "onedrive, brand39"
+    },
+    "github": {
+      "name": "github",
+      "kw": "github, brand40"
+    },
+    "npm": {
+      "name": "npm",
+      "kw": "npm, brand41"
+    },
+    "basecamp": {
+      "name": "basecamp",
+      "kw": "basecamp, brand42"
+    },
+    "trello": {
+      "name": "trello",
+      "kw": "trello, brand43"
+    },
+    "wordpress": {
+      "name": "wordpress",
+      "kw": "wordpress, brand44"
+    },
+    "joomla": {
+      "name": "joomla",
+      "kw": "joomla, brand45"
+    },
+    "ello": {
+      "name": "ello",
+      "kw": "ello, brand46"
+    },
+    "blogger": {
+      "name": "blogger",
+      "kw": "blogger, brand47"
+    },
+    "blogger2": {
+      "name": "blogger2",
+      "kw": "blogger2, brand48"
+    },
+    "tumblr": {
+      "name": "tumblr",
+      "kw": "tumblr, brand49"
+    },
+    "tumblr2": {
+      "name": "tumblr2",
+      "kw": "tumblr2, brand50"
+    },
+    "yahoo": {
+      "name": "yahoo",
+      "kw": "yahoo, brand51"
+    },
+    "yahoo2": {
+      "name": "yahoo2",
+      "kw": "yahoo2"
+    },
+    "tux": {
+      "name": "tux",
+      "kw": "tux, brand52"
+    },
+    "appleinc": {
+      "name": "appleinc",
+      "kw": "apple, brand53"
+    },
+    "finder": {
+      "name": "finder",
+      "kw": "finder, brand54"
+    },
+    "android": {
+      "name": "android",
+      "kw": "android, brand55"
+    },
+    "windows": {
+      "name": "windows",
+      "kw": "windows, brand56"
+    },
+    "windows8": {
+      "name": "windows8",
+      "kw": "windows8, brand57"
+    },
+    "soundcloud": {
+      "name": "soundcloud",
+      "kw": "soundcloud, brand58"
+    },
+    "soundcloud2": {
+      "name": "soundcloud2",
+      "kw": "soundcloud2, brand59"
+    },
+    "skype": {
+      "name": "skype",
+      "kw": "skype, brand60"
+    },
+    "reddit": {
+      "name": "reddit",
+      "kw": "reddit, brand61"
+    },
+    "hackernews": {
+      "name": "hackernews",
+      "kw": "hackernews, brand62"
+    },
+    "wikipedia": {
+      "name": "wikipedia",
+      "kw": "wikipedia, brand63"
+    },
+    "linkedin": {
+      "name": "linkedin",
+      "kw": "linkedin, brand64"
+    },
+    "linkedin2": {
+      "name": "linkedin2",
+      "kw": "linkedin2, brand65"
+    },
+    "lastfm": {
+      "name": "lastfm",
+      "kw": "lastfm, brand66"
+    },
+    "lastfm2": {
+      "name": "lastfm2",
+      "kw": "lastfm2, brand67"
+    },
+    "delicious": {
+      "name": "delicious",
+      "kw": "delicious, brand68"
+    },
+    "stumbleupon": {
+      "name": "stumbleupon",
+      "kw": "stumbleupon, brand69"
+    },
+    "stumbleupon2": {
+      "name": "stumbleupon2",
+      "kw": "stumbleupon2, brand70"
+    },
+    "stackoverflow": {
+      "name": "stackoverflow",
+      "kw": "stackoverflow, brand71"
+    },
+    "pinterest": {
+      "name": "pinterest",
+      "kw": "pinterest, brand72"
+    },
+    "pinterest2": {
+      "name": "pinterest2",
+      "kw": "pinterest2, brand73"
+    },
+    "xing": {
+      "name": "xing",
+      "kw": "xing, brand74"
+    },
+    "xing2": {
+      "name": "xing2",
+      "kw": "xing2, brand75"
+    },
+    "flattr": {
+      "name": "flattr",
+      "kw": "flattr, brand76"
+    },
+    "foursquare": {
+      "name": "foursquare",
+      "kw": "foursquare, brand77"
+    },
+    "yelp": {
+      "name": "yelp",
+      "kw": "yelp, brand78"
+    },
+    "paypal": {
+      "name": "paypal",
+      "kw": "paypal, brand79"
+    },
+    "chrome": {
+      "name": "chrome",
+      "kw": "chrome, browser"
+    },
+    "firefox": {
+      "name": "firefox",
+      "kw": "firefox, browser2"
+    },
+    "IE": {
+      "name": "IE",
+      "kw": "IE, browser3"
+    },
+    "edge": {
+      "name": "edge",
+      "kw": "edge, browser4"
+    },
+    "safari": {
+      "name": "safari",
+      "kw": "safari, browser5"
+    },
+    "opera": {
+      "name": "opera",
+      "kw": "opera, browser6"
+    },
+    "file-pdf": {
+      "name": "file-pdf",
+      "kw": "file-pdf, file10"
+    },
+    "file-openoffice": {
+      "name": "file-openoffice",
+      "kw": "file-openoffice, file11"
+    },
+    "file-word": {
+      "name": "file-word",
+      "kw": "file-word, file12"
+    },
+    "file-excel": {
+      "name": "file-excel",
+      "kw": "file-excel, file13"
+    },
+    "libreoffice": {
+      "name": "libreoffice",
+      "kw": "libreoffice, file14"
+    },
+    "html-five": {
+      "name": "html-five",
+      "kw": "html-five, w3c"
+    },
+    "html-five2": {
+      "name": "html-five2",
+      "kw": "html-five2, w3c2"
+    },
+    "css3": {
+      "name": "css3",
+      "kw": "css3, w3c3"
+    },
+    "git": {
+      "name": "git",
+      "kw": "git, brand80"
+    },
+    "codepen": {
+      "name": "codepen",
+      "kw": "codepen, brand81"
+    },
+    "svg": {
+      "name": "svg",
+      "kw": "svg"
+    },
+    "IcoMoon": {
+      "name": "IcoMoon",
+      "kw": "IcoMoon, icomoon"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 100" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start">
+        <polygon fill='#000000' ease="easeOutQuad" duration="2" points="1920 -2 1920 0 960 40 0 0 0 -2"></polygon>
+    </g>
+    <g class="n2-ss-divider-end">
+        <polygon fill='#000000' points="1920 -2 1920 100 960 10 0 100 0 -2"></polygon>
+    </g>
+</svg>

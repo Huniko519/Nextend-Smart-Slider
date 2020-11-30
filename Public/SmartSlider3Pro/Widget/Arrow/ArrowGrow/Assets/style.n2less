@@ -1,0 +1,42 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-grow {
+    cursor: pointer;
+    z-index: 20;
+    position: relative;
+    height: 48px;
+    width: 48px;
+    overflow: hidden;
+    transition: backgroundColor 0.4s, opacity 0.4s;
+  }
+
+  .nextend-arrow-grow .nextend-arrow-arrow {
+    width: 48px;
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-size: 48px auto;*/
+    background-position: center center;
+  }
+
+  .nextend-arrow-grow.nextend-arrow-next .nextend-arrow-arrow {
+    float: right;
+  }
+
+  .nextend-arrow-grow .nextend-arrow-title {
+    position: absolute;
+    left: 48px;
+    top: auto;
+    white-space: nowrap;
+    line-height: 48px !important;
+    padding: 0 10px;
+  }
+
+  html[dir="rtl"] & .nextend-arrow-grow.nextend-arrow-previous .nextend-arrow-title {
+    right: 48px;
+    left: auto;
+  }
+
+  .nextend-arrow-grow.nextend-arrow-next .nextend-arrow-title {
+    left: auto;
+    right: 48px;
+  }
+}

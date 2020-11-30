@@ -1,0 +1,689 @@
+{
+  "id": "lnr",
+  "label": "Linear icons",
+  "class": "lnr",
+  "isLigature": 0,
+  "prefix": "lnr-",
+  "data": {
+    "home": {
+      "name": "home",
+      "kw": "home, building"
+    },
+    "apartment": {
+      "name": "apartment",
+      "kw": "apartment, building2"
+    },
+    "pencil": {
+      "name": "pencil",
+      "kw": "pencil, write"
+    },
+    "magic-wand": {
+      "name": "magic-wand",
+      "kw": "magic-wand, tool"
+    },
+    "drop": {
+      "name": "drop",
+      "kw": "drop, droplet"
+    },
+    "lighter": {
+      "name": "lighter",
+      "kw": "lighter, fire"
+    },
+    "poop": {
+      "name": "poop",
+      "kw": "poop, toilet"
+    },
+    "sun": {
+      "name": "sun",
+      "kw": "sun, brightness"
+    },
+    "moon": {
+      "name": "moon",
+      "kw": "moon, night"
+    },
+    "cloud": {
+      "name": "cloud",
+      "kw": "cloud, weather"
+    },
+    "cloud-upload": {
+      "name": "cloud-upload",
+      "kw": "cloud-upload, cloud2"
+    },
+    "cloud-download": {
+      "name": "cloud-download",
+      "kw": "cloud-download, cloud3"
+    },
+    "cloud-sync": {
+      "name": "cloud-sync",
+      "kw": "cloud-sync, cloud4"
+    },
+    "cloud-check": {
+      "name": "cloud-check",
+      "kw": "cloud-check, cloud5"
+    },
+    "database": {
+      "name": "database",
+      "kw": "database, storage"
+    },
+    "lock": {
+      "name": "lock",
+      "kw": "lock, privacy"
+    },
+    "cog": {
+      "name": "cog",
+      "kw": "cog, gear"
+    },
+    "trash": {
+      "name": "trash",
+      "kw": "trash, bin"
+    },
+    "dice": {
+      "name": "dice",
+      "kw": "dice, game"
+    },
+    "heart": {
+      "name": "heart",
+      "kw": "heart, love"
+    },
+    "star": {
+      "name": "star",
+      "kw": "star, rating"
+    },
+    "star-half": {
+      "name": "star-half",
+      "kw": "star-half, rating2"
+    },
+    "star-empty": {
+      "name": "star-empty",
+      "kw": "star-empty, rating3"
+    },
+    "flag": {
+      "name": "flag",
+      "kw": "flag, report"
+    },
+    "envelope": {
+      "name": "envelope",
+      "kw": "envelope, mail"
+    },
+    "paperclip": {
+      "name": "paperclip",
+      "kw": "paperclip, attachment"
+    },
+    "inbox": {
+      "name": "inbox",
+      "kw": "inbox, drawer"
+    },
+    "eye": {
+      "name": "eye",
+      "kw": "eye, vision"
+    },
+    "printer": {
+      "name": "printer",
+      "kw": "printer, print"
+    },
+    "file-empty": {
+      "name": "file-empty",
+      "kw": "file-empty, file"
+    },
+    "file-add": {
+      "name": "file-add",
+      "kw": "file-add, file2"
+    },
+    "enter": {
+      "name": "enter",
+      "kw": "enter, door"
+    },
+    "exit": {
+      "name": "exit",
+      "kw": "exit, door2"
+    },
+    "graduation-hat": {
+      "name": "graduation-hat",
+      "kw": "graduation-hat, education"
+    },
+    "license": {
+      "name": "license",
+      "kw": "license, certificate"
+    },
+    "music-note": {
+      "name": "music-note",
+      "kw": "music-note, music"
+    },
+    "film-play": {
+      "name": "film-play",
+      "kw": "film-play, video"
+    },
+    "camera-video": {
+      "name": "camera-video",
+      "kw": "camera-video, video2"
+    },
+    "camera": {
+      "name": "camera",
+      "kw": "camera, photo"
+    },
+    "picture": {
+      "name": "picture",
+      "kw": "picture, photo2"
+    },
+    "book": {
+      "name": "book",
+      "kw": "book, read"
+    },
+    "bookmark": {
+      "name": "bookmark",
+      "kw": "bookmark, ribbon"
+    },
+    "user": {
+      "name": "user",
+      "kw": "user, persona"
+    },
+    "users": {
+      "name": "users",
+      "kw": "users, group"
+    },
+    "shirt": {
+      "name": "shirt",
+      "kw": "shirt, clothing"
+    },
+    "store": {
+      "name": "store",
+      "kw": "store, shop"
+    },
+    "cart": {
+      "name": "cart",
+      "kw": "cart, shop2"
+    },
+    "tag": {
+      "name": "tag",
+      "kw": "tag, price"
+    },
+    "phone-handset": {
+      "name": "phone-handset",
+      "kw": "phone-handset, telephone"
+    },
+    "phone": {
+      "name": "phone",
+      "kw": "phone, telephone2"
+    },
+    "pushpin": {
+      "name": "pushpin",
+      "kw": "pushpin, pin"
+    },
+    "map-marker": {
+      "name": "map-marker",
+      "kw": "map-marker, pin2"
+    },
+    "map": {
+      "name": "map",
+      "kw": "map, guide"
+    },
+    "location": {
+      "name": "location",
+      "kw": "location, compass"
+    },
+    "calendar-full": {
+      "name": "calendar-full",
+      "kw": "calendar-full, calendar"
+    },
+    "keyboard": {
+      "name": "keyboard",
+      "kw": "keyboard, type"
+    },
+    "spell-check": {
+      "name": "spell-check",
+      "kw": "spell-check, spelling"
+    },
+    "screen": {
+      "name": "screen",
+      "kw": "screen, monitor"
+    },
+    "smartphone": {
+      "name": "smartphone",
+      "kw": "smartphone, mobile"
+    },
+    "tablet": {
+      "name": "tablet",
+      "kw": "tablet, mobile2"
+    },
+    "laptop": {
+      "name": "laptop",
+      "kw": "laptop, computer"
+    },
+    "laptop-phone": {
+      "name": "laptop-phone",
+      "kw": "laptop-phone, devices"
+    },
+    "power-switch": {
+      "name": "power-switch",
+      "kw": "power-switch, toggle"
+    },
+    "bubble": {
+      "name": "bubble",
+      "kw": "bubble, chat"
+    },
+    "heart-pulse": {
+      "name": "heart-pulse",
+      "kw": "heart-pulse, health"
+    },
+    "construction": {
+      "name": "construction",
+      "kw": "construction, road-sign"
+    },
+    "pie-chart": {
+      "name": "pie-chart",
+      "kw": "pie-chart, chart"
+    },
+    "chart-bars": {
+      "name": "chart-bars",
+      "kw": "chart-bars, chart2"
+    },
+    "gift": {
+      "name": "gift",
+      "kw": "gift, birthday"
+    },
+    "diamond": {
+      "name": "diamond",
+      "kw": "diamond, jewelry"
+    },
+    "linearicons": {
+      "name": "linearicons",
+      "kw": "linearicons, perxis"
+    },
+    "dinner": {
+      "name": "dinner",
+      "kw": "dinner, food"
+    },
+    "coffee-cup": {
+      "name": "coffee-cup",
+      "kw": "coffee-cup, drink"
+    },
+    "leaf": {
+      "name": "leaf",
+      "kw": "leaf, nature"
+    },
+    "paw": {
+      "name": "paw",
+      "kw": "paw, pet"
+    },
+    "rocket": {
+      "name": "rocket",
+      "kw": "rocket, spaceship"
+    },
+    "briefcase": {
+      "name": "briefcase",
+      "kw": "briefcase, suitcase"
+    },
+    "bus": {
+      "name": "bus",
+      "kw": "bus, travel"
+    },
+    "car": {
+      "name": "car",
+      "kw": "car, travel2"
+    },
+    "train": {
+      "name": "train",
+      "kw": "train, travel3"
+    },
+    "bicycle": {
+      "name": "bicycle",
+      "kw": "bicycle, exercise"
+    },
+    "wheelchair": {
+      "name": "wheelchair",
+      "kw": "wheelchair, disabled"
+    },
+    "select": {
+      "name": "select",
+      "kw": "select, cursor"
+    },
+    "earth": {
+      "name": "earth",
+      "kw": "earth, globe"
+    },
+    "smile": {
+      "name": "smile",
+      "kw": "smile, emoticon"
+    },
+    "sad": {
+      "name": "sad",
+      "kw": "sad, emoticon2"
+    },
+    "neutral": {
+      "name": "neutral",
+      "kw": "neutral, emoticon3"
+    },
+    "mustache": {
+      "name": "mustache",
+      "kw": "mustache, emoticon4"
+    },
+    "alarm": {
+      "name": "alarm",
+      "kw": "alarm, bell"
+    },
+    "bullhorn": {
+      "name": "bullhorn",
+      "kw": "bullhorn, megaphone"
+    },
+    "volume-high": {
+      "name": "volume-high",
+      "kw": "volume-high, speaker"
+    },
+    "volume-medium": {
+      "name": "volume-medium",
+      "kw": "volume-medium, speaker2"
+    },
+    "volume-low": {
+      "name": "volume-low",
+      "kw": "volume-low, speaker3"
+    },
+    "volume": {
+      "name": "volume",
+      "kw": "volume, speaker4"
+    },
+    "mic": {
+      "name": "mic",
+      "kw": "mic, voice"
+    },
+    "hourglass": {
+      "name": "hourglass",
+      "kw": "hourglass, loading"
+    },
+    "undo": {
+      "name": "undo",
+      "kw": "undo, ccw"
+    },
+    "redo": {
+      "name": "redo",
+      "kw": "redo, cw"
+    },
+    "sync": {
+      "name": "sync",
+      "kw": "sync, spinner"
+    },
+    "history": {
+      "name": "history",
+      "kw": "history, archive"
+    },
+    "clock": {
+      "name": "clock",
+      "kw": "clock, time"
+    },
+    "download": {
+      "name": "download",
+      "kw": "download, down"
+    },
+    "upload": {
+      "name": "upload",
+      "kw": "upload, up"
+    },
+    "enter-down": {
+      "name": "enter-down",
+      "kw": "enter-down, down2"
+    },
+    "exit-up": {
+      "name": "exit-up",
+      "kw": "exit-up, up2"
+    },
+    "bug": {
+      "name": "bug",
+      "kw": "bug, insect"
+    },
+    "code": {
+      "name": "code",
+      "kw": "code, embed"
+    },
+    "link": {
+      "name": "link",
+      "kw": "link, url"
+    },
+    "unlink": {
+      "name": "unlink",
+      "kw": "unlink, url2"
+    },
+    "thumbs-up": {
+      "name": "thumbs-up",
+      "kw": "thumbs-up, like"
+    },
+    "thumbs-down": {
+      "name": "thumbs-down",
+      "kw": "thumbs-down, dislike"
+    },
+    "magnifier": {
+      "name": "magnifier",
+      "kw": "magnifier, search"
+    },
+    "cross": {
+      "name": "cross",
+      "kw": "cross, cancel"
+    },
+    "menu": {
+      "name": "menu",
+      "kw": "menu, options"
+    },
+    "list": {
+      "name": "list",
+      "kw": "list, options2"
+    },
+    "chevron-up": {
+      "name": "chevron-up",
+      "kw": "chevron-up, up3"
+    },
+    "chevron-down": {
+      "name": "chevron-down",
+      "kw": "chevron-down, down3"
+    },
+    "chevron-left": {
+      "name": "chevron-left",
+      "kw": "chevron-left, left"
+    },
+    "chevron-right": {
+      "name": "chevron-right",
+      "kw": "chevron-right, right"
+    },
+    "arrow-up": {
+      "name": "arrow-up",
+      "kw": "arrow-up, up4"
+    },
+    "arrow-down": {
+      "name": "arrow-down",
+      "kw": "arrow-down, down4"
+    },
+    "arrow-left": {
+      "name": "arrow-left",
+      "kw": "arrow-left, left2"
+    },
+    "arrow-right": {
+      "name": "arrow-right",
+      "kw": "arrow-right, right2"
+    },
+    "move": {
+      "name": "move",
+      "kw": "move, arrows"
+    },
+    "warning": {
+      "name": "warning",
+      "kw": "warning, alert"
+    },
+    "question-circle": {
+      "name": "question-circle",
+      "kw": "question-circle, help"
+    },
+    "menu-circle": {
+      "name": "menu-circle",
+      "kw": "menu-circle, menu2"
+    },
+    "checkmark-circle": {
+      "name": "checkmark-circle",
+      "kw": "checkmark-circle, checkmark"
+    },
+    "cross-circle": {
+      "name": "cross-circle",
+      "kw": "cross-circle, cross2"
+    },
+    "plus-circle": {
+      "name": "plus-circle",
+      "kw": "plus-circle, plus"
+    },
+    "circle-minus": {
+      "name": "circle-minus",
+      "kw": "circle-minus, minus"
+    },
+    "arrow-up-circle": {
+      "name": "arrow-up-circle",
+      "kw": "arrow-up-circle, up5"
+    },
+    "arrow-down-circle": {
+      "name": "arrow-down-circle",
+      "kw": "arrow-down-circle, down5"
+    },
+    "arrow-left-circle": {
+      "name": "arrow-left-circle",
+      "kw": "arrow-left-circle, left3"
+    },
+    "arrow-right-circle": {
+      "name": "arrow-right-circle",
+      "kw": "arrow-right-circle, right3"
+    },
+    "chevron-up-circle": {
+      "name": "chevron-up-circle",
+      "kw": "chevron-up-circle, up6"
+    },
+    "chevron-down-circle": {
+      "name": "chevron-down-circle",
+      "kw": "chevron-down-circle, down6"
+    },
+    "chevron-left-circle": {
+      "name": "chevron-left-circle",
+      "kw": "chevron-left-circle, left4"
+    },
+    "chevron-right-circle": {
+      "name": "chevron-right-circle",
+      "kw": "chevron-right-circle, right4"
+    },
+    "crop": {
+      "name": "crop",
+      "kw": "crop, cut"
+    },
+    "frame-expand": {
+      "name": "frame-expand",
+      "kw": "frame-expand, maximize"
+    },
+    "frame-contract": {
+      "name": "frame-contract",
+      "kw": "frame-contract, minimize"
+    },
+    "layers": {
+      "name": "layers",
+      "kw": "layers, stack"
+    },
+    "funnel": {
+      "name": "funnel",
+      "kw": "funnel, filter"
+    },
+    "text-format": {
+      "name": "text-format",
+      "kw": "text-format, typography"
+    },
+    "text-format-remove": {
+      "name": "text-format-remove",
+      "kw": "text-format-remove, typography2"
+    },
+    "text-size": {
+      "name": "text-size",
+      "kw": "text-size, typography3"
+    },
+    "bold": {
+      "name": "bold",
+      "kw": "bold, typography4"
+    },
+    "italic": {
+      "name": "italic",
+      "kw": "italic, typography5"
+    },
+    "underline": {
+      "name": "underline",
+      "kw": "underline, typography6"
+    },
+    "strikethrough": {
+      "name": "strikethrough",
+      "kw": "strikethrough, typography7"
+    },
+    "highlight": {
+      "name": "highlight",
+      "kw": "highlight, magic-marker"
+    },
+    "text-align-left": {
+      "name": "text-align-left",
+      "kw": "text-align-left, typography8"
+    },
+    "text-align-center": {
+      "name": "text-align-center",
+      "kw": "text-align-center, typography9"
+    },
+    "text-align-right": {
+      "name": "text-align-right",
+      "kw": "text-align-right, typography10"
+    },
+    "text-align-justify": {
+      "name": "text-align-justify",
+      "kw": "text-align-justify, typography11"
+    },
+    "line-spacing": {
+      "name": "line-spacing",
+      "kw": "line-spacing, typography12"
+    },
+    "indent-increase": {
+      "name": "indent-increase",
+      "kw": "indent-increase, typography13"
+    },
+    "indent-decrease": {
+      "name": "indent-decrease",
+      "kw": "indent-decrease, typography14"
+    },
+    "pilcrow": {
+      "name": "pilcrow",
+      "kw": "pilcrow, typography15"
+    },
+    "direction-ltr": {
+      "name": "direction-ltr",
+      "kw": "direction-ltr, typography16"
+    },
+    "direction-rtl": {
+      "name": "direction-rtl",
+      "kw": "direction-rtl, typography17"
+    },
+    "page-break": {
+      "name": "page-break",
+      "kw": "page-break"
+    },
+    "sort-alpha-asc": {
+      "name": "sort-alpha-asc",
+      "kw": "sort-alpha-asc, sort"
+    },
+    "sort-amount-asc": {
+      "name": "sort-amount-asc",
+      "kw": "sort-amount-asc, sort2"
+    },
+    "hand": {
+      "name": "hand",
+      "kw": "hand, drag"
+    },
+    "pointer-up": {
+      "name": "pointer-up",
+      "kw": "pointer-up, hand2"
+    },
+    "pointer-right": {
+      "name": "pointer-right",
+      "kw": "pointer-right, hand3"
+    },
+    "pointer-down": {
+      "name": "pointer-down",
+      "kw": "pointer-down, hand4"
+    },
+    "pointer-left": {
+      "name": "pointer-left",
+      "kw": "pointer-left, hand5"
+    }
+  }
+}

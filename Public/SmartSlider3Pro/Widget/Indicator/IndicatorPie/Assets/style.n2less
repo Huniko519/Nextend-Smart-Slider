@@ -1,0 +1,5 @@
+(~'div#@{sliderid}') {
+  .nextend-indicator-pie{
+    z-index: 16;
+  }
+}

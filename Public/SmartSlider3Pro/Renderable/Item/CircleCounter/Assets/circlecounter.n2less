@@ -1,0 +1,23 @@
+(~'div#@{sliderid}') {
+  .n2-ss-item-circlecounter-svg-container {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    height: auto;
+  }
+
+  .n2-ss-item-circlecounter-svg-container svg {
+    vertical-align: top;
+  }
+
+  .n2-ss-item-circlecounter-svg-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

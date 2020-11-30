@@ -1,0 +1,179 @@
+(~'div#@{sliderid}') {
+  .nextend-thumbnail-default {
+    display: flex;
+    user-select: none;
+    z-index: 10;
+  }
+
+  .nextend-thumbnail-default,
+  .nextend-thumbnail-inner {
+    overflow: hidden;
+  }
+
+  .nextend-thumbnail-inner {
+    flex: 1 1 auto;
+    display: flex;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-inner {
+    flex-flow: column;
+  }
+
+  .n2-ss-thumb-image {
+    display: flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .nextend-thumbnail-button {
+    position: absolute;
+    z-index: 2;
+    transition: all 0.4s;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-button {
+    left: 50%;
+    margin-left: -13px !important;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-previous {
+    top: -26px;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-previous.n2-active {
+    top: 10px;
+    opacity: 1;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-next {
+    bottom: -26px;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-next.n2-active {
+    bottom: 10px;
+    opacity: 1;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-button {
+    top: 50%;
+    margin-top: -13px !important;
+    transform: rotateZ(-90deg);
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-previous {
+    left: -26px;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-previous.n2-active {
+    left: 10px;
+    opacity: 1;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-next {
+    right: -26px;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-next.n2-active {
+    right: 10px;
+    opacity: 1;
+  }
+
+  .nextend-thumbnail-default .nextend-thumbnail-scroller {
+    flex: 1 0 auto;
+    position: relative;
+    box-sizing: border-box !important;
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-scroller {
+    flex-direction: column;
+  }
+
+  .nextend-thumbnail-vertical .nextend-thumbnail-scroller {
+    flex-direction: row;
+  }
+
+  .nextend-thumbnail-scroller.n2-align-content-start .nextend-thumbnail-scroller-group {
+    justify-content: flex-start;
+  }
+
+  .nextend-thumbnail-scroller.n2-align-content-center .nextend-thumbnail-scroller-group {
+    justify-content: center;
+  }
+
+  .nextend-thumbnail-scroller.n2-align-content-end .nextend-thumbnail-scroller-group {
+    justify-content: flex-end;
+  }
+
+  .nextend-thumbnail-scroller.n2-align-content-space-around .nextend-thumbnail-scroller-group {
+    justify-content: space-around;
+  }
+
+  .nextend-thumbnail-scroller.n2-align-content-space-between .nextend-thumbnail-scroller-group {
+    justify-content: space-between;
+  }
+
+  html[dir="rtl"] & .nextend-thumbnail-default .nextend-thumbnail-scroller {
+    position: relative;
+    float: right;
+  }
+
+  .nextend-thumbnail-scroller-group {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-scroller-group {
+    display: flex;
+    flex-flow: row;
+  }
+
+  .nextend-thumbnail-default .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div {
+    display: flex;
+    position: relative;
+    flex: 0 0 auto;
+    box-sizing: content-box !important;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .nextend-thumbnail-horizontal .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div {
+    flex-flow: column;
+  }
+
+  .nextend-thumbnail-default .nextend-thumbnail-scroller .nextend-thumbnail-scroller-group > div.n2-active {
+    cursor: default;
+  }
+
+  .nextend-thumbnail-default .n2-ss-caption {
+    display: inline-block;
+    white-space: normal;
+    box-sizing: border-box !important;
+    overflow: hidden;
+  }
+
+  .nextend-thumbnail-default .n2-caption-overlay {
+    position: absolute;
+  }
+
+  .nextend-thumbnail-default .n2-caption-overlay div {
+    float: left;
+    clear: left;
+  }
+
+  .nextend-thumbnail-horizontal .n2-ss-caption {
+    display: block;
+  }
+
+  .nextend-thumbnail-vertical .n2-caption-after,
+  .nextend-thumbnail-vertical .n2-caption-before {
+    height: 100%;
+  }
+}

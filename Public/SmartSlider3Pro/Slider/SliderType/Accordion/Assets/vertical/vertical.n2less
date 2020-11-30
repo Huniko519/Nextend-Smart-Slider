@@ -1,0 +1,83 @@
+(~'div@{sliderid}') {
+  width: @width;
+
+  .n2-ss-slider-1 {
+    position: relative;
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+    padding: @outerSpacing;
+    overflow: hidden;
+    background-color: @outerColor;
+
+    border-radius: @borderRadius;
+    background-clip: padding-box;
+  }
+
+  .n2-ss-slider-3 {
+    position: relative;
+    padding: @innerSpacing;
+    background-color: @innerColor;
+    border-radius: @borderRadius;
+  }
+
+  .n2-ss-slide {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .n2-accordion-title {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+
+    display: flex;
+    align-items: center;
+
+    height: @titleheight;
+    cursor: pointer;
+    background-color: @titleColor;
+    border-radius: @titleBorderRadius;
+
+    margin: @slideSpacing @slideSpacing 0 @slideSpacing;
+    font-size: 16px;
+  }
+
+  div.n2-accordion-title-inner {
+    flex: 1 1 auto;
+    margin: 0 @titleSpacing;
+    overflow: hidden;
+    line-height: 1.4;
+    max-height: 100%;
+  }
+
+  &.n2-has-hover .n2-accordion-title:HOVER,
+  .n2-ss-slide-active .n2-accordion-title {
+    background-color: @titleColorActive;
+    box-shadow: 0 0 0 1px RGBA(255, 255, 255, .05) inset;
+  }
+
+  .n2-ss-slide-active .n2-accordion-title {
+    cursor: default;
+    border-radius: @titleBorderRadius @titleBorderRadius 0 0;
+    background-clip: padding-box;
+  }
+
+  .n2-accordion-slide {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background: @border2rgba;
+
+    border-radius: 0 0 @titleBorderRadius @titleBorderRadius;
+    background-clip: padding-box;
+
+    height: 0;
+    margin: 0 @slideSpacing @slideSpacing @slideSpacing;
+  }
+
+  .n2-ss-canvas {
+    height: @canvasheight;
+  }
+}

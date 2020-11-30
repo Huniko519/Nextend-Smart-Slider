@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 120" preserveAspectRatio="none">
+    <g class="n2-ss-divider-start" yoyo="1">
+        <path fill="#000000" opacity="0.3" duration="8" ease="easeInOutSine"
+              d="M1010.1,64 C1137.4,64,1350,0,1350,0 H0 C0,0,839.3,64,1010.1,64z"/>
+        <path fill="#000000" opacity="0.3" duration="12" ease="easeInOutSine"
+              d="M1076.6,118.4 C1247.4,118.4,1350,0.2,1350,0.2 H0 C0,0.2,908.6,118.4,1076.6,118.4z"/>
+        <path fill="#000000" opacity="0.3" duration="9" ease="easeInOutSine"
+              d="M317.9,76 C467,76,1350,0.2,1350,0.2 H0 C0,0.2,1,76,317.9,76z"/>
+        <path fill="#000000" opacity="0.3" duration="11" ease="easeInOutSine"
+              d="M474,67 c168,0,876,-66.8,876,-66.8 H0 C0,0.2,168.1,67,474,67z"/>
+        <path fill="#000000" opacity="0.3" duration="14" ease="easeInOutSine"
+              d="M327,38 C478.3,38,1350,0.1,1350,0.1 H0 C0,0.1,0,38,327,38z"/>
+        <path fill="#000000" duration="8" ease="easeInOutSine"
+              d="M1175,103 c169,0,175,-102.9,175,-102.9 V-2 H0 v2.2 C0,0.2,1007,103,1175,103z"/>
+    </g>
+    <g class="n2-ss-divider-end">
+        <path fill="#000000" opacity="0.3" d="M287,64 C414.3,64,1350,0,1350,0 H0 C0,0,116.2,64,287,64z"/>
+        <path fill="#000000" opacity="0.3"
+              d="M307.1,118.4 C477.8,118.4,1350,0.2,1350,0.2 H0 C0,0.2,139.5,118.4,307.1,118.4z"/>
+        <path fill="#000000" opacity="0.3" d="M954,76 c149,0,396,-75.8,396,-75.8 H0 C0,0.2,637,76,954,76z"/>
+        <path fill="#000000" opacity="0.3" d="M904,67 c168,0,446,-66.8,446,-66.8 H0 C0,0.2,598.2,67,904,67z"/>
+        <path fill="#000000" opacity="0.3" d="M327,38 C478.3,38,1350,0.1,1350,0.1 H0 C0,0.1,0,38,327,38z"/>
+        <path fill="#000000" d="M688,102.9 C857,102.9,1350,0,1350,0 v-2 H0 v2 C0,0,520,102.9,688,102.9z"/>
+    </g>
+</svg>

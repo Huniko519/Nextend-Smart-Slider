@@ -1,0 +1,42 @@
+(~'div#@{sliderid}') {
+  .nextend-arrow-imagebar {
+    cursor: pointer;
+    z-index: 20;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+  }
+
+  .nextend-arrow-imagebar .nextend-arrow-arrow {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: 48px auto;
+  }
+
+  .nextend-arrow-imagebar .nextend-arrow-image {
+    position: absolute;
+    left: -100%;
+    top: 10%;
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    background-position: 50% 50%;
+    transition: left 0.4s, opacity 0.4s;
+    opacity: 0;
+  }
+
+  .nextend-arrow-imagebar.nextend-arrow-next .nextend-arrow-image {
+    left: 100%;
+  }
+
+  .nextend-arrow-imagebar:HOVER .nextend-arrow-image,
+  .nextend-arrow-imagebar:FOCUS .nextend-arrow-image {
+    opacity: 1;
+    left: 0;
+  }
+}

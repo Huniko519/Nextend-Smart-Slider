@@ -1,0 +1,1353 @@
+{
+  "id": "typcn",
+  "label": "Typicons",
+  "class": "typcn",
+  "isLigature": 0,
+  "prefix": "typcn-",
+  "data": {
+    "adjust-brightness": {
+      "name": "adjust-brightness",
+      "kw": "sun adjust brightness"
+    },
+    "adjust-contrast": {
+      "name": "adjust-contrast",
+      "kw": "half adjust contrast"
+    },
+    "anchor-outline": {
+      "name": "anchor-outline",
+      "kw": "anchor outline"
+    },
+    "anchor": {
+      "name": "anchor",
+      "kw": "anchor"
+    },
+    "archive": {
+      "name": "archive",
+      "kw": "archive"
+    },
+    "arrow-back-outline": {
+      "name": "arrow-back-outline",
+      "kw": "arrow back outline"
+    },
+    "arrow-back": {
+      "name": "arrow-back",
+      "kw": "arrow back"
+    },
+    "arrow-down-outline": {
+      "name": "arrow-down-outline",
+      "kw": "arrow down outline"
+    },
+    "arrow-down-thick": {
+      "name": "arrow-down-thick",
+      "kw": "arrow down thick"
+    },
+    "arrow-down": {
+      "name": "arrow-down",
+      "kw": "arrow down"
+    },
+    "arrow-forward-outline": {
+      "name": "arrow-forward-outline",
+      "kw": "arrow forward outline"
+    },
+    "arrow-forward": {
+      "name": "arrow-forward",
+      "kw": "arrow forward"
+    },
+    "arrow-left-outline": {
+      "name": "arrow-left-outline",
+      "kw": "arrow left outline"
+    },
+    "arrow-left-thick": {
+      "name": "arrow-left-thick",
+      "kw": "arrow left thick"
+    },
+    "arrow-left": {
+      "name": "arrow-left",
+      "kw": "arrow left"
+    },
+    "arrow-loop-outline": {
+      "name": "arrow-loop-outline",
+      "kw": "arrow loop outline"
+    },
+    "arrow-loop": {
+      "name": "arrow-loop",
+      "kw": "arrow loop"
+    },
+    "arrow-maximise-outline": {
+      "name": "arrow-maximise-outline",
+      "kw": "arrow maximise outline"
+    },
+    "arrow-maximise": {
+      "name": "arrow-maximise",
+      "kw": "arrow maximise"
+    },
+    "arrow-minimise-outline": {
+      "name": "arrow-minimise-outline",
+      "kw": "arrow minimise outline"
+    },
+    "arrow-minimise": {
+      "name": "arrow-minimise",
+      "kw": "arrow minimise"
+    },
+    "arrow-move-outline": {
+      "name": "arrow-move-outline",
+      "kw": "arrow move outline"
+    },
+    "arrow-move": {
+      "name": "arrow-move",
+      "kw": "arrow move"
+    },
+    "arrow-repeat-outline": {
+      "name": "arrow-repeat-outline",
+      "kw": "arrow repeat outline"
+    },
+    "arrow-repeat": {
+      "name": "arrow-repeat",
+      "kw": "arrow repeat"
+    },
+    "arrow-right-outline": {
+      "name": "arrow-right-outline",
+      "kw": "arrow right outline"
+    },
+    "arrow-right-thick": {
+      "name": "arrow-right-thick",
+      "kw": "arrow right thick"
+    },
+    "arrow-right": {
+      "name": "arrow-right",
+      "kw": "arrow right"
+    },
+    "arrow-shuffle": {
+      "name": "arrow-shuffle",
+      "kw": "arrow shuffle"
+    },
+    "arrow-sorted-down": {
+      "name": "arrow-sorted-down",
+      "kw": "arrow sorted down"
+    },
+    "arrow-sorted-up": {
+      "name": "arrow-sorted-up",
+      "kw": "arrow sorted up"
+    },
+    "arrow-sync-outline": {
+      "name": "arrow-sync-outline",
+      "kw": "arrow sync outline"
+    },
+    "arrow-sync": {
+      "name": "arrow-sync",
+      "kw": "arrow sync"
+    },
+    "arrow-unsorted": {
+      "name": "arrow-unsorted",
+      "kw": "arrow unsorted"
+    },
+    "arrow-up-outline": {
+      "name": "arrow-up-outline",
+      "kw": "arrow up outline"
+    },
+    "arrow-up-thick": {
+      "name": "arrow-up-thick",
+      "kw": "arrow up thick"
+    },
+    "arrow-up": {
+      "name": "arrow-up",
+      "kw": "arrow up"
+    },
+    "at": {
+      "name": "at",
+      "kw": "at"
+    },
+    "attachment-outline": {
+      "name": "attachment-outline",
+      "kw": "attachment outline"
+    },
+    "attachment": {
+      "name": "attachment",
+      "kw": "attachment"
+    },
+    "backspace-outline": {
+      "name": "backspace-outline",
+      "kw": "delete backspace outline"
+    },
+    "backspace": {
+      "name": "backspace",
+      "kw": "delete backspace"
+    },
+    "battery-charge": {
+      "name": "battery-charge",
+      "kw": "power battery charge"
+    },
+    "battery-full": {
+      "name": "battery-full",
+      "kw": "power battery full"
+    },
+    "battery-high": {
+      "name": "battery-high",
+      "kw": "power battery high"
+    },
+    "battery-low": {
+      "name": "battery-low",
+      "kw": "power battery low"
+    },
+    "battery-mid": {
+      "name": "battery-mid",
+      "kw": "power battery mid"
+    },
+    "beaker": {
+      "name": "beaker",
+      "kw": "lab,beta,experiment beaker"
+    },
+    "beer": {
+      "name": "beer",
+      "kw": "ale,lager beer"
+    },
+    "bell": {
+      "name": "bell",
+      "kw": "tone,alarm bell"
+    },
+    "book": {
+      "name": "book",
+      "kw": "book"
+    },
+    "bookmark": {
+      "name": "bookmark",
+      "kw": "banner,flag bookmark"
+    },
+    "briefcase": {
+      "name": "briefcase",
+      "kw": "briefcase"
+    },
+    "brush": {
+      "name": "brush",
+      "kw": "brush"
+    },
+    "business-card": {
+      "name": "business-card",
+      "kw": "id business card"
+    },
+    "calculator": {
+      "name": "calculator",
+      "kw": "calculator"
+    },
+    "calendar-outline": {
+      "name": "calendar-outline",
+      "kw": "calendar outline"
+    },
+    "calendar": {
+      "name": "calendar",
+      "kw": "calendar"
+    },
+    "camera-outline": {
+      "name": "camera-outline",
+      "kw": "camera outline"
+    },
+    "camera": {
+      "name": "camera",
+      "kw": "photo camera"
+    },
+    "cancel-outline": {
+      "name": "cancel-outline",
+      "kw": "photo cancel outline"
+    },
+    "cancel": {
+      "name": "cancel",
+      "kw": "cancel"
+    },
+    "chart-area-outline": {
+      "name": "chart-area-outline",
+      "kw": "graph chart area outline"
+    },
+    "chart-area": {
+      "name": "chart-area",
+      "kw": "graph chart area"
+    },
+    "chart-bar-outline": {
+      "name": "chart-bar-outline",
+      "kw": "graph chart bar outline"
+    },
+    "chart-bar": {
+      "name": "chart-bar",
+      "kw": "graph chart bar"
+    },
+    "chart-line-outline": {
+      "name": "chart-line-outline",
+      "kw": "graph chart line outline"
+    },
+    "chart-line": {
+      "name": "chart-line",
+      "kw": "graph chart line"
+    },
+    "chart-pie-outline": {
+      "name": "chart-pie-outline",
+      "kw": "graph chart pie outline"
+    },
+    "chart-pie": {
+      "name": "chart-pie",
+      "kw": "graph chart pie"
+    },
+    "chevron-left-outline": {
+      "name": "chevron-left-outline",
+      "kw": "less than chevron left outline"
+    },
+    "chevron-left": {
+      "name": "chevron-left",
+      "kw": "less than chevron left"
+    },
+    "chevron-right-outline": {
+      "name": "chevron-right-outline",
+      "kw": "greater than chevron right outline"
+    },
+    "chevron-right": {
+      "name": "chevron-right",
+      "kw": "greater than chevron right"
+    },
+    "clipboard": {
+      "name": "clipboard",
+      "kw": "copy clipboard"
+    },
+    "cloud-storage": {
+      "name": "cloud-storage",
+      "kw": "data,upload cloud storage"
+    },
+    "cloud-storage-outline": {
+      "name": "cloud-storage-outline",
+      "kw": "data,upload cloud storage outline"
+    },
+    "code-outline": {
+      "name": "code-outline",
+      "kw": "tag code outline"
+    },
+    "code": {
+      "name": "code",
+      "kw": "tag code"
+    },
+    "coffee": {
+      "name": "coffee",
+      "kw": "beverage coffee"
+    },
+    "cog-outline": {
+      "name": "cog-outline",
+      "kw": "settings cog outline"
+    },
+    "cog": {
+      "name": "cog",
+      "kw": "settings cog"
+    },
+    "compass": {
+      "name": "compass",
+      "kw": "safari compass"
+    },
+    "contacts": {
+      "name": "contacts",
+      "kw": "address,book contacts"
+    },
+    "credit-card": {
+      "name": "credit-card",
+      "kw": "payment credit card"
+    },
+    "css3": {
+      "name": "css3",
+      "kw": "css3"
+    },
+    "database": {
+      "name": "database",
+      "kw": "db database"
+    },
+    "delete-outline": {
+      "name": "delete-outline",
+      "kw": "cross,close delete outline"
+    },
+    "delete": {
+      "name": "delete",
+      "kw": "cross,close delete"
+    },
+    "device-desktop": {
+      "name": "device-desktop",
+      "kw": "pc,mac device desktop"
+    },
+    "device-laptop": {
+      "name": "device-laptop",
+      "kw": "notebook,macbook device laptop"
+    },
+    "device-phone": {
+      "name": "device-phone",
+      "kw": "iphone device phone"
+    },
+    "device-tablet": {
+      "name": "device-tablet",
+      "kw": "ipad device tablet"
+    },
+    "directions": {
+      "name": "directions",
+      "kw": "directions"
+    },
+    "divide-outline": {
+      "name": "divide-outline",
+      "kw": "division divide outline"
+    },
+    "divide": {
+      "name": "divide",
+      "kw": "division divide"
+    },
+    "document-add": {
+      "name": "document-add",
+      "kw": "file document add"
+    },
+    "document-delete": {
+      "name": "document-delete",
+      "kw": "file document delete"
+    },
+    "document-text": {
+      "name": "document-text",
+      "kw": "file document text"
+    },
+    "document": {
+      "name": "document",
+      "kw": "file document"
+    },
+    "download-outline": {
+      "name": "download-outline",
+      "kw": "download outline"
+    },
+    "download": {
+      "name": "download",
+      "kw": "download"
+    },
+    "dropbox": {
+      "name": "dropbox",
+      "kw": "dropbox"
+    },
+    "edit": {
+      "name": "edit",
+      "kw": "pencil edit"
+    },
+    "eject-outline": {
+      "name": "eject-outline",
+      "kw": "export,log,off,out eject outline"
+    },
+    "eject": {
+      "name": "eject",
+      "kw": "export,log,off,out eject"
+    },
+    "equals-outline": {
+      "name": "equals-outline",
+      "kw": "equals outline"
+    },
+    "equals": {
+      "name": "equals",
+      "kw": "equals"
+    },
+    "export-outline": {
+      "name": "export-outline",
+      "kw": "share export outline"
+    },
+    "export": {
+      "name": "export",
+      "kw": "share export"
+    },
+    "eye-outline": {
+      "name": "eye-outline",
+      "kw": "view eye outline"
+    },
+    "eye": {
+      "name": "eye",
+      "kw": "view eye"
+    },
+    "feather": {
+      "name": "feather",
+      "kw": "feather"
+    },
+    "film": {
+      "name": "film",
+      "kw": "strip film"
+    },
+    "filter": {
+      "name": "filter",
+      "kw": "funnel,refine filter"
+    },
+    "flag-outline": {
+      "name": "flag-outline",
+      "kw": "flag outline"
+    },
+    "flag": {
+      "name": "flag",
+      "kw": "flag"
+    },
+    "flash-outline": {
+      "name": "flash-outline",
+      "kw": "power,lightning flash outline"
+    },
+    "flash": {
+      "name": "flash",
+      "kw": "power,lightning flash"
+    },
+    "flow-children": {
+      "name": "flow-children",
+      "kw": "flow children"
+    },
+    "flow-merge": {
+      "name": "flow-merge",
+      "kw": "flow merge"
+    },
+    "flow-parallel": {
+      "name": "flow-parallel",
+      "kw": "flow parallel"
+    },
+    "flow-switch": {
+      "name": "flow-switch",
+      "kw": "flow switch"
+    },
+    "folder-add": {
+      "name": "folder-add",
+      "kw": "directory folder add"
+    },
+    "folder-delete": {
+      "name": "folder-delete",
+      "kw": "directory folder delete"
+    },
+    "folder-open": {
+      "name": "folder-open",
+      "kw": "directory folder open"
+    },
+    "folder": {
+      "name": "folder",
+      "kw": "directory folder"
+    },
+    "gift": {
+      "name": "gift",
+      "kw": "present gift"
+    },
+    "globe-outline": {
+      "name": "globe-outline",
+      "kw": "globe outline"
+    },
+    "globe": {
+      "name": "globe",
+      "kw": "globe"
+    },
+    "group-outline": {
+      "name": "group-outline",
+      "kw": "users group outline"
+    },
+    "group": {
+      "name": "group",
+      "kw": "users group"
+    },
+    "headphones": {
+      "name": "headphones",
+      "kw": "headphones"
+    },
+    "heart-full-outline": {
+      "name": "heart-full-outline",
+      "kw": "like,favourite,love heart full outline"
+    },
+    "heart-half-outline": {
+      "name": "heart-half-outline",
+      "kw": "like,favourite,love heart half outline"
+    },
+    "heart-outline": {
+      "name": "heart-outline",
+      "kw": "like,favourite,love heart outline"
+    },
+    "heart": {
+      "name": "heart",
+      "kw": "like,favourite,love heart"
+    },
+    "home-outline": {
+      "name": "home-outline",
+      "kw": "home outline"
+    },
+    "home": {
+      "name": "home",
+      "kw": "home"
+    },
+    "html5": {
+      "name": "html5",
+      "kw": "html5"
+    },
+    "image-outline": {
+      "name": "image-outline",
+      "kw": "picture,photo image outline"
+    },
+    "image": {
+      "name": "image",
+      "kw": "picture,photo image"
+    },
+    "infinity-outline": {
+      "name": "infinity-outline",
+      "kw": "infinity outline"
+    },
+    "infinity": {
+      "name": "infinity",
+      "kw": "infinity"
+    },
+    "info-large-outline": {
+      "name": "info-large-outline",
+      "kw": "info large outline"
+    },
+    "info-large": {
+      "name": "info-large",
+      "kw": "info large"
+    },
+    "info-outline": {
+      "name": "info-outline",
+      "kw": "info outline"
+    },
+    "info": {
+      "name": "info",
+      "kw": "info"
+    },
+    "input-checked-outline": {
+      "name": "input-checked-outline",
+      "kw": "tick,correct input checked outline"
+    },
+    "input-checked": {
+      "name": "input-checked",
+      "kw": "tick,correct input checked"
+    },
+    "key-outline": {
+      "name": "key-outline",
+      "kw": "password,login key outline"
+    },
+    "key": {
+      "name": "key",
+      "kw": "password,login key"
+    },
+    "keyboard": {
+      "name": "keyboard",
+      "kw": "keyboard"
+    },
+    "leaf": {
+      "name": "leaf",
+      "kw": "leaf"
+    },
+    "lightbulb": {
+      "name": "lightbulb",
+      "kw": "idea lightbulb"
+    },
+    "link-outline": {
+      "name": "link-outline",
+      "kw": "chain link outline"
+    },
+    "link": {
+      "name": "link",
+      "kw": "chain link"
+    },
+    "location-arrow-outline": {
+      "name": "location-arrow-outline",
+      "kw": "direction location arrow outline"
+    },
+    "location-arrow": {
+      "name": "location-arrow",
+      "kw": "direction location arrow"
+    },
+    "location-outline": {
+      "name": "location-outline",
+      "kw": "map,pin location outline"
+    },
+    "location": {
+      "name": "location",
+      "kw": "map,pin location"
+    },
+    "lock-closed-outline": {
+      "name": "lock-closed-outline",
+      "kw": "locked lock closed outline"
+    },
+    "lock-closed": {
+      "name": "lock-closed",
+      "kw": "locked lock closed"
+    },
+    "lock-open-outline": {
+      "name": "lock-open-outline",
+      "kw": "lock open outline"
+    },
+    "lock-open": {
+      "name": "lock-open",
+      "kw": "lock open"
+    },
+    "mail": {
+      "name": "mail",
+      "kw": "email mail"
+    },
+    "map": {
+      "name": "map",
+      "kw": "brochure,pamphlet map"
+    },
+    "media-eject-outline": {
+      "name": "media-eject-outline",
+      "kw": "media eject outline"
+    },
+    "media-eject": {
+      "name": "media-eject",
+      "kw": "media eject"
+    },
+    "media-fast-forward-outline": {
+      "name": "media-fast-forward-outline",
+      "kw": "media fast forward outline"
+    },
+    "media-fast-forward": {
+      "name": "media-fast-forward",
+      "kw": "media fast forward"
+    },
+    "media-pause-outline": {
+      "name": "media-pause-outline",
+      "kw": "media pause outline"
+    },
+    "media-pause": {
+      "name": "media-pause",
+      "kw": "media pause"
+    },
+    "media-play-outline": {
+      "name": "media-play-outline",
+      "kw": "media play outline"
+    },
+    "media-play-reverse-outline": {
+      "name": "media-play-reverse-outline",
+      "kw": "media play reverse outline"
+    },
+    "media-play-reverse": {
+      "name": "media-play-reverse",
+      "kw": "media play reverse"
+    },
+    "media-play": {
+      "name": "media-play",
+      "kw": "media play"
+    },
+    "media-record-outline": {
+      "name": "media-record-outline",
+      "kw": "media record outline"
+    },
+    "media-record": {
+      "name": "media-record",
+      "kw": "media record"
+    },
+    "media-rewind-outline": {
+      "name": "media-rewind-outline",
+      "kw": "media rewind outline"
+    },
+    "media-rewind": {
+      "name": "media-rewind",
+      "kw": "media rewind"
+    },
+    "media-stop-outline": {
+      "name": "media-stop-outline",
+      "kw": "media stop outline"
+    },
+    "media-stop": {
+      "name": "media-stop",
+      "kw": "media stop"
+    },
+    "message-typing": {
+      "name": "message-typing",
+      "kw": "msg,chat message typing"
+    },
+    "message": {
+      "name": "message",
+      "kw": "msg,chat message"
+    },
+    "messages": {
+      "name": "messages",
+      "kw": "msg,chat messages"
+    },
+    "microphone-outline": {
+      "name": "microphone-outline",
+      "kw": "record microphone outline"
+    },
+    "microphone": {
+      "name": "microphone",
+      "kw": "record microphone"
+    },
+    "minus-outline": {
+      "name": "minus-outline",
+      "kw": "subtract minus outline"
+    },
+    "minus": {
+      "name": "minus",
+      "kw": "subtract minus"
+    },
+    "mortar-board": {
+      "name": "mortar-board",
+      "kw": "mortar board"
+    },
+    "news": {
+      "name": "news",
+      "kw": "article news"
+    },
+    "notes-outline": {
+      "name": "notes-outline",
+      "kw": "music notes outline"
+    },
+    "notes": {
+      "name": "notes",
+      "kw": "music notes"
+    },
+    "pen": {
+      "name": "pen",
+      "kw": "write,compose pen"
+    },
+    "pencil": {
+      "name": "pencil",
+      "kw": "write,compose pencil"
+    },
+    "phone-outline": {
+      "name": "phone-outline",
+      "kw": "call,ring phone outline"
+    },
+    "phone": {
+      "name": "phone",
+      "kw": "call,ring phone"
+    },
+    "pi-outline": {
+      "name": "pi-outline",
+      "kw": "pi outline"
+    },
+    "pi": {
+      "name": "pi",
+      "kw": "pi"
+    },
+    "pin-outline": {
+      "name": "pin-outline",
+      "kw": "pin outline"
+    },
+    "pin": {
+      "name": "pin",
+      "kw": "pin"
+    },
+    "pipette": {
+      "name": "pipette",
+      "kw": "picker pipette"
+    },
+    "plane-outline": {
+      "name": "plane-outline",
+      "kw": "flight plane outline"
+    },
+    "plane": {
+      "name": "plane",
+      "kw": "flight plane"
+    },
+    "plug": {
+      "name": "plug",
+      "kw": "connect plug"
+    },
+    "plus-outline": {
+      "name": "plus-outline",
+      "kw": "add plus outline"
+    },
+    "plus": {
+      "name": "plus",
+      "kw": "add plus"
+    },
+    "point-of-interest-outline": {
+      "name": "point-of-interest-outline",
+      "kw": "command point of interest outline"
+    },
+    "point-of-interest": {
+      "name": "point-of-interest",
+      "kw": "command point of interest"
+    },
+    "power-outline": {
+      "name": "power-outline",
+      "kw": "on,off power outline"
+    },
+    "power": {
+      "name": "power",
+      "kw": "on,off power"
+    },
+    "printer": {
+      "name": "printer",
+      "kw": "fax printer"
+    },
+    "puzzle-outline": {
+      "name": "puzzle-outline",
+      "kw": "jigsaw puzzle outline"
+    },
+    "puzzle": {
+      "name": "puzzle",
+      "kw": "jigsaw puzzle"
+    },
+    "radar-outline": {
+      "name": "radar-outline",
+      "kw": "position radar outline"
+    },
+    "radar": {
+      "name": "radar",
+      "kw": "position radar"
+    },
+    "refresh-outline": {
+      "name": "refresh-outline",
+      "kw": "arrow refresh outline"
+    },
+    "refresh": {
+      "name": "refresh",
+      "kw": "arrow refresh"
+    },
+    "rss-outline": {
+      "name": "rss-outline",
+      "kw": "feed rss outline"
+    },
+    "rss": {
+      "name": "rss",
+      "kw": "feed rss"
+    },
+    "scissors-outline": {
+      "name": "scissors-outline",
+      "kw": "cut scissors outline"
+    },
+    "scissors": {
+      "name": "scissors",
+      "kw": "cut scissors"
+    },
+    "shopping-bag": {
+      "name": "shopping-bag",
+      "kw": "shopping bag"
+    },
+    "shopping-cart": {
+      "name": "shopping-cart",
+      "kw": "shopping cart"
+    },
+    "social-at-circular": {
+      "name": "social-at-circular",
+      "kw": "@,mail social at circular"
+    },
+    "social-dribbble-circular": {
+      "name": "social-dribbble-circular",
+      "kw": "social dribbble circular"
+    },
+    "social-dribbble": {
+      "name": "social-dribbble",
+      "kw": "social dribbble"
+    },
+    "social-facebook-circular": {
+      "name": "social-facebook-circular",
+      "kw": "social facebook circular"
+    },
+    "social-facebook": {
+      "name": "social-facebook",
+      "kw": "social facebook"
+    },
+    "social-flickr-circular": {
+      "name": "social-flickr-circular",
+      "kw": "social flickr circular"
+    },
+    "social-flickr": {
+      "name": "social-flickr",
+      "kw": "social flickr"
+    },
+    "social-github-circular": {
+      "name": "social-github-circular",
+      "kw": "social github circular"
+    },
+    "social-github": {
+      "name": "social-github",
+      "kw": "social github"
+    },
+    "social-google-plus-circular": {
+      "name": "social-google-plus-circular",
+      "kw": "social google plus circular"
+    },
+    "social-google-plus": {
+      "name": "social-google-plus",
+      "kw": "social google plus"
+    },
+    "social-instagram-circular": {
+      "name": "social-instagram-circular",
+      "kw": "social instagram circular"
+    },
+    "social-instagram": {
+      "name": "social-instagram",
+      "kw": "social instagram"
+    },
+    "social-last-fm-circular": {
+      "name": "social-last-fm-circular",
+      "kw": "social last fm circular"
+    },
+    "social-last-fm": {
+      "name": "social-last-fm",
+      "kw": "social last fm"
+    },
+    "social-linkedin-circular": {
+      "name": "social-linkedin-circular",
+      "kw": "social linkedin circular"
+    },
+    "social-linkedin": {
+      "name": "social-linkedin",
+      "kw": "social linkedin"
+    },
+    "social-pinterest-circular": {
+      "name": "social-pinterest-circular",
+      "kw": "social pinterest circular"
+    },
+    "social-pinterest": {
+      "name": "social-pinterest",
+      "kw": "social pinterest"
+    },
+    "social-skype-outline": {
+      "name": "social-skype-outline",
+      "kw": "social skype outline"
+    },
+    "social-skype": {
+      "name": "social-skype",
+      "kw": "social skype"
+    },
+    "social-tumbler-circular": {
+      "name": "social-tumbler-circular",
+      "kw": "social tumbler circular"
+    },
+    "social-tumbler": {
+      "name": "social-tumbler",
+      "kw": "social tumbler"
+    },
+    "social-twitter-circular": {
+      "name": "social-twitter-circular",
+      "kw": "social twitter circular"
+    },
+    "social-twitter": {
+      "name": "social-twitter",
+      "kw": "social twitter"
+    },
+    "social-vimeo-circular": {
+      "name": "social-vimeo-circular",
+      "kw": "social vimeo circular"
+    },
+    "social-vimeo": {
+      "name": "social-vimeo",
+      "kw": "social vimeo"
+    },
+    "social-youtube-circular": {
+      "name": "social-youtube-circular",
+      "kw": "social youtube circular"
+    },
+    "social-youtube": {
+      "name": "social-youtube",
+      "kw": "social youtube"
+    },
+    "sort-alphabetically-outline": {
+      "name": "sort-alphabetically-outline",
+      "kw": "a-z sort alphabetically outline"
+    },
+    "sort-alphabetically": {
+      "name": "sort-alphabetically",
+      "kw": "a-z sort alphabetically"
+    },
+    "sort-numerically-outline": {
+      "name": "sort-numerically-outline",
+      "kw": "123 sort numerically outline"
+    },
+    "sort-numerically": {
+      "name": "sort-numerically",
+      "kw": "123 sort numerically"
+    },
+    "spanner-outline": {
+      "name": "spanner-outline",
+      "kw": "settings spanner outline"
+    },
+    "spanner": {
+      "name": "spanner",
+      "kw": "settings spanner"
+    },
+    "spiral": {
+      "name": "spiral",
+      "kw": "curve spiral"
+    },
+    "star-full-outline": {
+      "name": "star-full-outline",
+      "kw": "like,favourite,love,rate star full outline"
+    },
+    "star-half-outline": {
+      "name": "star-half-outline",
+      "kw": "like,favourite,love,rate star half outline"
+    },
+    "star-half": {
+      "name": "star-half",
+      "kw": "like,favourite,love,rate star half"
+    },
+    "star-outline": {
+      "name": "star-outline",
+      "kw": "like,favourite,love,rate star outline"
+    },
+    "star": {
+      "name": "star",
+      "kw": "like,favourite,love,rate star"
+    },
+    "starburst-outline": {
+      "name": "starburst-outline",
+      "kw": "banner,ribbon starburst outline"
+    },
+    "starburst": {
+      "name": "starburst",
+      "kw": "banner,ribbon starburst"
+    },
+    "stopwatch": {
+      "name": "stopwatch",
+      "kw": "time stopwatch"
+    },
+    "support": {
+      "name": "support",
+      "kw": "life,ring support"
+    },
+    "tabs-outline": {
+      "name": "tabs-outline",
+      "kw": "expand,merge tabs outline"
+    },
+    "tag": {
+      "name": "tag",
+      "kw": "tag"
+    },
+    "tags": {
+      "name": "tags",
+      "kw": "tags"
+    },
+    "th-large-outline": {
+      "name": "th-large-outline",
+      "kw": "square,grid th large outline"
+    },
+    "th-large": {
+      "name": "th-large",
+      "kw": "square,grid th large"
+    },
+    "th-list-outline": {
+      "name": "th-list-outline",
+      "kw": "thumbnail th list outline"
+    },
+    "th-list": {
+      "name": "th-list",
+      "kw": "thumbnail th list"
+    },
+    "th-menu-outline": {
+      "name": "th-menu-outline",
+      "kw": "th menu outline"
+    },
+    "th-menu": {
+      "name": "th-menu",
+      "kw": "th menu"
+    },
+    "th-small-outline": {
+      "name": "th-small-outline",
+      "kw": "square,grid th small outline"
+    },
+    "th-small": {
+      "name": "th-small",
+      "kw": "square,grid th small"
+    },
+    "thermometer": {
+      "name": "thermometer",
+      "kw": "temperature thermometer"
+    },
+    "thumbs-down": {
+      "name": "thumbs-down",
+      "kw": "dislike thumbs down"
+    },
+    "thumbs-ok": {
+      "name": "thumbs-ok",
+      "kw": "average thumbs ok"
+    },
+    "thumbs-up": {
+      "name": "thumbs-up",
+      "kw": "like thumbs up"
+    },
+    "tick-outline": {
+      "name": "tick-outline",
+      "kw": "ok,done,correct tick outline"
+    },
+    "tick": {
+      "name": "tick",
+      "kw": "ok,done,correct tick"
+    },
+    "ticket": {
+      "name": "ticket",
+      "kw": "pass ticket"
+    },
+    "time": {
+      "name": "time",
+      "kw": "watch,clock time"
+    },
+    "times-outline": {
+      "name": "times-outline",
+      "kw": "cross,x times outline"
+    },
+    "times": {
+      "name": "times",
+      "kw": "cross,x times"
+    },
+    "trash": {
+      "name": "trash",
+      "kw": "garbage,rubbish,delete trash"
+    },
+    "tree": {
+      "name": "tree",
+      "kw": "tree"
+    },
+    "upload-outline": {
+      "name": "upload-outline",
+      "kw": "upload outline"
+    },
+    "upload": {
+      "name": "upload",
+      "kw": "upload"
+    },
+    "user-add-outline": {
+      "name": "user-add-outline",
+      "kw": "person user add outline"
+    },
+    "user-add": {
+      "name": "user-add",
+      "kw": "person user add"
+    },
+    "user-delete-outline": {
+      "name": "user-delete-outline",
+      "kw": "person user delete outline"
+    },
+    "user-delete": {
+      "name": "user-delete",
+      "kw": "person user delete"
+    },
+    "user-outline": {
+      "name": "user-outline",
+      "kw": "person user outline"
+    },
+    "user": {
+      "name": "user",
+      "kw": "person user"
+    },
+    "vendor-android": {
+      "name": "vendor-android",
+      "kw": "vendor android"
+    },
+    "vendor-apple": {
+      "name": "vendor-apple",
+      "kw": "vendor apple"
+    },
+    "vendor-microsoft": {
+      "name": "vendor-microsoft",
+      "kw": "vendor microsoft"
+    },
+    "video-outline": {
+      "name": "video-outline",
+      "kw": "video outline"
+    },
+    "video": {
+      "name": "video",
+      "kw": "video"
+    },
+    "volume-down": {
+      "name": "volume-down",
+      "kw": "sound volume down"
+    },
+    "volume-mute": {
+      "name": "volume-mute",
+      "kw": "sound volume mute"
+    },
+    "volume-up": {
+      "name": "volume-up",
+      "kw": "sound volume up"
+    },
+    "volume": {
+      "name": "volume",
+      "kw": "sound volume"
+    },
+    "warning-outline": {
+      "name": "warning-outline",
+      "kw": "error,alert warning outline"
+    },
+    "warning": {
+      "name": "warning",
+      "kw": "error,alert warning"
+    },
+    "watch": {
+      "name": "watch",
+      "kw": "time watch"
+    },
+    "waves-outline": {
+      "name": "waves-outline",
+      "kw": "waves outline"
+    },
+    "waves": {
+      "name": "waves",
+      "kw": "waves"
+    },
+    "weather-cloudy": {
+      "name": "weather-cloudy",
+      "kw": "weather cloudy"
+    },
+    "weather-downpour": {
+      "name": "weather-downpour",
+      "kw": "weather downpour"
+    },
+    "weather-night": {
+      "name": "weather-night",
+      "kw": "weather night"
+    },
+    "weather-partly-sunny": {
+      "name": "weather-partly-sunny",
+      "kw": "weather partly sunny"
+    },
+    "weather-shower": {
+      "name": "weather-shower",
+      "kw": "weather shower"
+    },
+    "weather-snow": {
+      "name": "weather-snow",
+      "kw": "weather snow"
+    },
+    "weather-stormy": {
+      "name": "weather-stormy",
+      "kw": "weather stormy"
+    },
+    "weather-sunny": {
+      "name": "weather-sunny",
+      "kw": "weather sunny"
+    },
+    "weather-windy-cloudy": {
+      "name": "weather-windy-cloudy",
+      "kw": "weather windy cloudy"
+    },
+    "weather-windy": {
+      "name": "weather-windy",
+      "kw": "weather windy"
+    },
+    "wi-fi-outline": {
+      "name": "wi-fi-outline",
+      "kw": "internet,connection wi fi outline"
+    },
+    "wi-fi": {
+      "name": "wi-fi",
+      "kw": "internet,connection wi fi"
+    },
+    "wine": {
+      "name": "wine",
+      "kw": "drink,beverage wine"
+    },
+    "world-outline": {
+      "name": "world-outline",
+      "kw": "world outline"
+    },
+    "world": {
+      "name": "world",
+      "kw": "world"
+    },
+    "zoom-in-outline": {
+      "name": "zoom-in-outline",
+      "kw": "zoom in outline"
+    },
+    "zoom-in": {
+      "name": "zoom-in",
+      "kw": "zoom in"
+    },
+    "zoom-out-outline": {
+      "name": "zoom-out-outline",
+      "kw": "zoom out outline"
+    },
+    "zoom-out": {
+      "name": "zoom-out",
+      "kw": "zoom out"
+    },
+    "zoom-outline": {
+      "name": "zoom-outline",
+      "kw": "zoom outline"
+    },
+    "zoom": {
+      "name": "zoom",
+      "kw": "zoom"
+    }
+  }
+}

@@ -1,0 +1,2711 @@
+{
+  "id": "fa",
+  "label": "Font Awesome 4",
+  "class": "nfa",
+  "isLigature": 0,
+  "prefix": "nfa-",
+  "testString": "\uf00c\uf000",
+  "compatibility": ".n2i.fa{display: inline-block;font: normal normal normal 1em/1 FontAwesome;font-size: inherit;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}",
+  "data": {
+    "glass": {
+      "name": "Glass",
+      "kw": "Glass,martini,drink,bar,alcohol,liquor"
+    },
+    "music": {
+      "name": "Music",
+      "kw": "Music,note,sound"
+    },
+    "search": {
+      "name": "Search",
+      "kw": "Search,magnify,zoom,enlarge,bigger"
+    },
+    "envelope-o": {
+      "name": "Envelope Outlined",
+      "kw": "Envelope Outlined,email,e-mail,letter,support,mail,message,notification"
+    },
+    "heart": {
+      "name": "Heart",
+      "kw": "Heart,love,like,favorite"
+    },
+    "star": {
+      "name": "Star",
+      "kw": "Star,award,achievement,night,rating,score,favorite"
+    },
+    "star-o": {
+      "name": "Star Outlined",
+      "kw": "Star Outlined,award,achievement,night,rating,score,favorite"
+    },
+    "user": {
+      "name": "User",
+      "kw": "User,person,man,head,profile"
+    },
+    "film": {
+      "name": "Film",
+      "kw": "Film,movie"
+    },
+    "th-large": {
+      "name": "th-large",
+      "kw": "th-large,blocks,squares,boxes,grid"
+    },
+    "th": {
+      "name": "th",
+      "kw": "th,blocks,squares,boxes,grid"
+    },
+    "th-list": {
+      "name": "th-list",
+      "kw": "th-list,ul,ol,checklist,finished,completed,done,todo"
+    },
+    "check": {
+      "name": "Check",
+      "kw": "Check,checkmark,done,todo,agree,accept,confirm,tick,ok"
+    },
+    "times": {
+      "name": "Times",
+      "kw": "Times,close,exit,x,cross"
+    },
+    "search-plus": {
+      "name": "Search Plus",
+      "kw": "Search Plus,magnify,zoom,enlarge,bigger"
+    },
+    "search-minus": {
+      "name": "Search Minus",
+      "kw": "Search Minus,magnify,minify,zoom,smaller"
+    },
+    "power-off": {
+      "name": "Power Off",
+      "kw": "Power Off,on"
+    },
+    "signal": {
+      "name": "signal",
+      "kw": "signal,graph,bars"
+    },
+    "cog": {
+      "name": "cog",
+      "kw": "cog,settings"
+    },
+    "trash-o": {
+      "name": "Trash Outlined",
+      "kw": "Trash Outlined,garbage,delete,remove,trash,hide"
+    },
+    "home": {
+      "name": "home",
+      "kw": "home,main,house"
+    },
+    "file-o": {
+      "name": "File Outlined",
+      "kw": "File Outlined,new,page,pdf,document"
+    },
+    "clock-o": {
+      "name": "Clock Outlined",
+      "kw": "Clock Outlined,watch,timer,late,timestamp"
+    },
+    "road": {
+      "name": "road",
+      "kw": "road,street"
+    },
+    "download": {
+      "name": "Download",
+      "kw": "Download,import"
+    },
+    "arrow-circle-o-down": {
+      "name": "Arrow Circle Outlined Down",
+      "kw": "Arrow Circle Outlined Down,download"
+    },
+    "arrow-circle-o-up": {
+      "name": "Arrow Circle Outlined Up",
+      "kw": "Arrow Circle Outlined Up"
+    },
+    "inbox": {
+      "name": "inbox",
+      "kw": "inbox"
+    },
+    "play-circle-o": {
+      "name": "Play Circle Outlined",
+      "kw": "Play Circle Outlined"
+    },
+    "repeat": {
+      "name": "Repeat",
+      "kw": "Repeat,redo,forward"
+    },
+    "refresh": {
+      "name": "refresh",
+      "kw": "refresh,reload,sync"
+    },
+    "list-alt": {
+      "name": "list-alt",
+      "kw": "list-alt,ul,ol,checklist,finished,completed,done,todo"
+    },
+    "lock": {
+      "name": "lock",
+      "kw": "lock,protect,admin,security"
+    },
+    "flag": {
+      "name": "flag",
+      "kw": "flag,report,notification,notify"
+    },
+    "headphones": {
+      "name": "headphones",
+      "kw": "headphones,sound,listen,music,audio"
+    },
+    "volume-off": {
+      "name": "volume-off",
+      "kw": "volume-off,audio,mute,sound,music"
+    },
+    "volume-down": {
+      "name": "volume-down",
+      "kw": "volume-down,audio,lower,quieter,sound,music"
+    },
+    "volume-up": {
+      "name": "volume-up",
+      "kw": "volume-up,audio,higher,louder,sound,music"
+    },
+    "qrcode": {
+      "name": "qrcode",
+      "kw": "qrcode,scan"
+    },
+    "barcode": {
+      "name": "barcode",
+      "kw": "barcode,scan"
+    },
+    "tag": {
+      "name": "tag",
+      "kw": "tag,label"
+    },
+    "tags": {
+      "name": "tags",
+      "kw": "tags,labels"
+    },
+    "book": {
+      "name": "book",
+      "kw": "book,read,documentation"
+    },
+    "bookmark": {
+      "name": "bookmark",
+      "kw": "bookmark,save"
+    },
+    "print": {
+      "name": "print",
+      "kw": "print"
+    },
+    "camera": {
+      "name": "camera",
+      "kw": "camera,photo,picture,record"
+    },
+    "font": {
+      "name": "font",
+      "kw": "font,text"
+    },
+    "bold": {
+      "name": "bold",
+      "kw": "bold"
+    },
+    "italic": {
+      "name": "italic",
+      "kw": "italic,italics"
+    },
+    "text-height": {
+      "name": "text-height",
+      "kw": "text-height"
+    },
+    "text-width": {
+      "name": "text-width",
+      "kw": "text-width"
+    },
+    "align-left": {
+      "name": "align-left",
+      "kw": "align-left,text"
+    },
+    "align-center": {
+      "name": "align-center",
+      "kw": "align-center,middle,text"
+    },
+    "align-right": {
+      "name": "align-right",
+      "kw": "align-right,text"
+    },
+    "align-justify": {
+      "name": "align-justify",
+      "kw": "align-justify,text"
+    },
+    "list": {
+      "name": "list",
+      "kw": "list,ul,ol,checklist,finished,completed,done,todo"
+    },
+    "outdent": {
+      "name": "Outdent",
+      "kw": "Outdent"
+    },
+    "indent": {
+      "name": "Indent",
+      "kw": "Indent"
+    },
+    "video-camera": {
+      "name": "Video Camera",
+      "kw": "Video Camera,film,movie,record"
+    },
+    "picture-o": {
+      "name": "Picture Outlined",
+      "kw": "Picture Outlined"
+    },
+    "pencil": {
+      "name": "pencil",
+      "kw": "pencil,write,edit,update"
+    },
+    "map-marker": {
+      "name": "map-marker",
+      "kw": "map-marker,map,pin,location,coordinates,localize,address,travel,where,place"
+    },
+    "adjust": {
+      "name": "adjust",
+      "kw": "adjust,contrast"
+    },
+    "tint": {
+      "name": "tint",
+      "kw": "tint,raindrop,waterdrop,drop,droplet"
+    },
+    "pencil-square-o": {
+      "name": "Pencil Square Outlined",
+      "kw": "Pencil Square Outlined,write,edit,update"
+    },
+    "share-square-o": {
+      "name": "Share Square Outlined",
+      "kw": "Share Square Outlined,social,send,arrow"
+    },
+    "check-square-o": {
+      "name": "Check Square Outlined",
+      "kw": "Check Square Outlined,todo,done,agree,accept,confirm,ok"
+    },
+    "arrows": {
+      "name": "Arrows",
+      "kw": "Arrows,move,reorder,resize"
+    },
+    "step-backward": {
+      "name": "step-backward",
+      "kw": "step-backward,rewind,previous,beginning,start,first"
+    },
+    "fast-backward": {
+      "name": "fast-backward",
+      "kw": "fast-backward,rewind,previous,beginning,start,first"
+    },
+    "backward": {
+      "name": "backward",
+      "kw": "backward,rewind,previous"
+    },
+    "play": {
+      "name": "play",
+      "kw": "play,start,playing,music,sound"
+    },
+    "pause": {
+      "name": "pause",
+      "kw": "pause,wait"
+    },
+    "stop": {
+      "name": "stop",
+      "kw": "stop,block,box,square"
+    },
+    "forward": {
+      "name": "forward",
+      "kw": "forward,forward,next"
+    },
+    "fast-forward": {
+      "name": "fast-forward",
+      "kw": "fast-forward,next,end,last"
+    },
+    "step-forward": {
+      "name": "step-forward",
+      "kw": "step-forward,next,end,last"
+    },
+    "eject": {
+      "name": "eject",
+      "kw": "eject"
+    },
+    "chevron-left": {
+      "name": "chevron-left",
+      "kw": "chevron-left,bracket,previous,back"
+    },
+    "chevron-right": {
+      "name": "chevron-right",
+      "kw": "chevron-right,bracket,next,forward"
+    },
+    "plus-circle": {
+      "name": "Plus Circle",
+      "kw": "Plus Circle,add,new,create,expand"
+    },
+    "minus-circle": {
+      "name": "Minus Circle",
+      "kw": "Minus Circle,delete,remove,trash,hide"
+    },
+    "times-circle": {
+      "name": "Times Circle",
+      "kw": "Times Circle,close,exit,x"
+    },
+    "check-circle": {
+      "name": "Check Circle",
+      "kw": "Check Circle,todo,done,agree,accept,confirm,ok"
+    },
+    "question-circle": {
+      "name": "Question Circle",
+      "kw": "Question Circle,help,information,unknown,support"
+    },
+    "info-circle": {
+      "name": "Info Circle",
+      "kw": "Info Circle,help,information,more,details"
+    },
+    "crosshairs": {
+      "name": "Crosshairs",
+      "kw": "Crosshairs,picker"
+    },
+    "times-circle-o": {
+      "name": "Times Circle Outlined",
+      "kw": "Times Circle Outlined,close,exit,x"
+    },
+    "check-circle-o": {
+      "name": "Check Circle Outlined",
+      "kw": "Check Circle Outlined,todo,done,agree,accept,confirm,ok"
+    },
+    "ban": {
+      "name": "ban",
+      "kw": "ban,delete,remove,trash,hide,block,stop,abort,cancel"
+    },
+    "arrow-left": {
+      "name": "arrow-left",
+      "kw": "arrow-left,previous,back"
+    },
+    "arrow-right": {
+      "name": "arrow-right",
+      "kw": "arrow-right,next,forward"
+    },
+    "arrow-up": {
+      "name": "arrow-up",
+      "kw": "arrow-up"
+    },
+    "arrow-down": {
+      "name": "arrow-down",
+      "kw": "arrow-down,download"
+    },
+    "share": {
+      "name": "Share",
+      "kw": "Share"
+    },
+    "expand": {
+      "name": "Expand",
+      "kw": "Expand,enlarge,bigger,resize"
+    },
+    "compress": {
+      "name": "Compress",
+      "kw": "Compress,collapse,combine,contract,merge,smaller"
+    },
+    "plus": {
+      "name": "plus",
+      "kw": "plus,add,new,create,expand"
+    },
+    "minus": {
+      "name": "minus",
+      "kw": "minus,hide,minify,delete,remove,trash,hide,collapse"
+    },
+    "asterisk": {
+      "name": "asterisk",
+      "kw": "asterisk,details"
+    },
+    "exclamation-circle": {
+      "name": "Exclamation Circle",
+      "kw": "Exclamation Circle,warning,error,problem,notification,alert"
+    },
+    "gift": {
+      "name": "gift",
+      "kw": "gift,present"
+    },
+    "leaf": {
+      "name": "leaf",
+      "kw": "leaf,eco,nature,plant"
+    },
+    "fire": {
+      "name": "fire",
+      "kw": "fire,flame,hot,popular"
+    },
+    "eye": {
+      "name": "Eye",
+      "kw": "Eye,show,visible,views"
+    },
+    "eye-slash": {
+      "name": "Eye Slash",
+      "kw": "Eye Slash,toggle,show,hide,visible,visiblity,views"
+    },
+    "exclamation-triangle": {
+      "name": "Exclamation Triangle",
+      "kw": "Exclamation Triangle,warning,error,problem,notification,alert"
+    },
+    "plane": {
+      "name": "plane",
+      "kw": "plane,travel,trip,location,destination,airplane,fly,mode"
+    },
+    "calendar": {
+      "name": "calendar",
+      "kw": "calendar,date,time,when,event"
+    },
+    "random": {
+      "name": "random",
+      "kw": "random,sort,shuffle"
+    },
+    "comment": {
+      "name": "comment",
+      "kw": "comment,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "magnet": {
+      "name": "magnet",
+      "kw": "magnet"
+    },
+    "chevron-up": {
+      "name": "chevron-up",
+      "kw": "chevron-up"
+    },
+    "chevron-down": {
+      "name": "chevron-down",
+      "kw": "chevron-down"
+    },
+    "retweet": {
+      "name": "retweet",
+      "kw": "retweet,refresh,reload,share"
+    },
+    "shopping-cart": {
+      "name": "shopping-cart",
+      "kw": "shopping-cart,checkout,buy,purchase,payment"
+    },
+    "folder": {
+      "name": "Folder",
+      "kw": "Folder"
+    },
+    "folder-open": {
+      "name": "Folder Open",
+      "kw": "Folder Open"
+    },
+    "arrows-v": {
+      "name": "Arrows Vertical",
+      "kw": "Arrows Vertical,resize"
+    },
+    "arrows-h": {
+      "name": "Arrows Horizontal",
+      "kw": "Arrows Horizontal,resize"
+    },
+    "bar-chart": {
+      "name": "Bar Chart",
+      "kw": "Bar Chart,graph,analytics"
+    },
+    "twitter-square": {
+      "name": "Twitter Square",
+      "kw": "Twitter Square,tweet,social network"
+    },
+    "facebook-square": {
+      "name": "Facebook Square",
+      "kw": "Facebook Square,social network"
+    },
+    "camera-retro": {
+      "name": "camera-retro",
+      "kw": "camera-retro,photo,picture,record"
+    },
+    "key": {
+      "name": "key",
+      "kw": "key,unlock,password"
+    },
+    "cogs": {
+      "name": "cogs",
+      "kw": "cogs,settings"
+    },
+    "comments": {
+      "name": "comments",
+      "kw": "comments,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "thumbs-o-up": {
+      "name": "Thumbs Up Outlined",
+      "kw": "Thumbs Up Outlined,like,approve,favorite,agree,hand"
+    },
+    "thumbs-o-down": {
+      "name": "Thumbs Down Outlined",
+      "kw": "Thumbs Down Outlined,dislike,disapprove,disagree,hand"
+    },
+    "star-half": {
+      "name": "star-half",
+      "kw": "star-half,award,achievement,rating,score"
+    },
+    "heart-o": {
+      "name": "Heart Outlined",
+      "kw": "Heart Outlined,love,like,favorite"
+    },
+    "sign-out": {
+      "name": "Sign Out",
+      "kw": "Sign Out,log out,logout,leave,exit,arrow"
+    },
+    "linkedin-square": {
+      "name": "LinkedIn Square",
+      "kw": "LinkedIn Square"
+    },
+    "thumb-tack": {
+      "name": "Thumb Tack",
+      "kw": "Thumb Tack,marker,pin,location,coordinates"
+    },
+    "external-link": {
+      "name": "External Link",
+      "kw": "External Link,open,new"
+    },
+    "sign-in": {
+      "name": "Sign In",
+      "kw": "Sign In,enter,join,log in,login,sign up,sign in,signin,signup,arrow"
+    },
+    "trophy": {
+      "name": "trophy",
+      "kw": "trophy,award,achievement,cup,winner,game"
+    },
+    "github-square": {
+      "name": "GitHub Square",
+      "kw": "GitHub Square,octocat"
+    },
+    "upload": {
+      "name": "Upload",
+      "kw": "Upload,import"
+    },
+    "lemon-o": {
+      "name": "Lemon Outlined",
+      "kw": "Lemon Outlined,food"
+    },
+    "phone": {
+      "name": "Phone",
+      "kw": "Phone,call,voice,number,support,earphone,telephone"
+    },
+    "square-o": {
+      "name": "Square Outlined",
+      "kw": "Square Outlined,block,square,box"
+    },
+    "bookmark-o": {
+      "name": "Bookmark Outlined",
+      "kw": "Bookmark Outlined,save"
+    },
+    "phone-square": {
+      "name": "Phone Square",
+      "kw": "Phone Square,call,voice,number,support,telephone"
+    },
+    "twitter": {
+      "name": "Twitter",
+      "kw": "Twitter,tweet,social network"
+    },
+    "facebook": {
+      "name": "Facebook",
+      "kw": "Facebook,social network"
+    },
+    "github": {
+      "name": "GitHub",
+      "kw": "GitHub,octocat"
+    },
+    "unlock": {
+      "name": "unlock",
+      "kw": "unlock,protect,admin,password,lock"
+    },
+    "credit-card": {
+      "name": "credit-card",
+      "kw": "credit-card,money,buy,debit,checkout,purchase,payment"
+    },
+    "rss": {
+      "name": "rss",
+      "kw": "rss,blog"
+    },
+    "hdd-o": {
+      "name": "HDD",
+      "kw": "HDD,harddrive,hard drive,storage,save"
+    },
+    "bullhorn": {
+      "name": "bullhorn",
+      "kw": "bullhorn,announcement,share,broadcast,louder,megaphone"
+    },
+    "bell": {
+      "name": "bell",
+      "kw": "bell,alert,reminder,notification"
+    },
+    "certificate": {
+      "name": "certificate",
+      "kw": "certificate,badge,star"
+    },
+    "hand-o-right": {
+      "name": "Hand Outlined Right",
+      "kw": "Hand Outlined Right,point,right,next,forward,finger"
+    },
+    "hand-o-left": {
+      "name": "Hand Outlined Left",
+      "kw": "Hand Outlined Left,point,left,previous,back,finger"
+    },
+    "hand-o-up": {
+      "name": "Hand Outlined Up",
+      "kw": "Hand Outlined Up,point,finger"
+    },
+    "hand-o-down": {
+      "name": "Hand Outlined Down",
+      "kw": "Hand Outlined Down,point,finger"
+    },
+    "arrow-circle-left": {
+      "name": "Arrow Circle Left",
+      "kw": "Arrow Circle Left,previous,back"
+    },
+    "arrow-circle-right": {
+      "name": "Arrow Circle Right",
+      "kw": "Arrow Circle Right,next,forward"
+    },
+    "arrow-circle-up": {
+      "name": "Arrow Circle Up",
+      "kw": "Arrow Circle Up"
+    },
+    "arrow-circle-down": {
+      "name": "Arrow Circle Down",
+      "kw": "Arrow Circle Down,download"
+    },
+    "globe": {
+      "name": "Globe",
+      "kw": "Globe,world,planet,map,place,travel,earth,global,translate,all,language,localize,location,coordinates,country"
+    },
+    "wrench": {
+      "name": "Wrench",
+      "kw": "Wrench,settings,fix,update,spanner"
+    },
+    "tasks": {
+      "name": "Tasks",
+      "kw": "Tasks,progress,loading,downloading,downloads,settings"
+    },
+    "filter": {
+      "name": "Filter",
+      "kw": "Filter,funnel,options"
+    },
+    "briefcase": {
+      "name": "Briefcase",
+      "kw": "Briefcase,work,business,office,luggage,bag"
+    },
+    "arrows-alt": {
+      "name": "Arrows Alt",
+      "kw": "Arrows Alt,expand,enlarge,fullscreen,bigger,move,reorder,resize,arrow"
+    },
+    "users": {
+      "name": "Users",
+      "kw": "Users,people,profiles,persons"
+    },
+    "link": {
+      "name": "Link",
+      "kw": "Link,chain"
+    },
+    "cloud": {
+      "name": "Cloud",
+      "kw": "Cloud,save"
+    },
+    "flask": {
+      "name": "Flask",
+      "kw": "Flask,science,beaker,experimental,labs"
+    },
+    "scissors": {
+      "name": "Scissors",
+      "kw": "Scissors"
+    },
+    "files-o": {
+      "name": "Files Outlined",
+      "kw": "Files Outlined,duplicate,clone,copy"
+    },
+    "paperclip": {
+      "name": "Paperclip",
+      "kw": "Paperclip,attachment"
+    },
+    "floppy-o": {
+      "name": "Floppy Outlined",
+      "kw": "Floppy Outlined"
+    },
+    "square": {
+      "name": "Square",
+      "kw": "Square,block,box"
+    },
+    "bars": {
+      "name": "Bars",
+      "kw": "Bars,menu,drag,reorder,settings,list,ul,ol,checklist,todo,list,hamburger"
+    },
+    "list-ul": {
+      "name": "list-ul",
+      "kw": "list-ul,ul,ol,checklist,todo,list"
+    },
+    "list-ol": {
+      "name": "list-ol",
+      "kw": "list-ol,ul,ol,checklist,list,todo,list,numbers"
+    },
+    "strikethrough": {
+      "name": "Strikethrough",
+      "kw": "Strikethrough"
+    },
+    "underline": {
+      "name": "Underline",
+      "kw": "Underline"
+    },
+    "table": {
+      "name": "table",
+      "kw": "table,data,excel,spreadsheet"
+    },
+    "magic": {
+      "name": "magic",
+      "kw": "magic,wizard,automatic,autocomplete"
+    },
+    "truck": {
+      "name": "truck",
+      "kw": "truck,shipping"
+    },
+    "pinterest": {
+      "name": "Pinterest",
+      "kw": "Pinterest"
+    },
+    "pinterest-square": {
+      "name": "Pinterest Square",
+      "kw": "Pinterest Square"
+    },
+    "google-plus-square": {
+      "name": "Google Plus Square",
+      "kw": "Google Plus Square,social network"
+    },
+    "google-plus": {
+      "name": "Google Plus",
+      "kw": "Google Plus,social network"
+    },
+    "money": {
+      "name": "Money",
+      "kw": "Money,cash,money,buy,checkout,purchase,payment"
+    },
+    "caret-down": {
+      "name": "Caret Down",
+      "kw": "Caret Down,more,dropdown,menu,triangle down,arrow"
+    },
+    "caret-up": {
+      "name": "Caret Up",
+      "kw": "Caret Up,triangle up,arrow"
+    },
+    "caret-left": {
+      "name": "Caret Left",
+      "kw": "Caret Left,previous,back,triangle left,arrow"
+    },
+    "caret-right": {
+      "name": "Caret Right",
+      "kw": "Caret Right,next,forward,triangle right,arrow"
+    },
+    "columns": {
+      "name": "Columns",
+      "kw": "Columns,split,panes"
+    },
+    "sort": {
+      "name": "Sort",
+      "kw": "Sort,order"
+    },
+    "sort-desc": {
+      "name": "Sort Descending",
+      "kw": "Sort Descending,dropdown,more,menu,arrow"
+    },
+    "sort-asc": {
+      "name": "Sort Ascending",
+      "kw": "Sort Ascending,arrow"
+    },
+    "envelope": {
+      "name": "Envelope",
+      "kw": "Envelope,email,e-mail,letter,support,mail,message,notification"
+    },
+    "linkedin": {
+      "name": "LinkedIn",
+      "kw": "LinkedIn"
+    },
+    "undo": {
+      "name": "Undo",
+      "kw": "Undo,back"
+    },
+    "gavel": {
+      "name": "Gavel",
+      "kw": "Gavel,judge,lawyer,opinion"
+    },
+    "tachometer": {
+      "name": "Tachometer",
+      "kw": "Tachometer,speedometer,fast"
+    },
+    "comment-o": {
+      "name": "comment-o",
+      "kw": "comment-o,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "comments-o": {
+      "name": "comments-o",
+      "kw": "comments-o,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "bolt": {
+      "name": "Lightning Bolt",
+      "kw": "Lightning Bolt,lightning,weather"
+    },
+    "sitemap": {
+      "name": "Sitemap",
+      "kw": "Sitemap,directory,hierarchy,organization"
+    },
+    "umbrella": {
+      "name": "Umbrella",
+      "kw": "Umbrella"
+    },
+    "clipboard": {
+      "name": "Clipboard",
+      "kw": "Clipboard,copy"
+    },
+    "lightbulb-o": {
+      "name": "Lightbulb Outlined",
+      "kw": "Lightbulb Outlined,idea,inspiration"
+    },
+    "exchange": {
+      "name": "Exchange",
+      "kw": "Exchange,transfer,arrows,arrow"
+    },
+    "cloud-download": {
+      "name": "Cloud Download",
+      "kw": "Cloud Download,import"
+    },
+    "cloud-upload": {
+      "name": "Cloud Upload",
+      "kw": "Cloud Upload,import"
+    },
+    "user-md": {
+      "name": "user-md",
+      "kw": "user-md,doctor,profile,medical,nurse"
+    },
+    "stethoscope": {
+      "name": "Stethoscope",
+      "kw": "Stethoscope"
+    },
+    "suitcase": {
+      "name": "Suitcase",
+      "kw": "Suitcase,trip,luggage,travel,move,baggage"
+    },
+    "bell-o": {
+      "name": "Bell Outlined",
+      "kw": "Bell Outlined,alert,reminder,notification"
+    },
+    "coffee": {
+      "name": "Coffee",
+      "kw": "Coffee,morning,mug,breakfast,tea,drink,cafe"
+    },
+    "cutlery": {
+      "name": "Cutlery",
+      "kw": "Cutlery,food,restaurant,spoon,knife,dinner,eat"
+    },
+    "file-text-o": {
+      "name": "File Text Outlined",
+      "kw": "File Text Outlined,new,page,pdf,document"
+    },
+    "building-o": {
+      "name": "Building Outlined",
+      "kw": "Building Outlined,work,business,apartment,office,company"
+    },
+    "hospital-o": {
+      "name": "hospital Outlined",
+      "kw": "hospital Outlined,building"
+    },
+    "ambulance": {
+      "name": "ambulance",
+      "kw": "ambulance,vehicle,support,help"
+    },
+    "medkit": {
+      "name": "medkit",
+      "kw": "medkit,first aid,firstaid,help,support,health"
+    },
+    "fighter-jet": {
+      "name": "fighter-jet",
+      "kw": "fighter-jet,fly,plane,airplane,quick,fast,travel"
+    },
+    "beer": {
+      "name": "beer",
+      "kw": "beer,alcohol,stein,drink,mug,bar,liquor"
+    },
+    "h-square": {
+      "name": "H Square",
+      "kw": "H Square,hospital,hotel"
+    },
+    "plus-square": {
+      "name": "Plus Square",
+      "kw": "Plus Square,add,new,create,expand"
+    },
+    "angle-double-left": {
+      "name": "Angle Double Left",
+      "kw": "Angle Double Left,laquo,quote,previous,back,arrows"
+    },
+    "angle-double-right": {
+      "name": "Angle Double Right",
+      "kw": "Angle Double Right,raquo,quote,next,forward,arrows"
+    },
+    "angle-double-up": {
+      "name": "Angle Double Up",
+      "kw": "Angle Double Up,arrows"
+    },
+    "angle-double-down": {
+      "name": "Angle Double Down",
+      "kw": "Angle Double Down,arrows"
+    },
+    "angle-left": {
+      "name": "angle-left",
+      "kw": "angle-left,previous,back,arrow"
+    },
+    "angle-right": {
+      "name": "angle-right",
+      "kw": "angle-right,next,forward,arrow"
+    },
+    "angle-up": {
+      "name": "angle-up",
+      "kw": "angle-up,arrow"
+    },
+    "angle-down": {
+      "name": "angle-down",
+      "kw": "angle-down,arrow"
+    },
+    "desktop": {
+      "name": "Desktop",
+      "kw": "Desktop,monitor,screen,desktop,computer,demo,device"
+    },
+    "laptop": {
+      "name": "Laptop",
+      "kw": "Laptop,demo,computer,device"
+    },
+    "tablet": {
+      "name": "tablet",
+      "kw": "tablet,ipad,device"
+    },
+    "mobile": {
+      "name": "Mobile Phone",
+      "kw": "Mobile Phone,cell phone,cellphone,text,call,iphone,number,telephone"
+    },
+    "circle-o": {
+      "name": "Circle Outlined",
+      "kw": "Circle Outlined"
+    },
+    "quote-left": {
+      "name": "quote-left",
+      "kw": "quote-left"
+    },
+    "quote-right": {
+      "name": "quote-right",
+      "kw": "quote-right"
+    },
+    "spinner": {
+      "name": "Spinner",
+      "kw": "Spinner,loading,progress"
+    },
+    "circle": {
+      "name": "Circle",
+      "kw": "Circle,dot,notification"
+    },
+    "reply": {
+      "name": "Reply",
+      "kw": "Reply"
+    },
+    "github-alt": {
+      "name": "GitHub Alt",
+      "kw": "GitHub Alt,octocat"
+    },
+    "folder-o": {
+      "name": "Folder Outlined",
+      "kw": "Folder Outlined"
+    },
+    "folder-open-o": {
+      "name": "Folder Open Outlined",
+      "kw": "Folder Open Outlined"
+    },
+    "smile-o": {
+      "name": "Smile Outlined",
+      "kw": "Smile Outlined,face,emoticon,happy,approve,satisfied,rating"
+    },
+    "frown-o": {
+      "name": "Frown Outlined",
+      "kw": "Frown Outlined,face,emoticon,sad,disapprove,rating"
+    },
+    "meh-o": {
+      "name": "Meh Outlined",
+      "kw": "Meh Outlined,face,emoticon,rating,neutral"
+    },
+    "gamepad": {
+      "name": "Gamepad",
+      "kw": "Gamepad,controller"
+    },
+    "keyboard-o": {
+      "name": "Keyboard Outlined",
+      "kw": "Keyboard Outlined,type,input"
+    },
+    "flag-o": {
+      "name": "Flag Outlined",
+      "kw": "Flag Outlined,report,notification"
+    },
+    "flag-checkered": {
+      "name": "flag-checkered",
+      "kw": "flag-checkered,report,notification,notify"
+    },
+    "terminal": {
+      "name": "Terminal",
+      "kw": "Terminal,command,prompt,code"
+    },
+    "code": {
+      "name": "Code",
+      "kw": "Code,html,brackets"
+    },
+    "reply-all": {
+      "name": "reply-all",
+      "kw": "reply-all"
+    },
+    "star-half-o": {
+      "name": "Star Half Outlined",
+      "kw": "Star Half Outlined,award,achievement,rating,score"
+    },
+    "location-arrow": {
+      "name": "location-arrow",
+      "kw": "location-arrow,map,coordinates,location,address,place,where"
+    },
+    "crop": {
+      "name": "crop",
+      "kw": "crop"
+    },
+    "code-fork": {
+      "name": "code-fork",
+      "kw": "code-fork,git,fork,vcs,svn,github,rebase,version,merge"
+    },
+    "chain-broken": {
+      "name": "Chain Broken",
+      "kw": "Chain Broken,remove"
+    },
+    "question": {
+      "name": "Question",
+      "kw": "Question,help,information,unknown,support"
+    },
+    "info": {
+      "name": "Info",
+      "kw": "Info,help,information,more,details"
+    },
+    "exclamation": {
+      "name": "exclamation",
+      "kw": "exclamation,warning,error,problem,notification,notify,alert"
+    },
+    "superscript": {
+      "name": "superscript",
+      "kw": "superscript,exponential"
+    },
+    "subscript": {
+      "name": "subscript",
+      "kw": "subscript"
+    },
+    "eraser": {
+      "name": "eraser",
+      "kw": "eraser,remove,delete"
+    },
+    "puzzle-piece": {
+      "name": "Puzzle Piece",
+      "kw": "Puzzle Piece,addon,add-on,section"
+    },
+    "microphone": {
+      "name": "microphone",
+      "kw": "microphone,record,voice,sound"
+    },
+    "microphone-slash": {
+      "name": "Microphone Slash",
+      "kw": "Microphone Slash,record,voice,sound,mute"
+    },
+    "shield": {
+      "name": "shield",
+      "kw": "shield,award,achievement,security,winner"
+    },
+    "calendar-o": {
+      "name": "calendar-o",
+      "kw": "calendar-o,date,time,when,event"
+    },
+    "fire-extinguisher": {
+      "name": "fire-extinguisher",
+      "kw": "fire-extinguisher"
+    },
+    "rocket": {
+      "name": "rocket",
+      "kw": "rocket,app"
+    },
+    "maxcdn": {
+      "name": "MaxCDN",
+      "kw": "MaxCDN"
+    },
+    "chevron-circle-left": {
+      "name": "Chevron Circle Left",
+      "kw": "Chevron Circle Left,previous,back,arrow"
+    },
+    "chevron-circle-right": {
+      "name": "Chevron Circle Right",
+      "kw": "Chevron Circle Right,next,forward,arrow"
+    },
+    "chevron-circle-up": {
+      "name": "Chevron Circle Up",
+      "kw": "Chevron Circle Up,arrow"
+    },
+    "chevron-circle-down": {
+      "name": "Chevron Circle Down",
+      "kw": "Chevron Circle Down,more,dropdown,menu,arrow"
+    },
+    "html5": {
+      "name": "HTML 5 Logo",
+      "kw": "HTML 5 Logo"
+    },
+    "css3": {
+      "name": "CSS 3 Logo",
+      "kw": "CSS 3 Logo,code"
+    },
+    "anchor": {
+      "name": "Anchor",
+      "kw": "Anchor,link"
+    },
+    "unlock-alt": {
+      "name": "Unlock Alt",
+      "kw": "Unlock Alt,protect,admin,password,lock"
+    },
+    "bullseye": {
+      "name": "Bullseye",
+      "kw": "Bullseye,target"
+    },
+    "ellipsis-h": {
+      "name": "Ellipsis Horizontal",
+      "kw": "Ellipsis Horizontal,dots"
+    },
+    "ellipsis-v": {
+      "name": "Ellipsis Vertical",
+      "kw": "Ellipsis Vertical,dots"
+    },
+    "rss-square": {
+      "name": "RSS Square",
+      "kw": "RSS Square,feed,blog"
+    },
+    "play-circle": {
+      "name": "Play Circle",
+      "kw": "Play Circle,start,playing"
+    },
+    "ticket": {
+      "name": "Ticket",
+      "kw": "Ticket,movie,pass,support"
+    },
+    "minus-square": {
+      "name": "Minus Square",
+      "kw": "Minus Square,hide,minify,delete,remove,trash,hide,collapse"
+    },
+    "minus-square-o": {
+      "name": "Minus Square Outlined",
+      "kw": "Minus Square Outlined,hide,minify,delete,remove,trash,hide,collapse"
+    },
+    "level-up": {
+      "name": "Level Up",
+      "kw": "Level Up,arrow"
+    },
+    "level-down": {
+      "name": "Level Down",
+      "kw": "Level Down,arrow"
+    },
+    "check-square": {
+      "name": "Check Square",
+      "kw": "Check Square,checkmark,done,todo,agree,accept,confirm,ok"
+    },
+    "pencil-square": {
+      "name": "Pencil Square",
+      "kw": "Pencil Square,write,edit,update"
+    },
+    "external-link-square": {
+      "name": "External Link Square",
+      "kw": "External Link Square,open,new"
+    },
+    "share-square": {
+      "name": "Share Square",
+      "kw": "Share Square,social,send"
+    },
+    "compass": {
+      "name": "Compass",
+      "kw": "Compass,safari,directory,menu,location"
+    },
+    "caret-square-o-down": {
+      "name": "Caret Square Outlined Down",
+      "kw": "Caret Square Outlined Down,more,dropdown,menu"
+    },
+    "caret-square-o-up": {
+      "name": "Caret Square Outlined Up",
+      "kw": "Caret Square Outlined Up"
+    },
+    "caret-square-o-right": {
+      "name": "Caret Square Outlined Right",
+      "kw": "Caret Square Outlined Right,next,forward"
+    },
+    "eur": {
+      "name": "Euro (EUR)",
+      "kw": "Euro (EUR)"
+    },
+    "gbp": {
+      "name": "GBP",
+      "kw": "GBP"
+    },
+    "usd": {
+      "name": "US Dollar",
+      "kw": "US Dollar"
+    },
+    "inr": {
+      "name": "Indian Rupee (INR)",
+      "kw": "Indian Rupee (INR)"
+    },
+    "jpy": {
+      "name": "Japanese Yen (JPY)",
+      "kw": "Japanese Yen (JPY)"
+    },
+    "rub": {
+      "name": "Russian Ruble (RUB)",
+      "kw": "Russian Ruble (RUB)"
+    },
+    "krw": {
+      "name": "Korean Won (KRW)",
+      "kw": "Korean Won (KRW)"
+    },
+    "btc": {
+      "name": "Bitcoin (BTC)",
+      "kw": "Bitcoin (BTC)"
+    },
+    "file": {
+      "name": "File",
+      "kw": "File,new,page,pdf,document"
+    },
+    "file-text": {
+      "name": "File Text",
+      "kw": "File Text,new,page,pdf,document"
+    },
+    "sort-alpha-asc": {
+      "name": "Sort Alpha Ascending",
+      "kw": "Sort Alpha Ascending"
+    },
+    "sort-alpha-desc": {
+      "name": "Sort Alpha Descending",
+      "kw": "Sort Alpha Descending"
+    },
+    "sort-amount-asc": {
+      "name": "Sort Amount Ascending",
+      "kw": "Sort Amount Ascending"
+    },
+    "sort-amount-desc": {
+      "name": "Sort Amount Descending",
+      "kw": "Sort Amount Descending"
+    },
+    "sort-numeric-asc": {
+      "name": "Sort Numeric Ascending",
+      "kw": "Sort Numeric Ascending,numbers"
+    },
+    "sort-numeric-desc": {
+      "name": "Sort Numeric Descending",
+      "kw": "Sort Numeric Descending,numbers"
+    },
+    "thumbs-up": {
+      "name": "thumbs-up",
+      "kw": "thumbs-up,like,favorite,approve,agree,hand"
+    },
+    "thumbs-down": {
+      "name": "thumbs-down",
+      "kw": "thumbs-down,dislike,disapprove,disagree,hand"
+    },
+    "youtube-square": {
+      "name": "YouTube Square",
+      "kw": "YouTube Square,video,film"
+    },
+    "youtube": {
+      "name": "YouTube",
+      "kw": "YouTube,video,film"
+    },
+    "xing": {
+      "name": "Xing",
+      "kw": "Xing"
+    },
+    "xing-square": {
+      "name": "Xing Square",
+      "kw": "Xing Square"
+    },
+    "youtube-play": {
+      "name": "YouTube Play",
+      "kw": "YouTube Play,start,playing"
+    },
+    "dropbox": {
+      "name": "Dropbox",
+      "kw": "Dropbox"
+    },
+    "stack-overflow": {
+      "name": "Stack Overflow",
+      "kw": "Stack Overflow"
+    },
+    "instagram": {
+      "name": "Instagram",
+      "kw": "Instagram"
+    },
+    "flickr": {
+      "name": "Flickr",
+      "kw": "Flickr"
+    },
+    "adn": {
+      "name": "App.net",
+      "kw": "App.net"
+    },
+    "bitbucket": {
+      "name": "Bitbucket",
+      "kw": "Bitbucket,git"
+    },
+    "bitbucket-square": {
+      "name": "Bitbucket Square",
+      "kw": "Bitbucket Square,git"
+    },
+    "tumblr": {
+      "name": "Tumblr",
+      "kw": "Tumblr"
+    },
+    "tumblr-square": {
+      "name": "Tumblr Square",
+      "kw": "Tumblr Square"
+    },
+    "long-arrow-down": {
+      "name": "Long Arrow Down",
+      "kw": "Long Arrow Down"
+    },
+    "long-arrow-up": {
+      "name": "Long Arrow Up",
+      "kw": "Long Arrow Up"
+    },
+    "long-arrow-left": {
+      "name": "Long Arrow Left",
+      "kw": "Long Arrow Left,previous,back"
+    },
+    "long-arrow-right": {
+      "name": "Long Arrow Right",
+      "kw": "Long Arrow Right"
+    },
+    "apple": {
+      "name": "Apple",
+      "kw": "Apple,osx,food"
+    },
+    "windows": {
+      "name": "Windows",
+      "kw": "Windows,microsoft"
+    },
+    "android": {
+      "name": "Android",
+      "kw": "Android,robot"
+    },
+    "linux": {
+      "name": "Linux",
+      "kw": "Linux,tux"
+    },
+    "dribbble": {
+      "name": "Dribbble",
+      "kw": "Dribbble"
+    },
+    "skype": {
+      "name": "Skype",
+      "kw": "Skype"
+    },
+    "foursquare": {
+      "name": "Foursquare",
+      "kw": "Foursquare"
+    },
+    "trello": {
+      "name": "Trello",
+      "kw": "Trello"
+    },
+    "female": {
+      "name": "Female",
+      "kw": "Female,woman,user,person,profile"
+    },
+    "male": {
+      "name": "Male",
+      "kw": "Male,man,user,person,profile"
+    },
+    "gratipay": {
+      "name": "Gratipay (Gittip)",
+      "kw": "Gratipay (Gittip),heart,like,favorite,love"
+    },
+    "sun-o": {
+      "name": "Sun Outlined",
+      "kw": "Sun Outlined,weather,contrast,lighter,brighten,day"
+    },
+    "moon-o": {
+      "name": "Moon Outlined",
+      "kw": "Moon Outlined,night,darker,contrast"
+    },
+    "archive": {
+      "name": "Archive",
+      "kw": "Archive,box,storage"
+    },
+    "bug": {
+      "name": "Bug",
+      "kw": "Bug,report,insect"
+    },
+    "vk": {
+      "name": "VK",
+      "kw": "VK"
+    },
+    "weibo": {
+      "name": "Weibo",
+      "kw": "Weibo"
+    },
+    "renren": {
+      "name": "Renren",
+      "kw": "Renren"
+    },
+    "pagelines": {
+      "name": "Pagelines",
+      "kw": "Pagelines,leaf,leaves,tree,plant,eco,nature"
+    },
+    "stack-exchange": {
+      "name": "Stack Exchange",
+      "kw": "Stack Exchange"
+    },
+    "arrow-circle-o-right": {
+      "name": "Arrow Circle Outlined Right",
+      "kw": "Arrow Circle Outlined Right,next,forward"
+    },
+    "arrow-circle-o-left": {
+      "name": "Arrow Circle Outlined Left",
+      "kw": "Arrow Circle Outlined Left,previous,back"
+    },
+    "caret-square-o-left": {
+      "name": "Caret Square Outlined Left",
+      "kw": "Caret Square Outlined Left,previous,back"
+    },
+    "dot-circle-o": {
+      "name": "Dot Circle Outlined",
+      "kw": "Dot Circle Outlined,target,bullseye,notification"
+    },
+    "wheelchair": {
+      "name": "Wheelchair",
+      "kw": "Wheelchair,handicap,person"
+    },
+    "vimeo-square": {
+      "name": "Vimeo Square",
+      "kw": "Vimeo Square"
+    },
+    "try": {
+      "name": "Turkish Lira (TRY)",
+      "kw": "Turkish Lira (TRY)"
+    },
+    "plus-square-o": {
+      "name": "Plus Square Outlined",
+      "kw": "Plus Square Outlined,add,new,create,expand"
+    },
+    "space-shuttle": {
+      "name": "Space Shuttle",
+      "kw": "Space Shuttle"
+    },
+    "slack": {
+      "name": "Slack Logo",
+      "kw": "Slack Logo,hashtag,anchor,hash"
+    },
+    "envelope-square": {
+      "name": "Envelope Square",
+      "kw": "Envelope Square,email,e-mail,letter,support,mail,message,notification"
+    },
+    "wordpress": {
+      "name": "WordPress Logo",
+      "kw": "WordPress Logo"
+    },
+    "openid": {
+      "name": "OpenID",
+      "kw": "OpenID"
+    },
+    "university": {
+      "name": "University",
+      "kw": "University"
+    },
+    "graduation-cap": {
+      "name": "Graduation Cap",
+      "kw": "Graduation Cap,learning,school,student"
+    },
+    "yahoo": {
+      "name": "Yahoo Logo",
+      "kw": "Yahoo Logo"
+    },
+    "google": {
+      "name": "Google Logo",
+      "kw": "Google Logo"
+    },
+    "reddit": {
+      "name": "reddit Logo",
+      "kw": "reddit Logo"
+    },
+    "reddit-square": {
+      "name": "reddit Square",
+      "kw": "reddit Square"
+    },
+    "stumbleupon-circle": {
+      "name": "StumbleUpon Circle",
+      "kw": "StumbleUpon Circle"
+    },
+    "stumbleupon": {
+      "name": "StumbleUpon Logo",
+      "kw": "StumbleUpon Logo"
+    },
+    "delicious": {
+      "name": "Delicious Logo",
+      "kw": "Delicious Logo"
+    },
+    "digg": {
+      "name": "Digg Logo",
+      "kw": "Digg Logo"
+    },
+    "pied-piper-pp": {
+      "name": "Pied Piper PP Logo (Old)",
+      "kw": "Pied Piper PP Logo (Old)"
+    },
+    "pied-piper-alt": {
+      "name": "Pied Piper Alternate Logo",
+      "kw": "Pied Piper Alternate Logo"
+    },
+    "drupal": {
+      "name": "Drupal Logo",
+      "kw": "Drupal Logo"
+    },
+    "joomla": {
+      "name": "Joomla Logo",
+      "kw": "Joomla Logo"
+    },
+    "language": {
+      "name": "Language",
+      "kw": "Language"
+    },
+    "fax": {
+      "name": "Fax",
+      "kw": "Fax"
+    },
+    "building": {
+      "name": "Building",
+      "kw": "Building,work,business,apartment,office,company"
+    },
+    "child": {
+      "name": "Child",
+      "kw": "Child"
+    },
+    "paw": {
+      "name": "Paw",
+      "kw": "Paw,pet"
+    },
+    "spoon": {
+      "name": "spoon",
+      "kw": "spoon"
+    },
+    "cube": {
+      "name": "Cube",
+      "kw": "Cube"
+    },
+    "cubes": {
+      "name": "Cubes",
+      "kw": "Cubes"
+    },
+    "behance": {
+      "name": "Behance",
+      "kw": "Behance"
+    },
+    "behance-square": {
+      "name": "Behance Square",
+      "kw": "Behance Square"
+    },
+    "steam": {
+      "name": "Steam",
+      "kw": "Steam"
+    },
+    "steam-square": {
+      "name": "Steam Square",
+      "kw": "Steam Square"
+    },
+    "recycle": {
+      "name": "Recycle",
+      "kw": "Recycle"
+    },
+    "car": {
+      "name": "Car",
+      "kw": "Car,vehicle"
+    },
+    "taxi": {
+      "name": "Taxi",
+      "kw": "Taxi,vehicle"
+    },
+    "tree": {
+      "name": "Tree",
+      "kw": "Tree"
+    },
+    "spotify": {
+      "name": "Spotify",
+      "kw": "Spotify"
+    },
+    "deviantart": {
+      "name": "deviantART",
+      "kw": "deviantART"
+    },
+    "soundcloud": {
+      "name": "SoundCloud",
+      "kw": "SoundCloud"
+    },
+    "database": {
+      "name": "Database",
+      "kw": "Database"
+    },
+    "file-pdf-o": {
+      "name": "PDF File Outlined",
+      "kw": "PDF File Outlined"
+    },
+    "file-word-o": {
+      "name": "Word File Outlined",
+      "kw": "Word File Outlined"
+    },
+    "file-excel-o": {
+      "name": "Excel File Outlined",
+      "kw": "Excel File Outlined"
+    },
+    "file-powerpoint-o": {
+      "name": "Powerpoint File Outlined",
+      "kw": "Powerpoint File Outlined"
+    },
+    "file-image-o": {
+      "name": "Image File Outlined",
+      "kw": "Image File Outlined"
+    },
+    "file-archive-o": {
+      "name": "Archive File Outlined",
+      "kw": "Archive File Outlined"
+    },
+    "file-audio-o": {
+      "name": "Audio File Outlined",
+      "kw": "Audio File Outlined"
+    },
+    "file-video-o": {
+      "name": "Video File Outlined",
+      "kw": "Video File Outlined"
+    },
+    "file-code-o": {
+      "name": "Code File Outlined",
+      "kw": "Code File Outlined"
+    },
+    "vine": {
+      "name": "Vine",
+      "kw": "Vine"
+    },
+    "codepen": {
+      "name": "Codepen",
+      "kw": "Codepen"
+    },
+    "jsfiddle": {
+      "name": "jsFiddle",
+      "kw": "jsFiddle"
+    },
+    "life-ring": {
+      "name": "Life Ring",
+      "kw": "Life Ring"
+    },
+    "circle-o-notch": {
+      "name": "Circle Outlined Notched",
+      "kw": "Circle Outlined Notched"
+    },
+    "rebel": {
+      "name": "Rebel Alliance",
+      "kw": "Rebel Alliance"
+    },
+    "empire": {
+      "name": "Galactic Empire",
+      "kw": "Galactic Empire"
+    },
+    "git-square": {
+      "name": "Git Square",
+      "kw": "Git Square"
+    },
+    "git": {
+      "name": "Git",
+      "kw": "Git"
+    },
+    "hacker-news": {
+      "name": "Hacker News",
+      "kw": "Hacker News"
+    },
+    "tencent-weibo": {
+      "name": "Tencent Weibo",
+      "kw": "Tencent Weibo"
+    },
+    "qq": {
+      "name": "QQ",
+      "kw": "QQ"
+    },
+    "weixin": {
+      "name": "Weixin (WeChat)",
+      "kw": "Weixin (WeChat)"
+    },
+    "paper-plane": {
+      "name": "Paper Plane",
+      "kw": "Paper Plane"
+    },
+    "paper-plane-o": {
+      "name": "Paper Plane Outlined",
+      "kw": "Paper Plane Outlined"
+    },
+    "history": {
+      "name": "History",
+      "kw": "History"
+    },
+    "circle-thin": {
+      "name": "Circle Outlined Thin",
+      "kw": "Circle Outlined Thin"
+    },
+    "header": {
+      "name": "header",
+      "kw": "header,heading"
+    },
+    "paragraph": {
+      "name": "paragraph",
+      "kw": "paragraph"
+    },
+    "sliders": {
+      "name": "Sliders",
+      "kw": "Sliders,settings"
+    },
+    "share-alt": {
+      "name": "Share Alt",
+      "kw": "Share Alt"
+    },
+    "share-alt-square": {
+      "name": "Share Alt Square",
+      "kw": "Share Alt Square"
+    },
+    "bomb": {
+      "name": "Bomb",
+      "kw": "Bomb"
+    },
+    "futbol-o": {
+      "name": "Futbol Outlined",
+      "kw": "Futbol Outlined"
+    },
+    "tty": {
+      "name": "TTY",
+      "kw": "TTY"
+    },
+    "binoculars": {
+      "name": "Binoculars",
+      "kw": "Binoculars"
+    },
+    "plug": {
+      "name": "Plug",
+      "kw": "Plug,power,connect"
+    },
+    "slideshare": {
+      "name": "Slideshare",
+      "kw": "Slideshare"
+    },
+    "twitch": {
+      "name": "Twitch",
+      "kw": "Twitch"
+    },
+    "yelp": {
+      "name": "Yelp",
+      "kw": "Yelp"
+    },
+    "newspaper-o": {
+      "name": "Newspaper Outlined",
+      "kw": "Newspaper Outlined,press"
+    },
+    "wifi": {
+      "name": "WiFi",
+      "kw": "WiFi"
+    },
+    "calculator": {
+      "name": "Calculator",
+      "kw": "Calculator"
+    },
+    "paypal": {
+      "name": "Paypal",
+      "kw": "Paypal"
+    },
+    "google-wallet": {
+      "name": "Google Wallet",
+      "kw": "Google Wallet"
+    },
+    "cc-visa": {
+      "name": "Visa Credit Card",
+      "kw": "Visa Credit Card"
+    },
+    "cc-mastercard": {
+      "name": "MasterCard Credit Card",
+      "kw": "MasterCard Credit Card"
+    },
+    "cc-discover": {
+      "name": "Discover Credit Card",
+      "kw": "Discover Credit Card"
+    },
+    "cc-amex": {
+      "name": "American Express Credit Card",
+      "kw": "American Express Credit Card,amex"
+    },
+    "cc-paypal": {
+      "name": "Paypal Credit Card",
+      "kw": "Paypal Credit Card"
+    },
+    "cc-stripe": {
+      "name": "Stripe Credit Card",
+      "kw": "Stripe Credit Card"
+    },
+    "bell-slash": {
+      "name": "Bell Slash",
+      "kw": "Bell Slash"
+    },
+    "bell-slash-o": {
+      "name": "Bell Slash Outlined",
+      "kw": "Bell Slash Outlined"
+    },
+    "trash": {
+      "name": "Trash",
+      "kw": "Trash,garbage,delete,remove,hide"
+    },
+    "copyright": {
+      "name": "Copyright",
+      "kw": "Copyright"
+    },
+    "at": {
+      "name": "At",
+      "kw": "At,email,e-mail"
+    },
+    "eyedropper": {
+      "name": "Eyedropper",
+      "kw": "Eyedropper"
+    },
+    "paint-brush": {
+      "name": "Paint Brush",
+      "kw": "Paint Brush"
+    },
+    "birthday-cake": {
+      "name": "Birthday Cake",
+      "kw": "Birthday Cake"
+    },
+    "area-chart": {
+      "name": "Area Chart",
+      "kw": "Area Chart,graph,analytics"
+    },
+    "pie-chart": {
+      "name": "Pie Chart",
+      "kw": "Pie Chart,graph,analytics"
+    },
+    "line-chart": {
+      "name": "Line Chart",
+      "kw": "Line Chart,graph,analytics"
+    },
+    "lastfm": {
+      "name": "last.fm",
+      "kw": "last.fm"
+    },
+    "lastfm-square": {
+      "name": "last.fm Square",
+      "kw": "last.fm Square"
+    },
+    "toggle-off": {
+      "name": "Toggle Off",
+      "kw": "Toggle Off"
+    },
+    "toggle-on": {
+      "name": "Toggle On",
+      "kw": "Toggle On"
+    },
+    "bicycle": {
+      "name": "Bicycle",
+      "kw": "Bicycle,vehicle,bike"
+    },
+    "bus": {
+      "name": "Bus",
+      "kw": "Bus,vehicle"
+    },
+    "ioxhost": {
+      "name": "ioxhost",
+      "kw": "ioxhost"
+    },
+    "angellist": {
+      "name": "AngelList",
+      "kw": "AngelList"
+    },
+    "cc": {
+      "name": "Closed Captions",
+      "kw": "Closed Captions"
+    },
+    "ils": {
+      "name": "Shekel (ILS)",
+      "kw": "Shekel (ILS)"
+    },
+    "meanpath": {
+      "name": "meanpath",
+      "kw": "meanpath"
+    },
+    "buysellads": {
+      "name": "BuySellAds",
+      "kw": "BuySellAds"
+    },
+    "connectdevelop": {
+      "name": "Connect Develop",
+      "kw": "Connect Develop"
+    },
+    "dashcube": {
+      "name": "DashCube",
+      "kw": "DashCube"
+    },
+    "forumbee": {
+      "name": "Forumbee",
+      "kw": "Forumbee"
+    },
+    "leanpub": {
+      "name": "Leanpub",
+      "kw": "Leanpub"
+    },
+    "sellsy": {
+      "name": "Sellsy",
+      "kw": "Sellsy"
+    },
+    "shirtsinbulk": {
+      "name": "Shirts in Bulk",
+      "kw": "Shirts in Bulk"
+    },
+    "simplybuilt": {
+      "name": "SimplyBuilt",
+      "kw": "SimplyBuilt"
+    },
+    "skyatlas": {
+      "name": "skyatlas",
+      "kw": "skyatlas"
+    },
+    "cart-plus": {
+      "name": "Add to Shopping Cart",
+      "kw": "Add to Shopping Cart,add,shopping"
+    },
+    "cart-arrow-down": {
+      "name": "Shopping Cart Arrow Down",
+      "kw": "Shopping Cart Arrow Down,shopping"
+    },
+    "diamond": {
+      "name": "Diamond",
+      "kw": "Diamond,gem,gemstone"
+    },
+    "ship": {
+      "name": "Ship",
+      "kw": "Ship,boat,sea"
+    },
+    "user-secret": {
+      "name": "User Secret",
+      "kw": "User Secret,whisper,spy,incognito,privacy"
+    },
+    "motorcycle": {
+      "name": "Motorcycle",
+      "kw": "Motorcycle,vehicle,bike"
+    },
+    "street-view": {
+      "name": "Street View",
+      "kw": "Street View,map"
+    },
+    "heartbeat": {
+      "name": "Heartbeat",
+      "kw": "Heartbeat,ekg"
+    },
+    "venus": {
+      "name": "Venus",
+      "kw": "Venus,female"
+    },
+    "mars": {
+      "name": "Mars",
+      "kw": "Mars,male"
+    },
+    "mercury": {
+      "name": "Mercury",
+      "kw": "Mercury,transgender"
+    },
+    "transgender": {
+      "name": "Transgender",
+      "kw": "Transgender"
+    },
+    "transgender-alt": {
+      "name": "Transgender Alt",
+      "kw": "Transgender Alt"
+    },
+    "venus-double": {
+      "name": "Venus Double",
+      "kw": "Venus Double"
+    },
+    "mars-double": {
+      "name": "Mars Double",
+      "kw": "Mars Double"
+    },
+    "venus-mars": {
+      "name": "Venus Mars",
+      "kw": "Venus Mars"
+    },
+    "mars-stroke": {
+      "name": "Mars Stroke",
+      "kw": "Mars Stroke"
+    },
+    "mars-stroke-v": {
+      "name": "Mars Stroke Vertical",
+      "kw": "Mars Stroke Vertical"
+    },
+    "mars-stroke-h": {
+      "name": "Mars Stroke Horizontal",
+      "kw": "Mars Stroke Horizontal"
+    },
+    "neuter": {
+      "name": "Neuter",
+      "kw": "Neuter"
+    },
+    "genderless": {
+      "name": "Genderless",
+      "kw": "Genderless"
+    },
+    "facebook-official": {
+      "name": "Facebook Official",
+      "kw": "Facebook Official"
+    },
+    "pinterest-p": {
+      "name": "Pinterest P",
+      "kw": "Pinterest P"
+    },
+    "whatsapp": {
+      "name": "What's App",
+      "kw": "What's App"
+    },
+    "server": {
+      "name": "Server",
+      "kw": "Server"
+    },
+    "user-plus": {
+      "name": "Add User",
+      "kw": "Add User,sign up,signup"
+    },
+    "user-times": {
+      "name": "Remove User",
+      "kw": "Remove User"
+    },
+    "bed": {
+      "name": "Bed",
+      "kw": "Bed,travel"
+    },
+    "viacoin": {
+      "name": "Viacoin",
+      "kw": "Viacoin"
+    },
+    "train": {
+      "name": "Train",
+      "kw": "Train"
+    },
+    "subway": {
+      "name": "Subway",
+      "kw": "Subway"
+    },
+    "medium": {
+      "name": "Medium",
+      "kw": "Medium"
+    },
+    "y-combinator": {
+      "name": "Y Combinator",
+      "kw": "Y Combinator"
+    },
+    "optin-monster": {
+      "name": "Optin Monster",
+      "kw": "Optin Monster"
+    },
+    "opencart": {
+      "name": "OpenCart",
+      "kw": "OpenCart"
+    },
+    "expeditedssl": {
+      "name": "ExpeditedSSL",
+      "kw": "ExpeditedSSL"
+    },
+    "battery-full": {
+      "name": "Battery Full",
+      "kw": "Battery Full,power"
+    },
+    "battery-three-quarters": {
+      "name": "Battery 3/4 Full",
+      "kw": "Battery 3/4 Full,power"
+    },
+    "battery-half": {
+      "name": "Battery 1/2 Full",
+      "kw": "Battery 1/2 Full,power"
+    },
+    "battery-quarter": {
+      "name": "Battery 1/4 Full",
+      "kw": "Battery 1/4 Full,power"
+    },
+    "battery-empty": {
+      "name": "Battery Empty",
+      "kw": "Battery Empty,power"
+    },
+    "mouse-pointer": {
+      "name": "Mouse Pointer",
+      "kw": "Mouse Pointer"
+    },
+    "i-cursor": {
+      "name": "I Beam Cursor",
+      "kw": "I Beam Cursor"
+    },
+    "object-group": {
+      "name": "Object Group",
+      "kw": "Object Group"
+    },
+    "object-ungroup": {
+      "name": "Object Ungroup",
+      "kw": "Object Ungroup"
+    },
+    "sticky-note": {
+      "name": "Sticky Note",
+      "kw": "Sticky Note"
+    },
+    "sticky-note-o": {
+      "name": "Sticky Note Outlined",
+      "kw": "Sticky Note Outlined"
+    },
+    "cc-jcb": {
+      "name": "JCB Credit Card",
+      "kw": "JCB Credit Card"
+    },
+    "cc-diners-club": {
+      "name": "Diner's Club Credit Card",
+      "kw": "Diner's Club Credit Card"
+    },
+    "clone": {
+      "name": "Clone",
+      "kw": "Clone,copy"
+    },
+    "balance-scale": {
+      "name": "Balance Scale",
+      "kw": "Balance Scale"
+    },
+    "hourglass-o": {
+      "name": "Hourglass Outlined",
+      "kw": "Hourglass Outlined"
+    },
+    "hourglass-start": {
+      "name": "Hourglass Start",
+      "kw": "Hourglass Start"
+    },
+    "hourglass-half": {
+      "name": "Hourglass Half",
+      "kw": "Hourglass Half"
+    },
+    "hourglass-end": {
+      "name": "Hourglass End",
+      "kw": "Hourglass End"
+    },
+    "hourglass": {
+      "name": "Hourglass",
+      "kw": "Hourglass"
+    },
+    "hand-rock-o": {
+      "name": "Rock (Hand)",
+      "kw": "Rock (Hand)"
+    },
+    "hand-paper-o": {
+      "name": "Paper (Hand)",
+      "kw": "Paper (Hand),stop"
+    },
+    "hand-scissors-o": {
+      "name": "Scissors (Hand)",
+      "kw": "Scissors (Hand)"
+    },
+    "hand-lizard-o": {
+      "name": "Lizard (Hand)",
+      "kw": "Lizard (Hand)"
+    },
+    "hand-spock-o": {
+      "name": "Spock (Hand)",
+      "kw": "Spock (Hand)"
+    },
+    "hand-pointer-o": {
+      "name": "Hand Pointer",
+      "kw": "Hand Pointer"
+    },
+    "hand-peace-o": {
+      "name": "Hand Peace",
+      "kw": "Hand Peace"
+    },
+    "trademark": {
+      "name": "Trademark",
+      "kw": "Trademark"
+    },
+    "registered": {
+      "name": "Registered Trademark",
+      "kw": "Registered Trademark"
+    },
+    "creative-commons": {
+      "name": "Creative Commons",
+      "kw": "Creative Commons"
+    },
+    "gg": {
+      "name": "GG Currency",
+      "kw": "GG Currency"
+    },
+    "gg-circle": {
+      "name": "GG Currency Circle",
+      "kw": "GG Currency Circle"
+    },
+    "tripadvisor": {
+      "name": "TripAdvisor",
+      "kw": "TripAdvisor"
+    },
+    "odnoklassniki": {
+      "name": "Odnoklassniki",
+      "kw": "Odnoklassniki"
+    },
+    "odnoklassniki-square": {
+      "name": "Odnoklassniki Square",
+      "kw": "Odnoklassniki Square"
+    },
+    "get-pocket": {
+      "name": "Get Pocket",
+      "kw": "Get Pocket"
+    },
+    "wikipedia-w": {
+      "name": "Wikipedia W",
+      "kw": "Wikipedia W"
+    },
+    "safari": {
+      "name": "Safari",
+      "kw": "Safari,browser"
+    },
+    "chrome": {
+      "name": "Chrome",
+      "kw": "Chrome,browser"
+    },
+    "firefox": {
+      "name": "Firefox",
+      "kw": "Firefox,browser"
+    },
+    "opera": {
+      "name": "Opera",
+      "kw": "Opera"
+    },
+    "internet-explorer": {
+      "name": "Internet-explorer",
+      "kw": "Internet-explorer,browser,ie"
+    },
+    "television": {
+      "name": "Television",
+      "kw": "Television,display,computer,monitor"
+    },
+    "contao": {
+      "name": "Contao",
+      "kw": "Contao"
+    },
+    "500px": {
+      "name": "500px",
+      "kw": "500px"
+    },
+    "amazon": {
+      "name": "Amazon",
+      "kw": "Amazon"
+    },
+    "calendar-plus-o": {
+      "name": "Calendar Plus Outlined",
+      "kw": "Calendar Plus Outlined"
+    },
+    "calendar-minus-o": {
+      "name": "Calendar Minus Outlined",
+      "kw": "Calendar Minus Outlined"
+    },
+    "calendar-times-o": {
+      "name": "Calendar Times Outlined",
+      "kw": "Calendar Times Outlined"
+    },
+    "calendar-check-o": {
+      "name": "Calendar Check Outlined",
+      "kw": "Calendar Check Outlined,ok"
+    },
+    "industry": {
+      "name": "Industry",
+      "kw": "Industry,factory"
+    },
+    "map-pin": {
+      "name": "Map Pin",
+      "kw": "Map Pin"
+    },
+    "map-signs": {
+      "name": "Map Signs",
+      "kw": "Map Signs"
+    },
+    "map-o": {
+      "name": "Map Outlined",
+      "kw": "Map Outlined"
+    },
+    "map": {
+      "name": "Map",
+      "kw": "Map"
+    },
+    "commenting": {
+      "name": "Commenting",
+      "kw": "Commenting,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "commenting-o": {
+      "name": "Commenting Outlined",
+      "kw": "Commenting Outlined,speech,notification,note,chat,bubble,feedback,message,texting,sms,conversation"
+    },
+    "houzz": {
+      "name": "Houzz",
+      "kw": "Houzz"
+    },
+    "vimeo": {
+      "name": "Vimeo",
+      "kw": "Vimeo"
+    },
+    "black-tie": {
+      "name": "Font Awesome Black Tie",
+      "kw": "Font Awesome Black Tie"
+    },
+    "fonticons": {
+      "name": "Fonticons",
+      "kw": "Fonticons"
+    },
+    "reddit-alien": {
+      "name": "reddit Alien",
+      "kw": "reddit Alien"
+    },
+    "edge": {
+      "name": "Edge Browser",
+      "kw": "Edge Browser,browser,ie"
+    },
+    "credit-card-alt": {
+      "name": "Credit Card",
+      "kw": "Credit Card,money,buy,debit,checkout,purchase,payment,credit card"
+    },
+    "codiepie": {
+      "name": "Codie Pie",
+      "kw": "Codie Pie"
+    },
+    "modx": {
+      "name": "MODX",
+      "kw": "MODX"
+    },
+    "fort-awesome": {
+      "name": "Fort Awesome",
+      "kw": "Fort Awesome"
+    },
+    "usb": {
+      "name": "USB",
+      "kw": "USB"
+    },
+    "product-hunt": {
+      "name": "Product Hunt",
+      "kw": "Product Hunt"
+    },
+    "mixcloud": {
+      "name": "Mixcloud",
+      "kw": "Mixcloud"
+    },
+    "scribd": {
+      "name": "Scribd",
+      "kw": "Scribd"
+    },
+    "pause-circle": {
+      "name": "Pause Circle",
+      "kw": "Pause Circle"
+    },
+    "pause-circle-o": {
+      "name": "Pause Circle Outlined",
+      "kw": "Pause Circle Outlined"
+    },
+    "stop-circle": {
+      "name": "Stop Circle",
+      "kw": "Stop Circle"
+    },
+    "stop-circle-o": {
+      "name": "Stop Circle Outlined",
+      "kw": "Stop Circle Outlined"
+    },
+    "shopping-bag": {
+      "name": "Shopping Bag",
+      "kw": "Shopping Bag"
+    },
+    "shopping-basket": {
+      "name": "Shopping Basket",
+      "kw": "Shopping Basket"
+    },
+    "hashtag": {
+      "name": "Hashtag",
+      "kw": "Hashtag"
+    },
+    "bluetooth": {
+      "name": "Bluetooth",
+      "kw": "Bluetooth"
+    },
+    "bluetooth-b": {
+      "name": "Bluetooth",
+      "kw": "Bluetooth"
+    },
+    "percent": {
+      "name": "Percent",
+      "kw": "Percent"
+    },
+    "gitlab": {
+      "name": "GitLab",
+      "kw": "GitLab"
+    },
+    "wpbeginner": {
+      "name": "WPBeginner",
+      "kw": "WPBeginner"
+    },
+    "wpforms": {
+      "name": "WPForms",
+      "kw": "WPForms"
+    },
+    "envira": {
+      "name": "Envira Gallery",
+      "kw": "Envira Gallery,leaf"
+    },
+    "universal-access": {
+      "name": "Universal Access",
+      "kw": "Universal Access"
+    },
+    "wheelchair-alt": {
+      "name": "Wheelchair Alt",
+      "kw": "Wheelchair Alt,handicap,person"
+    },
+    "question-circle-o": {
+      "name": "Question Circle Outlined",
+      "kw": "Question Circle Outlined"
+    },
+    "blind": {
+      "name": "Blind",
+      "kw": "Blind"
+    },
+    "audio-description": {
+      "name": "Audio Description",
+      "kw": "Audio Description"
+    },
+    "volume-control-phone": {
+      "name": "Volume Control Phone",
+      "kw": "Volume Control Phone,telephone"
+    },
+    "braille": {
+      "name": "Braille",
+      "kw": "Braille"
+    },
+    "assistive-listening-systems": {
+      "name": "Assistive Listening Systems",
+      "kw": "Assistive Listening Systems"
+    },
+    "american-sign-language-interpreting": {
+      "name": "American Sign Language Interpreting",
+      "kw": "American Sign Language Interpreting"
+    },
+    "deaf": {
+      "name": "Deaf",
+      "kw": "Deaf"
+    },
+    "glide": {
+      "name": "Glide",
+      "kw": "Glide"
+    },
+    "glide-g": {
+      "name": "Glide G",
+      "kw": "Glide G"
+    },
+    "sign-language": {
+      "name": "Sign Language",
+      "kw": "Sign Language"
+    },
+    "low-vision": {
+      "name": "Low Vision",
+      "kw": "Low Vision"
+    },
+    "viadeo": {
+      "name": "Viadeo",
+      "kw": "Viadeo"
+    },
+    "viadeo-square": {
+      "name": "Viadeo Square",
+      "kw": "Viadeo Square"
+    },
+    "snapchat": {
+      "name": "Snapchat",
+      "kw": "Snapchat"
+    },
+    "snapchat-ghost": {
+      "name": "Snapchat Ghost",
+      "kw": "Snapchat Ghost"
+    },
+    "snapchat-square": {
+      "name": "Snapchat Square",
+      "kw": "Snapchat Square"
+    },
+    "pied-piper": {
+      "name": "Pied Piper Logo",
+      "kw": "Pied Piper Logo"
+    },
+    "first-order": {
+      "name": "First Order",
+      "kw": "First Order"
+    },
+    "yoast": {
+      "name": "Yoast",
+      "kw": "Yoast"
+    },
+    "themeisle": {
+      "name": "ThemeIsle",
+      "kw": "ThemeIsle"
+    },
+    "google-plus-official": {
+      "name": "Google Plus Official",
+      "kw": "Google Plus Official"
+    },
+    "font-awesome": {
+      "name": "Font Awesome",
+      "kw": "Font Awesome"
+    },
+    "handshake-o": {
+      "name": "Handshake Outlined",
+      "kw": "Handshake Outlined"
+    },
+    "envelope-open": {
+      "name": "Envelope Open",
+      "kw": "Envelope Open,email,e-mail,letter,support,mail,message,notification"
+    },
+    "envelope-open-o": {
+      "name": "Envelope Open Outlined",
+      "kw": "Envelope Open Outlined,email,e-mail,letter,support,mail,message,notification"
+    },
+    "linode": {
+      "name": "Linode",
+      "kw": "Linode"
+    },
+    "address-book": {
+      "name": "Address Book",
+      "kw": "Address Book"
+    },
+    "address-book-o": {
+      "name": "Address Book Outlined",
+      "kw": "Address Book Outlined"
+    },
+    "address-card": {
+      "name": "Address Card",
+      "kw": "Address Card"
+    },
+    "address-card-o": {
+      "name": "Address Card Outlined",
+      "kw": "Address Card Outlined"
+    },
+    "user-circle": {
+      "name": "User Circle",
+      "kw": "User Circle"
+    },
+    "user-circle-o": {
+      "name": "User Circle Outlined",
+      "kw": "User Circle Outlined"
+    },
+    "user-o": {
+      "name": "User Outlined",
+      "kw": "User Outlined"
+    },
+    "id-badge": {
+      "name": "Identification Badge",
+      "kw": "Identification Badge"
+    },
+    "id-card": {
+      "name": "Identification Card",
+      "kw": "Identification Card"
+    },
+    "id-card-o": {
+      "name": "Identification Card Outlined",
+      "kw": "Identification Card Outlined"
+    },
+    "quora": {
+      "name": "Quora",
+      "kw": "Quora"
+    },
+    "free-code-camp": {
+      "name": "Free Code Camp",
+      "kw": "Free Code Camp"
+    },
+    "telegram": {
+      "name": "Telegram",
+      "kw": "Telegram"
+    },
+    "thermometer-full": {
+      "name": "Thermometer Full",
+      "kw": "Thermometer Full"
+    },
+    "thermometer-three-quarters": {
+      "name": "Thermometer 3/4 Full",
+      "kw": "Thermometer 3/4 Full"
+    },
+    "thermometer-half": {
+      "name": "Thermometer 1/2 Full",
+      "kw": "Thermometer 1/2 Full"
+    },
+    "thermometer-quarter": {
+      "name": "Thermometer 1/4 Full",
+      "kw": "Thermometer 1/4 Full"
+    },
+    "thermometer-empty": {
+      "name": "Thermometer Empty",
+      "kw": "Thermometer Empty"
+    },
+    "shower": {
+      "name": "Shower",
+      "kw": "Shower"
+    },
+    "bath": {
+      "name": "Bath",
+      "kw": "Bath"
+    },
+    "podcast": {
+      "name": "Podcast",
+      "kw": "Podcast"
+    },
+    "window-maximize": {
+      "name": "Window Maximize",
+      "kw": "Window Maximize"
+    },
+    "window-minimize": {
+      "name": "Window Minimize",
+      "kw": "Window Minimize"
+    },
+    "window-restore": {
+      "name": "Window Restore",
+      "kw": "Window Restore"
+    },
+    "window-close": {
+      "name": "Window Close",
+      "kw": "Window Close"
+    },
+    "window-close-o": {
+      "name": "Window Close Outline",
+      "kw": "Window Close Outline"
+    },
+    "bandcamp": {
+      "name": "Bandcamp",
+      "kw": "Bandcamp"
+    },
+    "grav": {
+      "name": "Grav",
+      "kw": "Grav"
+    },
+    "etsy": {
+      "name": "Etsy",
+      "kw": "Etsy"
+    },
+    "imdb": {
+      "name": "IMDB",
+      "kw": "IMDB"
+    },
+    "ravelry": {
+      "name": "Ravelry",
+      "kw": "Ravelry"
+    },
+    "eercast": {
+      "name": "Eercast",
+      "kw": "Eercast"
+    },
+    "microchip": {
+      "name": "Microchip",
+      "kw": "Microchip"
+    },
+    "snowflake-o": {
+      "name": "Snowflake Outlined",
+      "kw": "Snowflake Outlined"
+    },
+    "superpowers": {
+      "name": "Superpowers",
+      "kw": "Superpowers"
+    },
+    "wpexplorer": {
+      "name": "WPExplorer",
+      "kw": "WPExplorer"
+    },
+    "meetup": {
+      "name": "Meetup",
+      "kw": "Meetup"
+    }
+  }
+}

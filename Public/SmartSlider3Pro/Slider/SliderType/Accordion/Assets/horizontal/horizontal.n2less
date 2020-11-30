@@ -1,0 +1,113 @@
+(~'div@{sliderid}') {
+  width: @width;
+
+  .n2-ss-slider-1 {
+    position: relative;
+  }
+
+  .n2-ss-slider-2 {
+    position: relative;
+    padding: @outerSpacing;
+    overflow: hidden;
+    background-color: @outerColor;
+
+    border-radius: @borderRadius;
+    background-clip: padding-box;
+  }
+
+  .n2-ss-slider-3 {
+    display: flex;
+    position: relative;
+    padding: @innerSpacing;
+    background-color: @innerColor;
+    border-radius: @borderRadius;
+  }
+
+  .n2-ss-slide {
+    display: flex;
+    flex: 0 0 auto;
+  }
+
+  .n2-ss-slide-active {
+    flex: 1 1 auto;
+  }
+
+  .n2-accordion-title {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+    flex: 0 0 auto;
+    display: flex;
+    font-size: 16px;
+    width: @titlewidth;
+    cursor: pointer;
+    background-color: @titleColor;
+    border-radius: @titleBorderRadius;
+    margin: @slideSpacing 0 @slideSpacing @slideSpacing;
+  }
+
+  .n2-accordion-title-inner {
+    overflow: hidden;
+    direction: ltr;
+    width: 100%;
+
+    .n2-accordion-title-rotate-90 {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: -10px;
+      line-height: @titlewidth;
+
+      transform: rotate(-90deg);
+      transform-origin: 0 0;
+      white-space: nowrap;
+      padding: 0 @titleSpacing;
+    }
+  }
+
+  &.n2-has-hover .n2-accordion-title:HOVER,
+  .n2-ss-slide-active .n2-accordion-title {
+    background-color: @titleColorActive;
+    box-shadow: 0 0 0 1px RGBA(255, 255, 255, .05) inset;
+  }
+
+  &.n2-has-hover .n2-accordion-title:HOVER,
+  .n2-ss-slide-active .n2-accordion-title {
+    .n2-accordion-title-rotate-90 {
+      line-height: @titlewidth;
+    }
+  }
+
+  .n2-ss-slide-active .n2-accordion-title {
+    cursor: default;
+  }
+
+  .n2-ss-slide-active .n2-accordion-title {
+
+    border-radius: @titleBorderRadius 0 0 @titleBorderRadius;
+    background-clip: padding-box;
+  }
+
+  .n2-accordion-slide {
+    position: relative;
+    z-index: 1;
+    width: 0;
+    overflow: hidden;
+    background: @border2rgba;
+
+    border-radius: 0 @titleBorderRadius @titleBorderRadius 0;
+    background-clip: padding-box;
+
+    height: @canvasheight;
+    margin: @slideSpacing @slideSpacing @slideSpacing 0;
+  }
+
+  .n2-ss-slide-active .n2-accordion-slide {
+    width: @canvaswidth;
+  }
+
+  .n2-ss-canvas {
+    width: @canvaswidth;
+    height: 100%;
+  }
+}
